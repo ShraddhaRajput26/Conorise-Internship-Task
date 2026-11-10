@@ -1,0 +1,3001 @@
+customer_id,gender,contract,payment_method,tenure_months,purchase_frequency,monthly_charges,support_tickets,days_since_last_activity,churn
+CU00001,Male,One year,Cash,8,3,74.67,2,99,Yes
+CU00002,Male,Month-to-month,Bank transfer,53,3,100.91,1,51,No
+CU00003,Female,One year,Cash,12,2,131.13,2,80,Yes
+CU00004,Male,Month-to-month,Bank transfer,12,5,57.46,2,44,Yes
+CU00005,Male,Month-to-month,Cash,19,3,56.1,1,127,No
+CU00006,Male,Two year,Bank transfer,32,4,60.87,2,76,No
+CU00007,Male,Month-to-month,UPI,63,6,75.21,2,67,No
+CU00008,Male,Month-to-month,Cash,54,6,43.63,1,126,Yes
+CU00009,Female,One year,UPI,53,11,30.93,1,13,No
+CU00010,Female,One year,UPI,15,11,59.18,2,21,No
+CU00011,Male,Month-to-month,UPI,47,8,72.75,4,28,No
+CU00012,Female,One year,Bank transfer,25,6,107.86,1,70,No
+CU00013,Female,One year,UPI,34,5,38.02,1,17,No
+CU00014,Female,Two year,Bank transfer,45,9,93.24,3,128,No
+CU00015,Male,Month-to-month,Cash,12,8,62.44,2,100,Yes
+CU00016,Female,Month-to-month,Cash,25,2,58.9,1,70,Yes
+CU00017,Male,Two year,UPI,29,10,26.2,0,51,No
+CU00018,Male,One year,Bank transfer,63,5,74.8,3,40,No
+CU00019,Female,Month-to-month,Cash,69,2,71.87,2,147,No
+CU00020,Male,One year,Cash,68,3,121.69,1,84,No
+CU00021,Female,Month-to-month,Bank transfer,38,7,58.55,0,65,Yes
+CU00022,Female,Two year,Card,46,7,103.84,5,2,Yes
+CU00023,Male,One year,Cash,51,10,57.38,1,33,No
+CU00024,Female,Two year,Bank transfer,56,7,56.46,0,68,No
+CU00025,Male,One year,UPI,49,8,22.99,1,67,No
+CU00026,Male,Two year,Card,65,5,93.74,3,78,No
+CU00027,Female,Month-to-month,Bank transfer,28,7,68.44,0,15,No
+CU00028,Female,Month-to-month,Bank transfer,50,4,64.88,4,33,Yes
+CU00029,Female,Month-to-month,UPI,44,4,57.74,1,59,No
+CU00030,Female,Two year,UPI,55,6,70.89,5,37,No
+CU00031,Female,One year,Cash,66,10,47.22,2,19,No
+CU00032,Female,Month-to-month,Bank transfer,6,6,76.24,0,15,Yes
+CU00033,Female,Month-to-month,Bank transfer,61,7,41.14,2,130,Yes
+CU00034,Female,One year,UPI,59,4,61.65,0,134,No
+CU00035,Female,One year,Bank transfer,62,8,77.43,1,124,No
+CU00036,Male,Month-to-month,Cash,20,5,100.19,0,7,No
+CU00037,Female,One year,Card,42,5,70.25,3,105,Yes
+CU00038,Female,Month-to-month,Card,6,8,97.42,1,133,Yes
+CU00039,Male,Month-to-month,Card,5,9,64.69,3,18,Yes
+CU00040,Male,Month-to-month,Card,42,10,41.62,1,143,Yes
+CU00041,Female,Month-to-month,Card,69,6,117.04,2,105,No
+CU00042,Female,Month-to-month,UPI,17,3,62.11,1,86,Yes
+CU00043,Male,Two year,Card,57,5,88.67,1,21,No
+CU00044,Male,Month-to-month,UPI,6,4,49.48,3,133,Yes
+CU00045,Female,Month-to-month,Card,5,2,78.02,1,144,Yes
+CU00046,Female,Month-to-month,Card,44,3,73.61,0,78,No
+CU00047,Female,Month-to-month,Bank transfer,20,8,65.0,1,81,No
+CU00048,Female,Two year,UPI,7,7,115.73,1,5,No
+CU00049,Male,One year,Cash,65,5,75.72,1,12,No
+CU00050,Male,One year,Bank transfer,63,11,55.72,1,37,No
+CU00051,Male,Month-to-month,UPI,2,4,104.35,1,11,No
+CU00052,Male,Month-to-month,Bank transfer,69,10,19.72,0,145,No
+CU00053,Male,Month-to-month,Cash,2,8,28.55,2,62,No
+CU00054,Male,One year,Card,53,6,87.0,1,122,No
+CU00055,Male,Month-to-month,Bank transfer,56,8,70.67,1,50,Yes
+CU00056,Female,Two year,UPI,21,5,51.34,1,147,No
+CU00057,Female,Two year,Cash,10,5,74.81,2,85,Yes
+CU00058,Male,One year,UPI,40,7,91.66,1,64,No
+CU00059,Female,Month-to-month,Card,63,6,38.58,0,3,No
+CU00060,Female,One year,Cash,3,6,62.81,0,34,No
+CU00061,Male,Month-to-month,Cash,61,5,65.96,2,41,Yes
+CU00062,Female,Two year,UPI,45,4,72.66,1,39,No
+CU00063,Female,Month-to-month,UPI,71,7,81.11,2,44,Yes
+CU00064,Male,One year,Bank transfer,19,4,15.8,1,123,Yes
+CU00065,Female,Month-to-month,Card,46,4,78.4,3,105,No
+CU00066,Female,One year,Cash,33,10,17.28,1,30,No
+CU00067,Male,Month-to-month,Card,46,8,64.07,3,73,Yes
+CU00068,Female,Month-to-month,Card,13,6,38.62,2,91,Yes
+CU00069,Female,Month-to-month,UPI,36,9,69.91,0,123,No
+CU00070,Female,Month-to-month,Bank transfer,71,6,81.64,2,134,Yes
+CU00071,Female,Month-to-month,Cash,60,6,66.43,0,56,Yes
+CU00072,Male,Two year,Card,15,7,48.67,2,122,Yes
+CU00073,Male,Month-to-month,UPI,5,9,32.1,0,30,Yes
+CU00074,Female,One year,Cash,30,8,64.08,0,63,No
+CU00075,Male,Month-to-month,UPI,17,7,54.82,2,45,Yes
+CU00076,Female,One year,UPI,19,7,73.41,1,58,No
+CU00077,Male,Two year,UPI,13,7,54.23,2,26,No
+CU00078,Female,Month-to-month,Bank transfer,39,3,100.05,3,89,Yes
+CU00079,Female,Two year,Cash,7,5,66.17,2,126,No
+CU00080,Male,One year,Cash,65,3,87.99,2,65,No
+CU00081,Male,One year,Cash,3,9,52.52,3,45,No
+CU00082,Female,Month-to-month,Card,12,2,83.38,0,41,No
+CU00083,Male,Two year,UPI,40,5,80.6,1,75,No
+CU00084,Female,Two year,Bank transfer,10,8,47.98,2,16,Yes
+CU00085,Female,Month-to-month,UPI,36,7,27.56,0,33,Yes
+CU00086,Female,Month-to-month,Bank transfer,6,8,96.71,1,46,Yes
+CU00087,Female,Month-to-month,UPI,62,4,54.5,3,89,No
+CU00088,Male,Month-to-month,Bank transfer,42,3,48.85,1,21,No
+CU00089,Female,Month-to-month,Bank transfer,22,8,57.49,0,136,Yes
+CU00090,Female,Two year,Card,43,5,41.33,1,9,No
+CU00091,Female,Two year,Cash,39,6,80.75,2,117,Yes
+CU00092,Male,Month-to-month,Card,59,5,64.78,2,134,No
+CU00093,Male,Month-to-month,UPI,52,6,66.31,1,145,Yes
+CU00094,Female,One year,Cash,60,6,93.46,3,98,No
+CU00095,Male,Two year,Card,62,2,67.49,2,126,Yes
+CU00096,Female,One year,UPI,8,3,104.39,1,144,Yes
+CU00097,Female,Two year,Bank transfer,55,4,64.5,1,44,No
+CU00098,Female,One year,Bank transfer,65,8,27.35,2,112,No
+CU00099,Male,Month-to-month,Cash,15,3,42.84,1,14,No
+CU00100,Female,Month-to-month,Bank transfer,59,2,46.82,1,109,No
+CU00101,Female,Two year,Bank transfer,44,9,67.82,3,108,Yes
+CU00102,Male,One year,Card,46,10,103.05,1,71,No
+CU00103,Female,One year,Cash,51,6,69.72,0,21,No
+CU00104,Female,One year,UPI,25,5,59.29,2,92,Yes
+CU00105,Male,Month-to-month,Card,64,7,57.42,2,14,No
+CU00106,Female,Month-to-month,Card,53,8,78.64,5,14,Yes
+CU00107,Female,Two year,Cash,32,5,75.39,0,84,No
+CU00108,Male,Month-to-month,Card,45,3,84.94,4,99,No
+CU00109,Female,Month-to-month,Card,68,4,47.41,1,58,No
+CU00110,Female,One year,Cash,26,3,121.27,2,96,Yes
+CU00111,Female,Month-to-month,Bank transfer,64,8,56.39,1,98,No
+CU00112,Male,One year,Bank transfer,1,5,49.12,1,73,No
+CU00113,Female,One year,Card,57,3,94.87,0,88,No
+CU00114,Male,One year,UPI,43,5,87.56,1,98,Yes
+CU00115,Female,Two year,Cash,51,8,48.9,1,97,No
+CU00116,Male,Month-to-month,Bank transfer,41,4,81.95,1,121,Yes
+CU00117,Male,Two year,Card,34,5,54.35,2,93,No
+CU00118,Female,One year,Bank transfer,11,8,75.47,2,62,No
+CU00119,Male,Two year,Card,18,9,70.87,5,30,No
+CU00120,Male,Two year,Card,65,9,128.64,2,49,No
+CU00121,Female,Month-to-month,Card,29,6,99.76,2,70,Yes
+CU00122,Male,Month-to-month,UPI,12,8,91.67,1,44,No
+CU00123,Female,Month-to-month,Bank transfer,10,6,84.14,1,0,Yes
+CU00124,Female,One year,Bank transfer,21,11,33.67,1,131,No
+CU00125,Female,Month-to-month,Cash,52,5,69.63,1,105,Yes
+CU00126,Male,Month-to-month,UPI,27,6,54.03,2,145,No
+CU00127,Female,Two year,UPI,31,9,63.72,2,133,No
+CU00128,Female,Two year,UPI,49,5,67.15,2,120,No
+CU00129,Male,One year,UPI,43,3,22.13,2,142,Yes
+CU00130,Male,Month-to-month,UPI,6,6,57.9,2,103,No
+CU00131,Female,Two year,Card,28,7,68.18,3,146,Yes
+CU00132,Female,Two year,Bank transfer,50,3,88.13,2,126,Yes
+CU00133,Male,Month-to-month,Bank transfer,51,4,45.41,2,82,Yes
+CU00134,Male,Month-to-month,Bank transfer,30,8,45.24,1,114,No
+CU00135,Female,Two year,Card,16,7,43.58,1,80,Yes
+CU00136,Male,Month-to-month,Bank transfer,13,7,57.05,0,45,Yes
+CU00137,Female,One year,Cash,7,4,36.81,2,18,No
+CU00138,Female,One year,Cash,8,9,98.17,1,39,No
+CU00139,Female,Month-to-month,UPI,69,4,84.4,1,118,Yes
+CU00140,Male,Month-to-month,Card,30,8,132.88,3,130,Yes
+CU00141,Female,One year,Cash,23,5,51.71,2,149,Yes
+CU00142,Male,One year,Card,32,4,86.51,0,128,No
+CU00143,Male,Two year,UPI,37,4,34.66,0,16,No
+CU00144,Female,Month-to-month,Cash,10,3,101.74,1,42,Yes
+CU00145,Female,Two year,Bank transfer,65,6,59.64,3,95,No
+CU00146,Male,Month-to-month,UPI,35,5,62.89,1,40,Yes
+CU00147,Female,Month-to-month,Cash,40,5,96.89,1,36,Yes
+CU00148,Female,Two year,Card,36,10,95.36,0,144,Yes
+CU00149,Female,Month-to-month,Cash,67,4,40.5,1,120,No
+CU00150,Male,Month-to-month,Card,70,11,62.35,2,86,No
+CU00151,Female,Month-to-month,Card,9,2,100.62,1,16,Yes
+CU00152,Female,One year,UPI,51,5,55.8,1,113,No
+CU00153,Male,One year,UPI,12,6,72.65,3,85,No
+CU00154,Male,Two year,Bank transfer,1,6,78.45,3,6,No
+CU00155,Male,Month-to-month,Bank transfer,40,6,100.22,0,108,Yes
+CU00156,Female,Month-to-month,UPI,34,7,81.69,2,76,Yes
+CU00157,Female,Month-to-month,UPI,35,0,58.91,3,92,Yes
+CU00158,Male,Two year,UPI,2,3,15.91,0,60,No
+CU00159,Female,One year,Cash,46,3,82.59,2,78,No
+CU00160,Male,Month-to-month,Cash,37,3,69.31,2,39,Yes
+CU00161,Female,Month-to-month,Bank transfer,5,5,109.4,1,50,Yes
+CU00162,Male,Month-to-month,UPI,24,4,79.39,0,47,Yes
+CU00163,Female,One year,Bank transfer,10,3,50.83,3,28,Yes
+CU00164,Female,Month-to-month,UPI,65,2,33.84,4,127,Yes
+CU00165,Male,One year,Card,53,13,60.69,0,44,Yes
+CU00166,Female,Month-to-month,UPI,36,7,74.07,1,2,No
+CU00167,Female,Month-to-month,UPI,7,4,67.62,2,64,Yes
+CU00168,Male,One year,Bank transfer,61,5,33.45,2,104,No
+CU00169,Female,One year,Cash,26,7,15.0,0,108,No
+CU00170,Female,Month-to-month,Cash,42,4,41.08,1,76,No
+CU00171,Male,One year,Cash,52,6,15.0,0,1,Yes
+CU00172,Male,Two year,Cash,29,5,40.46,1,56,No
+CU00173,Female,One year,Card,70,3,71.04,1,99,No
+CU00174,Male,One year,UPI,17,2,101.15,0,134,No
+CU00175,Male,One year,Card,25,7,15.0,1,97,No
+CU00176,Male,Month-to-month,UPI,14,10,39.37,3,113,Yes
+CU00177,Female,Month-to-month,Cash,25,5,74.88,0,134,Yes
+CU00178,Female,Month-to-month,Bank transfer,57,1,53.74,3,90,Yes
+CU00179,Male,Month-to-month,Bank transfer,34,7,69.07,2,79,Yes
+CU00180,Female,One year,Cash,63,6,74.43,2,62,No
+CU00181,Male,One year,Cash,64,9,54.7,0,52,No
+CU00182,Female,Month-to-month,Card,24,6,95.12,1,137,Yes
+CU00183,Female,Two year,UPI,57,5,125.72,2,18,No
+CU00184,Male,Two year,Cash,36,8,38.32,0,140,No
+CU00185,Male,Month-to-month,UPI,31,7,88.17,1,98,No
+CU00186,Female,Month-to-month,Cash,21,8,117.7,2,110,Yes
+CU00187,Female,Month-to-month,UPI,5,13,101.18,2,99,No
+CU00188,Male,Two year,UPI,33,7,47.77,1,63,No
+CU00189,Male,One year,UPI,48,7,56.8,2,119,No
+CU00190,Female,One year,Bank transfer,62,11,21.69,1,147,Yes
+CU00191,Male,Two year,Card,30,5,50.75,1,48,No
+CU00192,Female,One year,Cash,10,3,51.51,0,6,No
+CU00193,Male,Two year,Cash,34,13,76.44,2,61,Yes
+CU00194,Male,Month-to-month,Card,21,8,36.59,1,127,No
+CU00195,Male,Month-to-month,Bank transfer,66,9,66.8,4,17,No
+CU00196,Female,Month-to-month,Cash,50,4,70.21,1,44,No
+CU00197,Female,Two year,Card,65,7,53.35,1,121,No
+CU00198,Male,Month-to-month,Card,23,4,85.96,5,73,No
+CU00199,Male,Month-to-month,Bank transfer,32,7,53.7,1,79,Yes
+CU00200,Female,Two year,Cash,6,8,73.14,1,12,Yes
+CU00201,Male,Month-to-month,Card,10,6,32.52,0,122,Yes
+CU00202,Female,One year,Card,27,5,45.54,2,69,Yes
+CU00203,Female,Month-to-month,UPI,29,4,89.01,3,82,Yes
+CU00204,Male,Month-to-month,Bank transfer,49,0,23.22,1,34,No
+CU00205,Male,Month-to-month,Bank transfer,16,6,83.82,2,2,No
+CU00206,Male,Two year,Card,70,4,56.81,1,47,No
+CU00207,Male,Month-to-month,UPI,56,5,15.0,1,26,No
+CU00208,Male,Month-to-month,UPI,64,6,53.88,2,84,No
+CU00209,Male,One year,UPI,22,11,83.35,2,45,No
+CU00210,Male,Month-to-month,Card,40,3,122.67,2,145,Yes
+CU00211,Male,Month-to-month,UPI,37,8,111.64,0,40,No
+CU00212,Male,Month-to-month,Card,56,9,41.74,1,33,No
+CU00213,Female,Two year,UPI,61,2,84.98,0,43,Yes
+CU00214,Female,Two year,Cash,41,8,53.8,3,51,No
+CU00215,Female,Month-to-month,Card,70,3,49.71,2,112,No
+CU00216,Female,One year,Cash,36,2,90.15,5,35,Yes
+CU00217,Female,Month-to-month,Bank transfer,20,5,70.68,1,114,Yes
+CU00218,Male,Month-to-month,Bank transfer,13,6,70.77,0,75,Yes
+CU00219,Male,Month-to-month,UPI,27,2,23.06,1,124,Yes
+CU00220,Male,Two year,Cash,21,7,40.84,2,40,No
+CU00221,Male,One year,UPI,15,3,42.48,1,66,No
+CU00222,Male,One year,Card,33,9,77.82,1,28,No
+CU00223,Female,Month-to-month,UPI,19,6,83.3,4,63,Yes
+CU00224,Female,One year,Bank transfer,70,9,108.39,1,97,No
+CU00225,Male,Month-to-month,Cash,22,12,41.47,2,83,Yes
+CU00226,Male,Month-to-month,UPI,44,4,108.98,2,26,Yes
+CU00227,Male,Two year,Card,54,6,58.49,2,101,Yes
+CU00228,Male,Two year,Cash,68,6,66.98,0,84,No
+CU00229,Female,Two year,Cash,49,2,62.08,2,82,Yes
+CU00230,Female,One year,Bank transfer,19,7,71.34,2,8,No
+CU00231,Male,One year,Card,40,12,82.43,2,58,No
+CU00232,Male,Month-to-month,Cash,5,6,90.94,1,107,Yes
+CU00233,Female,Two year,Bank transfer,20,7,,1,59,Yes
+CU00234,Female,Month-to-month,Cash,70,3,67.22,2,0,Yes
+CU00235,Female,Month-to-month,Card,1,4,42.22,1,41,Yes
+CU00236,Female,Month-to-month,UPI,24,3,81.95,3,101,Yes
+CU00237,Male,Two year,Card,4,6,71.65,0,31,No
+CU00238,Female,Month-to-month,Bank transfer,39,6,45.57,1,21,No
+CU00239,Male,One year,UPI,54,2,33.91,3,111,No
+CU00240,Female,One year,Cash,6,6,69.02,0,105,No
+CU00241,Female,Month-to-month,UPI,10,9,97.66,1,88,No
+CU00242,Male,Two year,UPI,62,3,104.65,1,12,No
+CU00243,Male,Two year,Bank transfer,20,3,32.66,1,48,No
+CU00244,Female,Month-to-month,Cash,1,10,88.36,3,47,Yes
+CU00245,Female,Month-to-month,UPI,7,4,84.94,0,58,Yes
+CU00246,Female,One year,Card,65,11,99.62,1,106,No
+CU00247,Female,Month-to-month,Cash,66,4,76.89,1,136,Yes
+CU00248,Male,Month-to-month,UPI,12,3,56.64,2,92,Yes
+CU00249,Female,Two year,Card,20,8,84.65,1,19,No
+CU00250,Female,Month-to-month,Bank transfer,14,6,15.0,1,43,Yes
+CU00251,Female,Month-to-month,Bank transfer,35,7,40.21,1,13,Yes
+CU00252,Male,Month-to-month,UPI,59,6,43.26,2,68,No
+CU00253,Male,Month-to-month,Card,54,7,48.18,1,33,No
+CU00254,Male,Month-to-month,Cash,28,11,27.0,1,49,No
+CU00255,Female,Month-to-month,Cash,50,2,50.89,1,66,No
+CU00256,Female,One year,Bank transfer,19,1,51.16,0,1,Yes
+CU00257,Male,Two year,UPI,65,4,58.41,3,89,No
+CU00258,Male,Month-to-month,Bank transfer,43,2,72.1,1,84,Yes
+CU00259,Male,Two year,Bank transfer,66,6,33.72,3,74,No
+CU00260,Male,Month-to-month,Cash,19,5,53.68,2,148,Yes
+CU00261,Female,Month-to-month,Cash,68,5,62.71,2,61,No
+CU00262,Female,Two year,Bank transfer,21,6,18.65,4,77,No
+CU00263,Female,One year,Bank transfer,49,5,63.16,2,79,No
+CU00264,Female,Two year,Card,4,8,70.97,0,55,No
+CU00265,Male,One year,Card,17,2,83.95,0,140,Yes
+CU00266,Female,Two year,Cash,39,4,32.0,1,74,No
+CU00267,Female,Month-to-month,Card,36,4,61.21,1,143,Yes
+CU00268,Female,Month-to-month,Bank transfer,10,3,95.99,5,107,Yes
+CU00269,Male,Month-to-month,Bank transfer,1,7,21.6,2,141,Yes
+CU00270,Male,Two year,Card,60,4,64.83,2,14,Yes
+CU00271,Male,Month-to-month,UPI,18,5,26.94,3,92,No
+CU00272,Female,Month-to-month,Cash,54,7,54.26,2,67,Yes
+CU00273,Female,Two year,Bank transfer,13,2,44.88,2,70,Yes
+CU00274,Male,One year,UPI,21,8,74.36,0,26,No
+CU00275,Male,Month-to-month,Bank transfer,2,6,57.62,3,123,Yes
+CU00276,Male,Month-to-month,Card,38,5,33.08,1,97,No
+CU00277,Male,One year,Card,37,2,103.08,0,69,No
+CU00278,Male,Two year,Cash,41,2,69.45,1,142,Yes
+CU00279,Female,One year,Cash,54,5,89.67,1,65,No
+CU00280,Male,Month-to-month,Card,48,4,37.62,1,34,Yes
+CU00281,Male,Month-to-month,Card,15,5,55.17,0,84,No
+CU00282,Male,Month-to-month,UPI,30,9,89.98,1,58,Yes
+CU00283,Male,Two year,UPI,6,5,46.25,0,69,No
+CU00284,Male,One year,Bank transfer,47,6,64.87,2,40,No
+CU00285,Male,Two year,Cash,29,5,63.36,2,87,No
+CU00286,Male,Month-to-month,Cash,13,4,15.0,1,58,No
+CU00287,Female,Month-to-month,Bank transfer,63,2,63.28,0,134,Yes
+CU00288,Male,One year,Card,34,6,54.53,2,68,No
+CU00289,Female,One year,UPI,4,5,60.85,1,10,Yes
+CU00290,Female,Month-to-month,Bank transfer,7,3,47.01,3,116,Yes
+CU00291,Female,One year,Bank transfer,21,8,32.78,4,84,No
+CU00292,Male,Month-to-month,Bank transfer,67,4,44.66,2,84,No
+CU00293,Female,One year,Cash,7,7,51.83,0,18,No
+CU00294,Male,One year,UPI,29,7,80.17,0,75,No
+CU00295,Female,Month-to-month,Cash,29,7,51.0,2,116,Yes
+CU00296,Male,One year,Cash,44,6,67.75,2,4,No
+CU00297,Male,Month-to-month,Card,43,8,70.03,1,81,Yes
+CU00298,Female,Month-to-month,Card,35,5,,3,6,No
+CU00299,Male,Two year,UPI,58,11,89.29,2,18,No
+CU00300,Female,Two year,Cash,2,5,55.62,1,129,Yes
+CU00301,Male,Month-to-month,Bank transfer,28,8,50.97,1,87,Yes
+CU00302,Female,One year,Cash,5,3,92.62,1,124,Yes
+CU00303,Female,Month-to-month,UPI,22,5,68.42,1,49,Yes
+CU00304,Female,Two year,Bank transfer,19,1,15.0,1,20,No
+CU00305,Male,Month-to-month,Cash,63,4,15.0,2,15,No
+CU00306,Female,Month-to-month,UPI,48,8,104.84,1,131,No
+CU00307,Male,Month-to-month,Bank transfer,18,4,,1,132,Yes
+CU00308,Male,Two year,UPI,46,5,60.65,1,146,No
+CU00309,Female,Two year,Cash,60,7,15.0,1,77,No
+CU00310,Male,Month-to-month,Cash,14,7,61.34,2,107,No
+CU00311,Male,One year,Bank transfer,41,7,38.63,0,29,No
+CU00312,Female,Month-to-month,Card,35,5,57.11,3,69,No
+CU00313,Female,Month-to-month,Cash,65,6,46.79,1,66,Yes
+CU00314,Male,Month-to-month,UPI,27,8,57.76,1,33,Yes
+CU00315,Male,Two year,UPI,49,6,69.84,1,22,No
+CU00316,Female,Month-to-month,UPI,41,2,74.32,0,133,Yes
+CU00317,Male,Month-to-month,Bank transfer,23,3,63.37,3,58,No
+CU00318,Female,Two year,Cash,24,3,67.67,0,53,No
+CU00319,Male,Month-to-month,Cash,62,8,20.39,2,76,Yes
+CU00320,Male,Month-to-month,Card,64,10,62.9,3,36,No
+CU00321,Male,Two year,Cash,19,6,70.17,3,20,No
+CU00322,Male,Two year,Card,34,4,63.02,0,86,No
+CU00323,Female,Month-to-month,Bank transfer,11,2,102.15,0,130,Yes
+CU00324,Male,Month-to-month,Cash,31,2,58.39,2,135,Yes
+CU00325,Female,One year,Cash,62,7,31.89,1,30,No
+CU00326,Female,Month-to-month,Cash,50,5,,2,130,No
+CU00327,Male,One year,Card,35,12,50.64,5,52,No
+CU00328,Female,Month-to-month,Bank transfer,56,8,21.88,3,121,Yes
+CU00329,Male,Two year,Card,40,4,57.39,1,46,No
+CU00330,Female,Month-to-month,Bank transfer,32,10,101.9,2,46,Yes
+CU00331,Male,Month-to-month,Card,2,9,55.78,2,65,No
+CU00332,Male,One year,Card,8,5,92.08,2,114,Yes
+CU00333,Female,Month-to-month,UPI,39,7,82.94,3,61,Yes
+CU00334,Male,One year,Cash,7,7,124.17,0,134,No
+CU00335,Female,Two year,UPI,1,5,76.35,0,134,Yes
+CU00336,Female,One year,Cash,24,5,66.91,1,125,No
+CU00337,Female,Month-to-month,Bank transfer,40,10,67.23,4,30,Yes
+CU00338,Female,Two year,Card,53,10,71.96,1,91,Yes
+CU00339,Male,Month-to-month,Card,69,5,58.5,2,39,No
+CU00340,Male,Month-to-month,Bank transfer,47,7,52.29,1,84,No
+CU00341,Male,Month-to-month,Cash,70,7,76.53,1,12,Yes
+CU00342,Female,One year,Card,21,9,49.18,1,126,Yes
+CU00343,Female,Month-to-month,UPI,47,7,18.33,3,51,No
+CU00344,Female,Month-to-month,UPI,1,6,32.24,2,78,Yes
+CU00345,Male,Month-to-month,UPI,10,10,106.17,2,48,No
+CU00346,Female,Month-to-month,UPI,46,6,57.02,2,36,No
+CU00347,Male,One year,Cash,23,4,84.21,1,37,No
+CU00348,Female,Month-to-month,Cash,41,9,47.55,0,67,No
+CU00349,Male,One year,UPI,67,5,87.23,2,113,No
+CU00350,Female,Month-to-month,UPI,55,8,75.06,1,127,Yes
+CU00351,Male,Two year,Cash,25,9,114.78,2,38,No
+CU00352,Male,Month-to-month,Cash,49,9,97.92,1,2,No
+CU00353,Male,Month-to-month,Bank transfer,66,10,83.39,7,28,Yes
+CU00354,Female,Month-to-month,Bank transfer,18,5,50.28,0,62,No
+CU00355,Male,Two year,Cash,40,3,35.61,4,90,Yes
+CU00356,Female,One year,UPI,53,3,61.49,0,128,Yes
+CU00357,Male,Month-to-month,Cash,47,5,65.48,1,67,No
+CU00358,Male,Month-to-month,Bank transfer,35,7,54.78,1,81,No
+CU00359,Male,Month-to-month,UPI,31,5,82.63,1,59,No
+CU00360,Male,Month-to-month,Card,41,2,66.94,2,59,Yes
+CU00361,Female,One year,Cash,36,4,64.94,1,112,Yes
+CU00362,Female,Month-to-month,Bank transfer,26,4,103.1,2,106,Yes
+CU00363,Female,Month-to-month,Bank transfer,63,11,67.62,2,106,No
+CU00364,Female,One year,Card,57,4,31.12,1,92,Yes
+CU00365,Female,Month-to-month,Cash,46,3,90.6,0,120,No
+CU00366,Male,Month-to-month,Cash,14,8,70.24,2,84,No
+CU00367,Male,Month-to-month,Card,37,9,58.19,3,144,No
+CU00368,Female,Two year,Cash,15,5,41.1,2,34,No
+CU00369,Male,Two year,UPI,12,5,96.53,1,97,Yes
+CU00370,Female,One year,Bank transfer,17,5,107.26,0,138,Yes
+CU00371,Female,Two year,Cash,12,10,48.19,0,27,No
+CU00372,Male,Month-to-month,Cash,57,6,72.44,1,12,No
+CU00373,Female,Month-to-month,Cash,37,4,75.98,3,3,No
+CU00374,Female,Month-to-month,Card,52,2,21.41,1,103,Yes
+CU00375,Female,Month-to-month,Bank transfer,70,5,63.91,1,7,Yes
+CU00376,Female,Two year,Card,20,7,21.47,0,100,No
+CU00377,Male,Month-to-month,Cash,14,5,64.54,1,75,Yes
+CU00378,Female,Month-to-month,Bank transfer,11,5,121.58,2,19,Yes
+CU00379,Female,Month-to-month,UPI,2,6,28.77,1,47,No
+CU00380,Male,Two year,Card,3,7,111.91,0,14,No
+CU00381,Female,Two year,Cash,43,4,109.41,1,48,No
+CU00382,Male,One year,Bank transfer,49,5,64.86,1,51,No
+CU00383,Female,Month-to-month,Bank transfer,21,5,77.88,1,121,Yes
+CU00384,Male,Two year,Bank transfer,39,9,57.91,3,12,No
+CU00385,Male,Two year,Bank transfer,15,6,53.82,0,96,No
+CU00386,Female,One year,Card,50,1,70.08,2,143,Yes
+CU00387,Female,One year,Card,51,10,45.63,0,41,No
+CU00388,Male,Month-to-month,UPI,51,5,76.83,2,128,Yes
+CU00389,Male,One year,Cash,37,4,66.04,1,121,No
+CU00390,Female,Two year,Cash,60,10,38.32,2,142,No
+CU00391,Male,Month-to-month,Cash,6,8,82.74,1,44,Yes
+CU00392,Female,Month-to-month,UPI,30,4,83.39,2,148,Yes
+CU00393,Female,Month-to-month,UPI,5,4,93.08,3,124,Yes
+CU00394,Male,Two year,Bank transfer,59,5,53.01,1,33,No
+CU00395,Female,Month-to-month,Card,6,6,90.72,2,117,Yes
+CU00396,Female,Two year,Cash,31,8,119.17,2,115,No
+CU00397,Female,One year,Cash,14,3,65.74,1,12,No
+CU00398,Male,Month-to-month,Cash,51,3,67.97,1,68,No
+CU00399,Female,One year,Cash,29,4,81.97,3,131,No
+CU00400,Female,Month-to-month,Cash,40,7,15.0,2,6,No
+CU00401,Female,Month-to-month,Bank transfer,69,6,30.85,1,145,Yes
+CU00402,Male,Month-to-month,UPI,66,6,51.23,1,77,No
+CU00403,Male,One year,Cash,31,6,56.47,4,53,No
+CU00404,Male,Month-to-month,Card,27,7,67.8,1,12,No
+CU00405,Female,Month-to-month,Cash,22,2,71.68,2,91,No
+CU00406,Male,Two year,Bank transfer,49,9,30.68,1,147,No
+CU00407,Female,Month-to-month,Cash,71,4,93.81,2,62,No
+CU00408,Female,Two year,UPI,43,5,73.33,2,124,No
+CU00409,Female,Month-to-month,Bank transfer,41,3,66.5,1,47,No
+CU00410,Male,One year,Bank transfer,71,7,77.26,1,123,No
+CU00411,Female,Month-to-month,Cash,14,7,49.62,1,144,Yes
+CU00412,Female,Month-to-month,UPI,6,4,59.04,1,11,Yes
+CU00413,Male,One year,Bank transfer,7,4,37.93,1,40,No
+CU00414,Male,Two year,Card,43,9,15.0,2,1,No
+CU00415,Male,Month-to-month,Cash,64,2,59.09,5,115,Yes
+CU00416,Male,Month-to-month,Bank transfer,17,7,108.12,0,40,No
+CU00417,Male,One year,Cash,52,1,50.78,0,144,No
+CU00418,Female,Two year,Card,63,6,26.08,1,124,No
+CU00419,Male,One year,UPI,66,6,79.12,1,21,No
+CU00420,Male,Month-to-month,Bank transfer,57,6,53.03,1,86,No
+CU00421,Female,Month-to-month,Cash,27,5,75.93,1,68,No
+CU00422,Male,Two year,Card,47,3,81.52,1,97,No
+CU00423,Female,Month-to-month,UPI,40,7,52.34,0,88,No
+CU00424,Female,Month-to-month,Card,35,8,75.37,2,19,Yes
+CU00425,Male,One year,Cash,51,3,64.11,1,94,No
+CU00426,Female,Month-to-month,UPI,49,5,15.8,0,69,Yes
+CU00427,Male,Month-to-month,Card,58,2,51.89,2,46,No
+CU00428,Male,One year,Bank transfer,40,8,44.26,2,69,Yes
+CU00429,Female,Two year,Bank transfer,47,6,27.3,1,139,No
+CU00430,Male,Two year,Cash,21,8,43.82,1,146,Yes
+CU00431,Male,Month-to-month,UPI,34,3,81.78,1,49,No
+CU00432,Female,Two year,UPI,59,2,65.35,3,116,No
+CU00433,Female,One year,Bank transfer,55,5,18.61,2,117,No
+CU00434,Female,Month-to-month,Bank transfer,37,3,37.23,3,20,Yes
+CU00435,Male,Month-to-month,Card,41,5,65.38,1,76,Yes
+CU00436,Male,Two year,Bank transfer,19,9,64.93,1,68,No
+CU00437,Male,Month-to-month,Bank transfer,28,11,56.99,5,71,No
+CU00438,Male,Month-to-month,Card,48,6,83.83,3,115,Yes
+CU00439,Female,One year,Cash,9,7,74.23,3,144,Yes
+CU00440,Male,One year,Card,2,5,50.72,1,117,Yes
+CU00441,Female,Month-to-month,Bank transfer,43,5,48.12,0,12,No
+CU00442,Male,One year,Bank transfer,52,6,59.96,2,68,No
+CU00443,Female,One year,UPI,70,8,15.0,3,143,No
+CU00444,Male,Two year,Bank transfer,34,8,72.3,1,123,No
+CU00445,Male,One year,UPI,9,9,33.59,2,134,No
+CU00446,Male,Month-to-month,Cash,46,6,95.24,1,71,No
+CU00447,Female,Two year,UPI,22,5,22.2,4,120,Yes
+CU00448,Female,One year,Bank transfer,12,6,74.24,2,5,Yes
+CU00449,Male,Month-to-month,UPI,45,4,15.22,1,66,No
+CU00450,Male,Month-to-month,Card,51,8,48.86,0,121,Yes
+CU00451,Male,One year,Card,4,4,74.89,0,75,Yes
+CU00452,Male,Month-to-month,Bank transfer,52,6,87.93,3,149,Yes
+CU00453,Male,Month-to-month,Cash,41,8,86.68,0,5,Yes
+CU00454,Female,Month-to-month,Card,53,7,82.18,2,41,No
+CU00455,Male,One year,Card,45,2,84.96,0,65,Yes
+CU00456,Female,Month-to-month,Bank transfer,34,10,87.07,2,99,Yes
+CU00457,Male,One year,Card,24,3,50.85,2,43,No
+CU00458,Female,One year,Cash,46,11,55.29,2,60,No
+CU00459,Female,Month-to-month,Cash,15,5,81.74,2,80,Yes
+CU00460,Female,Two year,Card,39,6,92.18,1,60,No
+CU00461,Male,Month-to-month,Card,54,5,60.77,0,80,Yes
+CU00462,Female,One year,UPI,17,8,51.08,4,137,No
+CU00463,Male,Month-to-month,Card,7,6,50.24,3,87,Yes
+CU00464,Male,One year,Card,2,7,43.68,1,143,Yes
+CU00465,Female,Two year,Cash,40,7,76.1,2,57,Yes
+CU00466,Female,Month-to-month,Card,30,8,92.69,3,16,No
+CU00467,Female,Two year,Bank transfer,47,4,76.48,2,111,Yes
+CU00468,Male,Month-to-month,UPI,58,3,63.9,0,109,Yes
+CU00469,Female,Two year,Card,70,10,112.3,2,27,No
+CU00470,Female,Month-to-month,UPI,23,5,64.53,2,26,No
+CU00471,Female,Month-to-month,Card,8,6,99.24,2,15,Yes
+CU00472,Male,One year,UPI,54,8,37.55,0,79,No
+CU00473,Female,Month-to-month,Bank transfer,2,7,70.22,2,53,Yes
+CU00474,Male,Two year,Cash,46,6,40.27,0,120,No
+CU00475,Female,Two year,Bank transfer,20,7,41.82,1,139,No
+CU00476,Male,One year,Card,26,9,44.65,1,33,No
+CU00477,Male,Month-to-month,Card,9,11,66.53,2,69,No
+CU00478,Female,Two year,UPI,1,7,53.4,0,48,Yes
+CU00479,Female,Two year,Bank transfer,14,9,15.0,1,27,No
+CU00480,Female,One year,Card,31,7,54.1,2,141,No
+CU00481,Male,Month-to-month,Bank transfer,21,4,49.35,3,110,Yes
+CU00482,Female,Month-to-month,Cash,28,13,21.28,1,62,Yes
+CU00483,Female,Month-to-month,Card,8,6,76.32,7,21,Yes
+CU00484,Female,Two year,Cash,10,1,81.63,2,11,Yes
+CU00485,Male,Month-to-month,Bank transfer,54,7,80.42,2,102,Yes
+CU00486,Male,Month-to-month,UPI,59,7,107.58,1,62,Yes
+CU00487,Male,Month-to-month,Card,53,3,36.95,1,2,No
+CU00488,Female,Month-to-month,Cash,68,8,37.56,2,67,No
+CU00489,Female,One year,UPI,52,7,64.14,1,59,Yes
+CU00490,Female,Two year,Cash,9,6,62.02,1,116,No
+CU00491,Female,Two year,Cash,53,3,68.34,2,80,No
+CU00492,Male,Month-to-month,UPI,17,9,85.9,4,52,Yes
+CU00493,Female,Month-to-month,Card,56,9,58.6,0,5,No
+CU00494,Male,Month-to-month,Card,45,9,90.82,1,19,No
+CU00495,Male,Two year,Bank transfer,61,4,45.72,1,88,No
+CU00496,Male,Two year,Cash,68,4,52.33,5,116,No
+CU00497,Male,Month-to-month,Cash,49,8,37.22,1,30,No
+CU00498,Male,Month-to-month,Cash,67,7,15.0,0,56,No
+CU00499,Male,Two year,Cash,39,7,21.25,1,13,No
+CU00500,Male,One year,Bank transfer,67,8,87.37,1,4,No
+CU00501,Male,Month-to-month,Card,7,1,92.56,3,107,Yes
+CU00502,Female,Month-to-month,UPI,32,5,33.02,3,124,Yes
+CU00503,Male,Month-to-month,UPI,55,8,88.29,0,119,No
+CU00504,Male,Month-to-month,Card,70,7,15.0,2,144,No
+CU00505,Female,One year,Bank transfer,62,3,39.21,1,102,No
+CU00506,Male,One year,UPI,26,7,53.31,2,144,No
+CU00507,Male,Month-to-month,Cash,45,4,91.34,2,42,Yes
+CU00508,Female,One year,UPI,7,3,110.16,1,93,No
+CU00509,Male,Month-to-month,Bank transfer,9,5,53.42,1,44,Yes
+CU00510,Male,Month-to-month,Bank transfer,51,2,63.29,2,39,No
+CU00511,Male,Month-to-month,Card,23,3,91.02,2,42,Yes
+CU00512,Male,Month-to-month,Card,40,6,121.2,0,130,No
+CU00513,Female,Two year,UPI,15,7,94.7,1,111,No
+CU00514,Male,Month-to-month,Bank transfer,57,10,34.75,3,26,Yes
+CU00515,Male,Month-to-month,Bank transfer,7,3,86.9,3,78,No
+CU00516,Male,One year,Bank transfer,45,5,48.85,3,112,No
+CU00517,Female,Month-to-month,Cash,49,6,100.02,2,113,Yes
+CU00518,Male,Month-to-month,Cash,59,3,80.82,2,130,No
+CU00519,Male,Month-to-month,Cash,19,8,39.43,1,107,Yes
+CU00520,Female,Month-to-month,Cash,25,10,92.63,1,139,Yes
+CU00521,Female,Month-to-month,Bank transfer,40,3,78.22,0,115,Yes
+CU00522,Female,One year,Cash,21,8,74.96,2,85,Yes
+CU00523,Male,Month-to-month,Cash,53,6,65.75,1,19,No
+CU00524,Female,Month-to-month,Card,54,9,51.91,5,143,Yes
+CU00525,Female,One year,Card,54,6,80.43,5,73,No
+CU00526,Male,Month-to-month,Cash,36,7,120.04,1,5,No
+CU00527,Female,Month-to-month,Cash,45,6,112.71,3,70,Yes
+CU00528,Male,Month-to-month,Cash,13,4,60.39,1,5,Yes
+CU00529,Female,Month-to-month,Cash,15,3,15.0,2,38,Yes
+CU00530,Female,One year,Bank transfer,27,8,51.31,3,114,No
+CU00531,Male,Month-to-month,Bank transfer,15,7,68.65,1,115,No
+CU00532,Male,Month-to-month,UPI,57,8,72.13,1,149,No
+CU00533,Female,Month-to-month,Bank transfer,19,4,87.46,2,32,Yes
+CU00534,Male,Two year,Card,66,7,83.15,2,22,No
+CU00535,Female,Month-to-month,Bank transfer,30,2,83.52,1,44,Yes
+CU00536,Male,Month-to-month,Card,54,6,49.16,2,56,Yes
+CU00537,Female,Month-to-month,Card,6,5,51.92,0,36,No
+CU00538,Male,Month-to-month,UPI,51,5,37.96,1,147,Yes
+CU00539,Female,Month-to-month,Bank transfer,33,7,71.5,3,120,Yes
+CU00540,Female,Month-to-month,UPI,58,5,86.63,1,130,No
+CU00541,Male,Month-to-month,UPI,13,6,91.73,4,98,Yes
+CU00542,Male,Two year,Cash,15,3,15.0,3,61,No
+CU00543,Male,Two year,Bank transfer,62,4,76.76,0,41,No
+CU00544,Male,Month-to-month,UPI,42,4,38.95,2,133,Yes
+CU00545,Male,One year,Card,40,6,79.76,2,20,No
+CU00546,Female,Month-to-month,UPI,43,7,38.78,0,67,No
+CU00547,Male,Two year,Card,26,8,83.36,2,11,Yes
+CU00548,Female,One year,Card,68,7,48.81,1,50,No
+CU00549,Male,One year,Cash,40,2,49.34,1,138,No
+CU00550,Male,Month-to-month,Cash,2,7,85.09,1,88,Yes
+CU00551,Male,One year,Bank transfer,21,3,51.21,2,14,No
+CU00552,Male,One year,Card,69,8,88.97,2,41,No
+CU00553,Female,One year,Cash,35,3,83.55,3,24,Yes
+CU00554,Female,Month-to-month,Bank transfer,52,9,62.22,0,98,Yes
+CU00555,Female,Month-to-month,Card,2,4,53.66,2,64,Yes
+CU00556,Male,Month-to-month,UPI,2,3,96.91,1,43,Yes
+CU00557,Male,Month-to-month,UPI,15,6,85.75,1,102,Yes
+CU00558,Male,Month-to-month,Bank transfer,37,12,106.06,1,76,Yes
+CU00559,Male,Month-to-month,UPI,44,4,21.43,4,105,Yes
+CU00560,Male,Month-to-month,Card,5,6,57.77,5,115,Yes
+CU00561,Female,Month-to-month,UPI,66,2,53.62,3,25,No
+CU00562,Female,Month-to-month,Cash,43,4,77.8,3,129,Yes
+CU00563,Male,Month-to-month,Cash,25,3,41.27,0,13,No
+CU00564,Female,Two year,UPI,33,8,44.8,0,6,No
+CU00565,Male,Month-to-month,Cash,36,2,66.02,1,7,No
+CU00566,Male,One year,UPI,55,5,18.11,1,108,No
+CU00567,Female,Month-to-month,UPI,7,7,15.0,0,10,Yes
+CU00568,Female,Month-to-month,UPI,42,6,62.12,1,133,Yes
+CU00569,Female,Month-to-month,Cash,38,6,131.35,2,110,Yes
+CU00570,Male,Month-to-month,Cash,56,5,67.84,2,110,Yes
+CU00571,Male,Two year,Cash,26,5,55.59,3,47,No
+CU00572,Male,Month-to-month,UPI,27,8,75.78,1,34,No
+CU00573,Female,Month-to-month,Bank transfer,58,6,79.46,3,47,No
+CU00574,Male,One year,UPI,61,10,61.8,0,112,No
+CU00575,Male,One year,Cash,59,8,48.1,2,31,No
+CU00576,Female,One year,Cash,62,7,25.79,1,120,No
+CU00577,Female,Month-to-month,Cash,8,4,87.52,1,53,Yes
+CU00578,Male,Two year,Cash,47,5,53.23,3,26,No
+CU00579,Male,Month-to-month,Card,49,9,76.86,0,59,No
+CU00580,Female,Month-to-month,Cash,19,6,91.42,1,136,No
+CU00581,Female,Two year,Card,33,5,57.33,1,45,Yes
+CU00582,Female,Two year,Card,71,6,28.36,2,40,No
+CU00583,Male,Two year,Cash,10,9,59.34,3,108,Yes
+CU00584,Male,Month-to-month,Bank transfer,59,3,61.11,2,141,Yes
+CU00585,Male,Two year,Cash,23,4,77.38,1,33,Yes
+CU00586,Male,Month-to-month,Bank transfer,61,9,50.7,4,74,No
+CU00587,Female,Two year,UPI,38,4,49.43,2,117,No
+CU00588,Female,One year,Cash,1,5,55.36,2,19,Yes
+CU00589,Female,Month-to-month,Bank transfer,8,7,74.3,0,32,Yes
+CU00590,Male,Month-to-month,UPI,59,3,87.5,2,106,Yes
+CU00591,Male,One year,Bank transfer,57,4,123.33,3,43,No
+CU00592,Male,Month-to-month,UPI,16,6,113.22,2,85,Yes
+CU00593,Male,Two year,Card,46,9,61.66,1,70,No
+CU00594,Male,Two year,UPI,37,8,47.03,2,114,No
+CU00595,Male,One year,Card,4,11,49.41,1,72,No
+CU00596,Female,Month-to-month,Bank transfer,51,4,32.18,2,44,No
+CU00597,Male,One year,Bank transfer,12,7,68.11,1,43,No
+CU00598,Female,One year,Bank transfer,30,1,40.24,2,8,No
+CU00599,Male,Month-to-month,UPI,1,4,37.33,1,17,Yes
+CU00600,Female,Month-to-month,Cash,18,5,38.98,1,25,Yes
+CU00601,Male,One year,Bank transfer,67,5,87.21,0,131,No
+CU00602,Female,Month-to-month,Bank transfer,36,6,62.94,1,71,Yes
+CU00603,Female,Month-to-month,Bank transfer,52,7,30.93,3,146,Yes
+CU00604,Male,Month-to-month,Cash,22,3,87.03,1,6,Yes
+CU00605,Male,Month-to-month,Card,4,6,94.78,2,148,Yes
+CU00606,Male,Month-to-month,Cash,44,5,53.51,0,98,No
+CU00607,Male,Month-to-month,UPI,18,3,45.41,1,74,Yes
+CU00608,Male,One year,Card,8,12,43.19,2,75,Yes
+CU00609,Female,Two year,UPI,36,4,71.63,2,143,Yes
+CU00610,Male,One year,Card,29,6,87.79,1,31,No
+CU00611,Male,Month-to-month,Bank transfer,9,8,69.21,0,49,Yes
+CU00612,Male,Month-to-month,Cash,43,5,31.36,2,119,Yes
+CU00613,Male,Month-to-month,Bank transfer,32,4,91.6,2,2,No
+CU00614,Female,One year,Bank transfer,71,4,63.64,2,98,No
+CU00615,Female,Two year,Card,7,6,59.98,1,92,No
+CU00616,Female,Two year,UPI,36,6,75.78,2,82,Yes
+CU00617,Female,Month-to-month,UPI,57,5,91.09,2,66,No
+CU00618,Female,Month-to-month,UPI,31,5,36.53,0,108,No
+CU00619,Male,One year,Cash,15,2,31.46,1,139,No
+CU00620,Male,Two year,UPI,71,7,63.8,1,88,Yes
+CU00621,Male,Two year,Card,24,5,64.1,2,123,Yes
+CU00622,Female,Two year,Card,66,6,87.56,0,1,No
+CU00623,Female,Month-to-month,Card,60,4,96.7,0,22,Yes
+CU00624,Male,Two year,Cash,48,4,52.42,3,82,No
+CU00625,Male,Month-to-month,Card,55,4,73.21,2,120,No
+CU00626,Female,Month-to-month,UPI,39,2,76.49,2,37,Yes
+CU00627,Female,One year,Bank transfer,48,9,78.92,2,109,No
+CU00628,Female,Month-to-month,Bank transfer,20,5,24.47,2,115,Yes
+CU00629,Male,Month-to-month,Cash,4,12,78.04,1,92,Yes
+CU00630,Male,Month-to-month,Cash,45,8,44.21,1,99,Yes
+CU00631,Female,Month-to-month,Card,58,5,79.3,1,31,Yes
+CU00632,Male,Month-to-month,Cash,60,7,36.08,0,89,Yes
+CU00633,Female,One year,UPI,55,4,66.46,0,23,No
+CU00634,Female,Month-to-month,Card,70,4,57.26,2,80,No
+CU00635,Male,One year,Bank transfer,43,9,118.24,2,135,Yes
+CU00636,Female,One year,Card,13,6,42.58,0,38,No
+CU00637,Male,Month-to-month,UPI,15,6,40.7,1,123,Yes
+CU00638,Male,Two year,Card,20,5,101.6,0,98,Yes
+CU00639,Male,Month-to-month,Cash,70,7,86.19,1,87,No
+CU00640,Female,Two year,Card,63,3,70.94,1,119,No
+CU00641,Male,Two year,Cash,52,8,52.01,5,92,Yes
+CU00642,Female,Two year,UPI,62,9,35.18,2,58,No
+CU00643,Female,Month-to-month,Card,25,3,53.15,0,23,No
+CU00644,Male,One year,Bank transfer,51,4,50.51,3,52,No
+CU00645,Female,Month-to-month,UPI,12,14,46.37,0,97,Yes
+CU00646,Male,Two year,Card,8,3,51.08,0,140,Yes
+CU00647,Female,Month-to-month,UPI,46,8,49.92,2,140,Yes
+CU00648,Male,One year,Card,51,5,88.01,4,120,Yes
+CU00649,Male,Month-to-month,Bank transfer,43,6,29.1,2,111,Yes
+CU00650,Male,One year,UPI,34,6,73.78,2,9,No
+CU00651,Male,One year,Card,44,3,70.66,3,87,No
+CU00652,Male,Month-to-month,Card,27,10,62.32,2,41,Yes
+CU00653,Male,Month-to-month,Cash,21,7,80.65,2,63,No
+CU00654,Male,One year,UPI,18,8,74.71,1,127,Yes
+CU00655,Female,Two year,Cash,26,4,66.51,1,32,No
+CU00656,Male,Month-to-month,UPI,23,4,91.57,0,113,No
+CU00657,Male,One year,Bank transfer,12,11,15.0,3,3,Yes
+CU00658,Male,Month-to-month,Bank transfer,39,10,118.78,0,29,No
+CU00659,Female,Month-to-month,UPI,30,8,93.35,2,68,Yes
+CU00660,Female,Month-to-month,Bank transfer,12,4,107.17,1,73,Yes
+CU00661,Female,One year,Card,65,5,42.22,3,49,No
+CU00662,Male,Month-to-month,UPI,37,10,65.96,1,28,No
+CU00663,Female,Two year,Card,11,7,,1,74,No
+CU00664,Male,Month-to-month,Bank transfer,4,2,54.97,2,88,Yes
+CU00665,Female,One year,Bank transfer,7,7,68.76,1,78,No
+CU00666,Male,Month-to-month,Cash,30,9,70.87,1,13,Yes
+CU00667,Male,One year,Card,18,5,34.33,0,91,No
+CU00668,Female,Month-to-month,Bank transfer,69,5,82.88,0,39,No
+CU00669,Male,Month-to-month,Bank transfer,34,2,80.82,4,94,No
+CU00670,Female,Month-to-month,Bank transfer,53,7,47.43,2,12,No
+CU00671,Female,One year,Cash,18,4,31.9,0,9,No
+CU00672,Female,One year,Cash,5,8,67.61,1,138,Yes
+CU00673,Male,Month-to-month,UPI,24,4,43.89,1,23,Yes
+CU00674,Female,Month-to-month,UPI,49,6,71.72,1,26,No
+CU00675,Male,Month-to-month,Bank transfer,55,8,45.17,1,40,Yes
+CU00676,Male,Month-to-month,Cash,14,9,102.44,2,78,No
+CU00677,Male,Month-to-month,UPI,22,8,47.81,1,52,No
+CU00678,Female,Month-to-month,Bank transfer,34,8,42.65,1,26,No
+CU00679,Female,Month-to-month,Card,25,13,65.6,2,86,No
+CU00680,Female,Month-to-month,Bank transfer,21,3,25.03,3,19,No
+CU00681,Female,Month-to-month,UPI,70,3,43.35,0,91,No
+CU00682,Male,One year,Cash,67,9,23.6,2,0,No
+CU00683,Female,One year,Bank transfer,26,8,,2,61,No
+CU00684,Female,One year,Card,4,4,88.19,3,12,Yes
+CU00685,Female,Month-to-month,Bank transfer,26,3,54.26,2,41,Yes
+CU00686,Male,Month-to-month,Card,63,6,96.36,0,79,Yes
+CU00687,Female,Month-to-month,Card,64,7,43.75,1,14,No
+CU00688,Male,One year,Bank transfer,50,6,53.34,1,78,No
+CU00689,Male,Two year,Bank transfer,48,8,87.37,4,45,No
+CU00690,Female,One year,Bank transfer,26,4,82.9,4,38,Yes
+CU00691,Male,Two year,UPI,32,9,76.41,1,50,Yes
+CU00692,Female,Month-to-month,Cash,63,8,92.75,0,139,No
+CU00693,Male,Month-to-month,Bank transfer,16,5,63.71,0,101,Yes
+CU00694,Male,Month-to-month,Bank transfer,29,7,72.57,3,66,Yes
+CU00695,Female,Month-to-month,Bank transfer,63,6,47.97,1,30,No
+CU00696,Male,Month-to-month,UPI,50,9,113.15,0,121,No
+CU00697,Female,Two year,UPI,8,6,53.75,1,82,No
+CU00698,Female,Month-to-month,UPI,56,5,59.68,1,76,Yes
+CU00699,Female,Two year,Card,5,3,70.24,1,130,Yes
+CU00700,Female,Two year,UPI,21,6,81.68,1,36,Yes
+CU00701,Female,One year,Cash,66,9,81.42,1,142,No
+CU00702,Female,Two year,Bank transfer,6,2,15.0,0,23,No
+CU00703,Female,Month-to-month,Cash,14,4,109.18,0,104,No
+CU00704,Female,Two year,Bank transfer,62,5,105.25,4,26,No
+CU00705,Female,One year,Card,48,9,96.31,3,9,No
+CU00706,Female,One year,Card,17,5,68.66,5,101,Yes
+CU00707,Female,One year,UPI,25,6,96.19,1,98,Yes
+CU00708,Female,Two year,UPI,67,8,71.55,2,112,No
+CU00709,Female,Two year,Cash,43,9,71.24,2,1,No
+CU00710,Female,Month-to-month,Bank transfer,23,4,82.45,2,25,Yes
+CU00711,Female,Month-to-month,Cash,11,8,78.59,1,57,Yes
+CU00712,Female,Month-to-month,Cash,30,11,90.6,3,148,No
+CU00713,Female,Two year,Bank transfer,23,8,15.0,2,140,Yes
+CU00714,Male,Month-to-month,UPI,31,5,62.78,2,137,No
+CU00715,Male,One year,Bank transfer,4,5,34.48,2,107,Yes
+CU00716,Female,Month-to-month,Bank transfer,34,3,88.27,1,36,No
+CU00717,Male,Two year,Bank transfer,18,6,42.19,2,114,Yes
+CU00718,Female,Two year,UPI,69,7,57.93,2,47,No
+CU00719,Male,Month-to-month,Card,20,2,88.41,0,54,No
+CU00720,Female,Month-to-month,UPI,18,2,97.71,1,145,Yes
+CU00721,Male,Two year,UPI,22,5,87.07,0,41,No
+CU00722,Male,Month-to-month,Bank transfer,44,7,83.83,2,149,Yes
+CU00723,Male,Month-to-month,Bank transfer,52,9,35.32,2,122,Yes
+CU00724,Male,Two year,Cash,21,5,39.57,1,61,No
+CU00725,Female,One year,Bank transfer,50,6,31.49,1,43,No
+CU00726,Female,Two year,UPI,10,4,38.6,1,125,Yes
+CU00727,Female,Month-to-month,Cash,14,3,68.95,0,137,No
+CU00728,Female,One year,UPI,21,9,90.14,2,138,Yes
+CU00729,Female,Two year,UPI,50,5,90.05,2,44,No
+CU00730,Male,One year,Card,40,4,18.71,4,132,Yes
+CU00731,Female,Two year,Cash,33,7,64.09,2,55,No
+CU00732,Male,Two year,Bank transfer,44,3,58.15,1,100,No
+CU00733,Male,Month-to-month,Card,14,10,15.0,0,90,No
+CU00734,Male,Month-to-month,UPI,19,6,85.75,0,62,Yes
+CU00735,Female,One year,UPI,51,4,85.05,0,52,No
+CU00736,Male,Two year,Card,71,5,49.81,0,75,Yes
+CU00737,Female,Two year,Cash,1,3,57.26,3,9,No
+CU00738,Female,Month-to-month,Bank transfer,26,11,68.64,3,107,Yes
+CU00739,Male,One year,Card,63,5,75.34,1,6,No
+CU00740,Male,One year,Bank transfer,60,2,48.78,2,38,No
+CU00741,Male,Month-to-month,Bank transfer,19,7,43.52,1,92,Yes
+CU00742,Female,One year,Card,3,5,37.85,3,106,Yes
+CU00743,Male,Two year,Bank transfer,41,6,102.22,3,115,Yes
+CU00744,Male,Month-to-month,Bank transfer,50,4,95.49,0,78,Yes
+CU00745,Female,Month-to-month,Card,19,12,37.69,2,84,No
+CU00746,Male,Month-to-month,Cash,22,5,42.61,0,87,Yes
+CU00747,Male,Month-to-month,Bank transfer,48,2,38.48,2,131,No
+CU00748,Male,One year,Bank transfer,39,5,27.88,3,125,No
+CU00749,Male,Two year,Bank transfer,21,7,113.78,1,66,Yes
+CU00750,Male,One year,Cash,60,5,46.64,1,141,No
+CU00751,Male,Two year,Bank transfer,65,7,83.99,0,39,No
+CU00752,Female,One year,UPI,52,4,56.53,0,45,No
+CU00753,Male,Month-to-month,UPI,68,8,59.51,0,16,No
+CU00754,Female,Month-to-month,Card,26,7,57.78,2,114,Yes
+CU00755,Female,Month-to-month,Bank transfer,8,4,74.19,0,86,Yes
+CU00756,Female,Month-to-month,Card,53,6,60.38,4,89,Yes
+CU00757,Female,Month-to-month,Card,40,5,83.64,2,118,Yes
+CU00758,Male,One year,Card,30,11,93.89,3,43,No
+CU00759,Female,Month-to-month,Card,19,4,49.49,1,36,No
+CU00760,Male,Month-to-month,Bank transfer,5,4,70.1,0,97,No
+CU00761,Female,Month-to-month,Card,13,6,24.16,0,0,No
+CU00762,Female,Two year,UPI,48,7,51.95,1,98,Yes
+CU00763,Female,Month-to-month,UPI,17,5,65.46,0,32,No
+CU00764,Female,One year,Bank transfer,67,7,60.02,0,123,No
+CU00765,Female,Month-to-month,Card,34,8,62.28,0,35,No
+CU00766,Female,Month-to-month,Cash,6,13,77.92,1,60,No
+CU00767,Male,Month-to-month,Card,47,6,83.13,1,101,No
+CU00768,Male,Month-to-month,Card,49,8,15.0,1,121,No
+CU00769,Male,Month-to-month,Card,13,5,69.57,0,128,Yes
+CU00770,Male,Month-to-month,Card,60,6,57.13,2,36,No
+CU00771,Male,One year,Card,53,5,52.96,2,128,No
+CU00772,Male,Month-to-month,Bank transfer,43,3,99.9,3,69,Yes
+CU00773,Male,Month-to-month,Bank transfer,9,5,21.08,4,66,Yes
+CU00774,Male,Month-to-month,Card,35,3,63.67,3,92,Yes
+CU00775,Male,Two year,Bank transfer,69,6,100.98,0,147,Yes
+CU00776,Male,Month-to-month,Card,17,5,66.8,1,89,Yes
+CU00777,Male,One year,Card,67,5,41.25,0,50,No
+CU00778,Male,One year,UPI,14,5,59.59,2,7,Yes
+CU00779,Male,Month-to-month,Cash,44,9,109.28,1,130,Yes
+CU00780,Female,Month-to-month,Cash,29,6,94.3,3,52,Yes
+CU00781,Male,One year,Card,5,6,,2,122,Yes
+CU00782,Female,Two year,Bank transfer,46,6,103.37,6,47,No
+CU00783,Male,Two year,UPI,34,6,80.93,1,15,No
+CU00784,Female,Month-to-month,Card,23,10,15.0,5,145,Yes
+CU00785,Male,Month-to-month,Bank transfer,17,5,62.35,2,12,No
+CU00786,Male,Month-to-month,Bank transfer,35,3,110.63,1,145,Yes
+CU00787,Female,Month-to-month,Card,8,6,61.08,2,30,Yes
+CU00788,Female,Two year,UPI,43,3,103.02,1,54,No
+CU00789,Female,Month-to-month,Cash,7,3,29.14,0,23,No
+CU00790,Male,Month-to-month,Card,15,0,32.28,1,117,Yes
+CU00791,Female,Month-to-month,Card,37,8,93.31,4,8,No
+CU00792,Female,Two year,Bank transfer,53,8,86.3,2,82,No
+CU00793,Male,Month-to-month,Cash,29,8,64.35,4,146,Yes
+CU00794,Male,Month-to-month,Bank transfer,45,5,86.72,1,59,No
+CU00795,Female,Month-to-month,Bank transfer,67,7,50.18,3,28,No
+CU00796,Male,Month-to-month,Cash,43,8,36.84,1,117,Yes
+CU00797,Female,Month-to-month,Card,54,9,74.67,1,92,No
+CU00798,Female,Two year,Bank transfer,34,5,57.83,2,142,Yes
+CU00799,Female,One year,Cash,19,7,75.42,0,65,Yes
+CU00800,Female,One year,Cash,26,5,70.16,0,53,No
+CU00801,Female,Month-to-month,Card,25,6,56.62,3,48,Yes
+CU00802,Male,Month-to-month,Cash,39,5,112.11,0,25,Yes
+CU00803,Male,One year,UPI,11,4,39.06,1,82,Yes
+CU00804,Female,Month-to-month,UPI,55,2,68.83,0,142,Yes
+CU00805,Male,One year,Card,11,9,62.67,0,98,No
+CU00806,Female,One year,Bank transfer,51,5,72.68,2,106,No
+CU00807,Male,Month-to-month,Card,34,8,66.17,4,109,No
+CU00808,Male,Month-to-month,Cash,53,2,91.99,4,32,No
+CU00809,Female,Two year,Card,13,5,72.82,0,117,Yes
+CU00810,Male,Two year,Bank transfer,15,4,48.73,2,1,Yes
+CU00811,Male,Month-to-month,Card,18,3,39.33,2,67,No
+CU00812,Male,Month-to-month,Card,56,5,45.77,2,99,No
+CU00813,Female,One year,Cash,19,7,44.67,2,24,Yes
+CU00814,Female,One year,Cash,24,7,81.96,1,93,Yes
+CU00815,Female,Month-to-month,UPI,10,10,62.94,0,10,No
+CU00816,Male,Two year,UPI,17,3,74.89,1,33,No
+CU00817,Female,Two year,Bank transfer,61,6,30.56,0,114,No
+CU00818,Male,Month-to-month,UPI,9,2,57.1,5,96,Yes
+CU00819,Male,Month-to-month,UPI,65,5,77.08,2,143,Yes
+CU00820,Female,Month-to-month,Bank transfer,59,5,91.0,1,23,No
+CU00821,Female,Two year,UPI,68,9,27.87,1,125,No
+CU00822,Female,One year,UPI,45,7,104.2,0,60,No
+CU00823,Female,Two year,UPI,49,3,101.02,4,117,Yes
+CU00824,Male,One year,UPI,60,9,90.44,1,46,No
+CU00825,Male,One year,Cash,51,8,96.64,0,116,No
+CU00826,Female,Month-to-month,Card,40,6,55.54,2,129,Yes
+CU00827,Male,Month-to-month,Card,30,2,45.06,2,109,Yes
+CU00828,Male,Two year,Card,62,7,67.12,1,43,No
+CU00829,Male,Month-to-month,Card,23,6,72.53,1,128,Yes
+CU00830,Male,Two year,Card,40,4,49.37,2,42,No
+CU00831,Male,Month-to-month,Bank transfer,5,4,79.73,1,17,Yes
+CU00832,Male,One year,UPI,46,6,100.24,1,113,No
+CU00833,Male,One year,Bank transfer,10,3,87.38,1,32,Yes
+CU00834,Male,Month-to-month,UPI,5,5,66.18,3,2,Yes
+CU00835,Female,Month-to-month,Bank transfer,22,10,15.0,0,12,Yes
+CU00836,Female,Two year,Cash,48,6,26.6,0,107,No
+CU00837,Male,Month-to-month,Card,59,5,62.65,0,5,No
+CU00838,Female,Month-to-month,Card,43,7,81.05,2,7,No
+CU00839,Female,One year,Cash,47,4,29.45,0,149,No
+CU00840,Female,One year,Bank transfer,18,7,67.4,0,8,No
+CU00841,Male,Two year,Card,8,7,82.78,2,104,Yes
+CU00842,Female,Month-to-month,Cash,9,11,63.38,2,73,No
+CU00843,Male,Month-to-month,Cash,6,7,49.47,3,50,Yes
+CU00844,Male,Month-to-month,UPI,25,8,27.94,0,143,Yes
+CU00845,Female,Two year,Bank transfer,54,5,84.31,1,51,No
+CU00846,Female,Two year,Cash,5,5,48.64,0,24,Yes
+CU00847,Male,One year,Cash,25,6,106.16,7,58,No
+CU00848,Female,Month-to-month,Bank transfer,43,10,69.43,3,45,No
+CU00849,Female,Two year,Bank transfer,5,4,74.23,1,115,No
+CU00850,Female,Month-to-month,Cash,39,3,85.82,2,102,Yes
+CU00851,Female,Month-to-month,Card,29,2,55.89,2,14,Yes
+CU00852,Female,Month-to-month,UPI,66,8,76.75,2,133,Yes
+CU00853,Female,One year,Bank transfer,36,2,48.86,1,131,No
+CU00854,Male,Month-to-month,Bank transfer,37,3,44.98,0,74,Yes
+CU00855,Female,Month-to-month,UPI,61,6,42.21,1,58,No
+CU00856,Female,One year,Card,52,7,52.77,1,74,Yes
+CU00857,Female,One year,Bank transfer,39,9,116.46,1,76,No
+CU00858,Male,Month-to-month,Cash,48,4,42.41,2,46,No
+CU00859,Male,Month-to-month,Card,29,10,80.34,0,65,No
+CU00860,Male,One year,UPI,50,8,59.33,3,56,No
+CU00861,Male,Month-to-month,Cash,22,8,36.6,1,146,No
+CU00862,Female,Month-to-month,Card,23,6,84.79,1,21,Yes
+CU00863,Female,Two year,Cash,59,3,52.41,2,8,No
+CU00864,Male,One year,Bank transfer,30,9,53.84,0,18,No
+CU00865,Female,Month-to-month,Card,38,10,92.08,3,23,Yes
+CU00866,Female,One year,Card,9,7,58.45,0,110,No
+CU00867,Male,One year,Card,25,7,70.6,1,52,Yes
+CU00868,Male,Month-to-month,UPI,47,11,64.31,1,72,No
+CU00869,Male,One year,Card,38,7,62.65,2,123,No
+CU00870,Female,One year,UPI,22,5,32.01,3,116,Yes
+CU00871,Female,Month-to-month,Bank transfer,3,6,86.45,2,136,Yes
+CU00872,Female,Month-to-month,Card,39,8,70.55,0,97,No
+CU00873,Male,Month-to-month,Cash,25,8,85.34,1,115,Yes
+CU00874,Male,One year,Card,66,6,67.88,1,0,No
+CU00875,Female,One year,Bank transfer,4,10,91.4,0,46,Yes
+CU00876,Male,Two year,UPI,49,7,68.79,1,75,No
+CU00877,Male,Month-to-month,Card,28,5,99.31,0,136,Yes
+CU00878,Male,One year,Card,20,5,42.36,4,82,Yes
+CU00879,Male,One year,Cash,51,6,45.24,2,108,Yes
+CU00880,Male,Month-to-month,Bank transfer,37,9,109.68,2,20,Yes
+CU00881,Male,Two year,Bank transfer,6,6,85.68,2,115,No
+CU00882,Male,Month-to-month,Card,43,6,111.64,1,143,Yes
+CU00883,Female,Month-to-month,Cash,13,4,80.32,0,53,Yes
+CU00884,Male,Two year,Bank transfer,61,6,58.05,1,119,No
+CU00885,Female,One year,Card,18,5,111.68,1,30,No
+CU00886,Male,Month-to-month,Bank transfer,57,3,19.54,1,134,Yes
+CU00887,Female,Month-to-month,Cash,24,3,85.0,0,103,Yes
+CU00888,Female,One year,Bank transfer,23,8,15.0,5,89,Yes
+CU00889,Female,Month-to-month,Bank transfer,1,5,102.66,0,88,Yes
+CU00890,Female,One year,Bank transfer,66,3,39.31,0,124,No
+CU00891,Female,One year,Card,40,9,57.35,1,39,No
+CU00892,Female,Month-to-month,Bank transfer,11,6,40.83,1,27,No
+CU00893,Female,One year,Bank transfer,3,3,79.8,3,90,Yes
+CU00894,Male,Month-to-month,Bank transfer,20,9,60.38,0,128,Yes
+CU00895,Male,One year,Cash,35,6,99.55,1,137,No
+CU00896,Female,Month-to-month,UPI,3,5,48.52,1,138,Yes
+CU00897,Female,Month-to-month,Bank transfer,26,11,35.48,1,24,No
+CU00898,Female,Month-to-month,UPI,23,3,53.23,0,2,No
+CU00899,Male,Month-to-month,Card,62,3,105.95,0,31,Yes
+CU00900,Female,One year,UPI,30,6,91.08,1,96,No
+CU00901,Female,Month-to-month,Bank transfer,8,4,93.92,2,61,No
+CU00902,Male,Month-to-month,Card,18,3,51.22,2,14,No
+CU00903,Female,Two year,Card,59,6,32.01,0,58,No
+CU00904,Male,Month-to-month,UPI,1,9,100.54,2,97,Yes
+CU00905,Female,Month-to-month,Cash,10,6,,2,7,Yes
+CU00906,Male,Month-to-month,UPI,1,6,65.15,1,134,No
+CU00907,Female,Two year,Card,4,8,48.37,2,60,No
+CU00908,Male,Month-to-month,Cash,66,8,66.88,2,27,No
+CU00909,Male,Month-to-month,Bank transfer,71,10,22.27,0,58,No
+CU00910,Male,Two year,UPI,53,7,86.27,1,74,Yes
+CU00911,Female,Month-to-month,UPI,7,7,99.26,1,118,Yes
+CU00912,Male,Two year,Cash,50,4,91.12,1,14,No
+CU00913,Male,Month-to-month,Cash,55,13,37.18,1,70,No
+CU00914,Male,Month-to-month,Cash,56,6,75.86,1,97,Yes
+CU00915,Female,One year,Card,54,2,60.72,3,121,Yes
+CU00916,Female,Month-to-month,UPI,50,5,64.98,1,17,No
+CU00917,Female,Month-to-month,Cash,32,3,106.48,2,17,Yes
+CU00918,Male,Month-to-month,UPI,5,9,54.12,0,145,Yes
+CU00919,Male,Month-to-month,Bank transfer,59,4,81.98,5,139,Yes
+CU00920,Female,Two year,UPI,66,11,21.37,3,48,No
+CU00921,Female,Two year,UPI,36,4,66.8,1,72,Yes
+CU00922,Male,Month-to-month,Card,31,3,88.27,4,27,No
+CU00923,Male,Month-to-month,UPI,66,4,61.24,1,119,Yes
+CU00924,Female,Two year,Cash,33,4,80.37,0,142,No
+CU00925,Female,One year,Cash,27,9,44.74,0,76,No
+CU00926,Male,One year,Cash,63,10,53.34,1,96,No
+CU00927,Male,Two year,Bank transfer,66,8,61.63,2,100,No
+CU00928,Female,Month-to-month,Card,15,5,51.44,0,73,Yes
+CU00929,Male,Month-to-month,Card,20,4,87.46,3,64,Yes
+CU00930,Male,Two year,Bank transfer,23,8,92.33,0,113,Yes
+CU00931,Male,Month-to-month,Card,12,6,81.19,0,47,Yes
+CU00932,Male,One year,Cash,61,7,15.0,1,129,No
+CU00933,Male,Two year,Bank transfer,70,6,57.05,0,60,No
+CU00934,Male,Month-to-month,Card,37,9,86.05,2,121,Yes
+CU00935,Male,Two year,Bank transfer,51,6,60.91,2,68,No
+CU00936,Female,Month-to-month,UPI,30,7,59.43,1,53,No
+CU00937,Female,Two year,Cash,71,8,88.38,1,17,No
+CU00938,Female,Month-to-month,Card,68,2,89.66,3,59,No
+CU00939,Female,Month-to-month,Cash,54,6,79.96,2,104,Yes
+CU00940,Male,One year,UPI,64,3,27.79,4,79,No
+CU00941,Female,Two year,Card,10,4,37.03,3,91,Yes
+CU00942,Male,One year,Card,64,4,74.83,1,87,No
+CU00943,Male,One year,Card,31,11,15.0,2,67,Yes
+CU00944,Female,Two year,Card,16,7,105.99,1,45,Yes
+CU00945,Male,One year,Card,67,6,68.4,2,26,No
+CU00946,Female,Two year,Card,60,9,47.4,3,20,No
+CU00947,Male,Month-to-month,Cash,10,7,51.71,1,109,Yes
+CU00948,Male,Month-to-month,Cash,47,2,95.18,0,65,No
+CU00949,Female,Month-to-month,Cash,63,10,33.51,1,11,No
+CU00950,Male,Two year,Card,50,6,16.93,1,122,No
+CU00951,Female,Month-to-month,Card,35,11,40.17,1,56,No
+CU00952,Female,Month-to-month,Card,4,10,72.38,3,41,No
+CU00953,Male,Month-to-month,Bank transfer,36,5,105.05,1,70,Yes
+CU00954,Male,Month-to-month,Bank transfer,40,6,95.43,3,56,Yes
+CU00955,Male,One year,UPI,60,4,54.09,1,60,No
+CU00956,Male,Month-to-month,Bank transfer,16,3,,2,41,No
+CU00957,Female,Two year,Cash,15,5,73.7,1,5,No
+CU00958,Female,Two year,Card,66,11,70.54,1,91,No
+CU00959,Female,One year,UPI,60,7,15.77,0,111,No
+CU00960,Female,Month-to-month,Bank transfer,40,4,57.16,1,142,Yes
+CU00961,Male,Two year,UPI,32,4,84.75,0,21,No
+CU00962,Male,Month-to-month,UPI,44,13,111.64,1,27,No
+CU00963,Male,Month-to-month,Card,11,4,74.94,1,63,Yes
+CU00964,Male,Month-to-month,Card,18,6,92.32,2,116,Yes
+CU00965,Male,Month-to-month,Card,39,6,87.07,0,94,Yes
+CU00966,Male,One year,Cash,30,5,55.5,3,99,Yes
+CU00967,Female,Month-to-month,Bank transfer,13,4,31.61,3,80,Yes
+CU00968,Male,Two year,Cash,38,6,93.29,2,148,Yes
+CU00969,Female,One year,Cash,47,3,111.31,1,58,No
+CU00970,Female,Month-to-month,UPI,58,5,54.44,2,14,Yes
+CU00971,Male,Month-to-month,Bank transfer,45,10,94.79,0,71,Yes
+CU00972,Male,One year,Card,44,8,68.76,3,136,Yes
+CU00973,Female,Month-to-month,Cash,40,4,30.51,1,82,Yes
+CU00974,Male,Month-to-month,UPI,9,9,66.17,2,121,Yes
+CU00975,Male,One year,Bank transfer,28,7,50.79,0,103,Yes
+CU00976,Female,Month-to-month,Cash,33,5,76.07,3,135,Yes
+CU00977,Female,Month-to-month,Bank transfer,38,11,74.98,1,91,Yes
+CU00978,Female,Month-to-month,Cash,21,6,48.87,1,112,Yes
+CU00979,Female,One year,Card,53,6,32.3,2,92,No
+CU00980,Male,Month-to-month,Cash,39,6,53.55,3,42,Yes
+CU00981,Female,One year,UPI,22,10,103.74,0,5,No
+CU00982,Female,Month-to-month,Cash,34,10,35.65,2,62,No
+CU00983,Female,Month-to-month,UPI,51,8,83.12,2,141,Yes
+CU00984,Female,Two year,Card,2,11,79.96,1,16,Yes
+CU00985,Male,One year,Bank transfer,25,9,51.21,4,36,No
+CU00986,Female,Two year,Cash,15,6,43.93,2,0,No
+CU00987,Female,Month-to-month,Card,23,7,79.85,0,62,No
+CU00988,Male,Month-to-month,Cash,47,5,64.3,1,142,Yes
+CU00989,Female,One year,Bank transfer,16,9,52.42,2,64,No
+CU00990,Female,Two year,Bank transfer,39,7,76.79,2,124,No
+CU00991,Male,One year,Cash,27,11,105.65,0,89,No
+CU00992,Male,One year,UPI,4,9,95.99,2,12,No
+CU00993,Male,One year,Cash,63,7,68.21,0,44,No
+CU00994,Female,Month-to-month,Cash,43,5,15.0,0,68,No
+CU00995,Female,One year,Bank transfer,22,4,59.03,2,47,Yes
+CU00996,Female,One year,Card,36,8,39.91,2,43,No
+CU00997,Male,Month-to-month,Bank transfer,71,9,59.91,0,90,Yes
+CU00998,Male,Month-to-month,UPI,11,4,56.27,2,44,Yes
+CU00999,Female,Month-to-month,Card,61,5,57.1,2,128,Yes
+CU01000,Male,Month-to-month,Card,1,3,91.91,1,134,Yes
+CU01001,Female,Month-to-month,Cash,62,6,59.31,1,3,No
+CU01002,Female,Month-to-month,UPI,24,6,58.22,2,148,Yes
+CU01003,Female,One year,Card,22,8,76.91,1,84,No
+CU01004,Male,Month-to-month,Bank transfer,56,3,38.56,0,63,No
+CU01005,Female,Month-to-month,Bank transfer,12,6,56.56,2,82,Yes
+CU01006,Female,One year,UPI,10,8,30.74,2,122,Yes
+CU01007,Male,Month-to-month,Bank transfer,34,9,80.57,2,18,No
+CU01008,Male,Month-to-month,Bank transfer,68,7,70.79,0,24,No
+CU01009,Female,Two year,Cash,24,1,116.72,1,6,Yes
+CU01010,Male,One year,UPI,39,5,24.16,1,115,No
+CU01011,Female,One year,Card,29,4,89.25,1,118,Yes
+CU01012,Male,One year,Card,54,2,21.16,1,7,No
+CU01013,Male,Month-to-month,Bank transfer,64,7,40.1,1,123,Yes
+CU01014,Female,Month-to-month,Card,70,7,15.0,0,51,No
+CU01015,Female,Month-to-month,Cash,20,6,,2,6,Yes
+CU01016,Male,Month-to-month,Card,19,6,71.82,1,85,Yes
+CU01017,Male,Two year,Bank transfer,66,5,56.95,3,101,No
+CU01018,Male,One year,Cash,42,7,15.0,2,9,No
+CU01019,Female,One year,Card,24,5,51.69,0,37,No
+CU01020,Female,One year,Card,25,5,68.23,0,17,No
+CU01021,Male,One year,Cash,13,5,42.14,1,35,No
+CU01022,Female,Month-to-month,UPI,7,6,64.29,2,47,Yes
+CU01023,Male,Two year,UPI,25,3,92.02,1,137,Yes
+CU01024,Male,One year,Bank transfer,57,4,50.65,1,71,No
+CU01025,Female,One year,UPI,47,11,37.82,0,92,No
+CU01026,Female,Month-to-month,Bank transfer,1,7,62.98,3,32,Yes
+CU01027,Female,Month-to-month,UPI,4,8,110.39,0,90,Yes
+CU01028,Male,Month-to-month,Bank transfer,62,10,77.63,1,47,No
+CU01029,Male,Month-to-month,Card,57,5,27.27,5,65,Yes
+CU01030,Female,One year,Bank transfer,57,4,98.9,3,25,No
+CU01031,Male,Two year,Bank transfer,62,11,54.65,2,95,No
+CU01032,Female,One year,UPI,46,4,59.16,1,15,No
+CU01033,Male,Month-to-month,UPI,24,5,32.78,1,61,No
+CU01034,Female,Month-to-month,Bank transfer,42,16,68.71,0,62,No
+CU01035,Male,Month-to-month,UPI,46,4,16.15,1,56,No
+CU01036,Male,Month-to-month,UPI,61,5,36.84,1,33,Yes
+CU01037,Male,Month-to-month,Card,38,7,80.2,2,18,Yes
+CU01038,Male,Month-to-month,UPI,4,7,68.17,1,97,No
+CU01039,Male,Month-to-month,UPI,45,4,46.16,2,140,Yes
+CU01040,Female,Month-to-month,UPI,53,3,60.15,2,34,Yes
+CU01041,Male,Month-to-month,UPI,68,4,82.43,1,16,No
+CU01042,Female,Two year,UPI,13,6,74.57,0,28,No
+CU01043,Female,Two year,Bank transfer,62,5,81.55,2,44,No
+CU01044,Female,Two year,Cash,2,5,35.3,2,55,Yes
+CU01045,Male,Month-to-month,Bank transfer,52,4,47.31,1,44,Yes
+CU01046,Female,Month-to-month,Cash,23,4,113.38,0,15,No
+CU01047,Female,One year,Bank transfer,9,11,55.08,1,112,Yes
+CU01048,Female,One year,Bank transfer,24,5,53.51,1,6,No
+CU01049,Female,One year,UPI,40,8,68.07,1,48,No
+CU01050,Male,Two year,Bank transfer,14,8,70.51,2,114,Yes
+CU01051,Female,Month-to-month,Bank transfer,40,6,40.06,3,90,Yes
+CU01052,Male,Two year,Cash,51,7,15.0,2,25,No
+CU01053,Male,One year,UPI,63,1,56.96,1,17,No
+CU01054,Female,Month-to-month,UPI,40,3,64.52,0,91,Yes
+CU01055,Male,Month-to-month,UPI,43,7,20.77,0,1,No
+CU01056,Female,One year,Bank transfer,66,4,71.67,2,45,Yes
+CU01057,Female,Month-to-month,Card,3,2,73.39,0,125,Yes
+CU01058,Male,Month-to-month,UPI,55,6,89.32,0,48,No
+CU01059,Male,One year,UPI,70,8,37.56,1,51,No
+CU01060,Female,One year,Cash,59,6,74.18,3,23,No
+CU01061,Female,Two year,Bank transfer,66,4,78.79,2,67,No
+CU01062,Male,Month-to-month,Bank transfer,65,6,101.94,2,34,No
+CU01063,Female,Two year,UPI,42,5,86.3,1,3,No
+CU01064,Female,Month-to-month,Bank transfer,58,1,91.4,0,85,Yes
+CU01065,Female,Two year,Cash,26,4,68.81,1,2,Yes
+CU01066,Female,Month-to-month,UPI,9,7,53.7,3,88,Yes
+CU01067,Female,Month-to-month,Cash,7,7,96.74,1,29,No
+CU01068,Female,Two year,Bank transfer,14,5,33.27,1,43,No
+CU01069,Male,Month-to-month,Cash,52,3,103.14,1,12,Yes
+CU01070,Male,Two year,UPI,29,9,84.79,2,31,No
+CU01071,Male,Month-to-month,UPI,58,5,56.59,2,54,No
+CU01072,Male,Month-to-month,Bank transfer,24,6,25.27,2,51,Yes
+CU01073,Female,One year,Card,57,6,63.24,1,147,No
+CU01074,Female,Month-to-month,Card,63,6,49.12,1,13,No
+CU01075,Male,One year,Bank transfer,24,14,25.44,1,72,Yes
+CU01076,Female,Month-to-month,Card,38,7,50.71,1,79,Yes
+CU01077,Female,One year,Card,39,8,87.58,1,146,Yes
+CU01078,Female,One year,Card,63,5,64.75,0,123,No
+CU01079,Female,Month-to-month,Bank transfer,27,1,58.97,0,92,No
+CU01080,Female,Month-to-month,Card,28,6,25.79,1,94,No
+CU01081,Female,One year,Bank transfer,56,4,60.44,1,135,Yes
+CU01082,Male,Month-to-month,UPI,65,2,104.34,1,3,No
+CU01083,Female,One year,Card,3,3,65.94,3,118,Yes
+CU01084,Female,Two year,Card,6,7,55.96,3,40,No
+CU01085,Female,Month-to-month,Bank transfer,67,8,83.69,2,94,No
+CU01086,Male,Month-to-month,UPI,32,5,96.64,3,70,Yes
+CU01087,Male,Two year,Cash,40,9,99.51,0,69,No
+CU01088,Female,Two year,UPI,64,7,73.61,1,136,Yes
+CU01089,Male,Month-to-month,UPI,29,8,23.95,4,132,Yes
+CU01090,Male,Two year,Card,32,5,89.8,0,25,Yes
+CU01091,Male,Month-to-month,Card,61,7,55.19,3,59,No
+CU01092,Male,One year,UPI,53,6,51.84,1,11,No
+CU01093,Female,Month-to-month,Card,50,6,40.65,1,35,No
+CU01094,Male,Month-to-month,Bank transfer,26,8,78.56,0,79,No
+CU01095,Male,Month-to-month,Card,50,4,88.93,1,35,No
+CU01096,Female,Month-to-month,Cash,59,7,48.31,2,83,No
+CU01097,Female,Month-to-month,UPI,65,7,81.07,0,84,No
+CU01098,Female,Month-to-month,UPI,45,9,92.48,1,147,Yes
+CU01099,Female,Two year,Card,62,4,74.15,2,112,Yes
+CU01100,Female,Month-to-month,Card,58,3,65.01,5,81,Yes
+CU01101,Male,One year,Card,52,4,61.19,2,20,No
+CU01102,Female,Month-to-month,Bank transfer,39,3,48.59,1,2,No
+CU01103,Female,Two year,Card,31,5,84.03,0,119,No
+CU01104,Female,Month-to-month,Cash,46,3,93.49,3,100,Yes
+CU01105,Male,Month-to-month,Card,63,4,68.29,1,134,Yes
+CU01106,Male,One year,Cash,38,6,53.88,0,30,No
+CU01107,Female,Month-to-month,UPI,50,8,77.29,0,81,Yes
+CU01108,Female,Month-to-month,UPI,41,3,42.42,3,122,No
+CU01109,Male,Month-to-month,Bank transfer,47,13,96.44,1,52,Yes
+CU01110,Female,Month-to-month,Card,49,9,93.53,0,66,Yes
+CU01111,Male,Month-to-month,Card,4,5,77.42,5,117,Yes
+CU01112,Female,One year,Bank transfer,9,6,54.3,3,129,No
+CU01113,Female,Month-to-month,Bank transfer,3,4,60.21,1,72,Yes
+CU01114,Male,Month-to-month,Cash,55,4,21.5,1,26,No
+CU01115,Female,Month-to-month,UPI,64,10,45.85,2,129,No
+CU01116,Male,Month-to-month,Bank transfer,26,4,,2,89,Yes
+CU01117,Male,Month-to-month,UPI,6,9,45.67,1,66,No
+CU01118,Female,Month-to-month,UPI,1,9,124.68,2,105,No
+CU01119,Male,Month-to-month,Cash,32,8,52.59,1,56,Yes
+CU01120,Male,Two year,UPI,46,5,41.81,1,6,No
+CU01121,Male,Month-to-month,Cash,24,6,73.43,1,82,No
+CU01122,Female,Month-to-month,UPI,44,5,74.55,3,71,Yes
+CU01123,Male,One year,Bank transfer,11,4,99.13,2,139,Yes
+CU01124,Female,Month-to-month,Card,52,2,58.59,0,101,Yes
+CU01125,Male,Month-to-month,UPI,24,4,42.79,1,138,Yes
+CU01126,Male,Two year,UPI,71,10,50.42,3,93,No
+CU01127,Male,One year,Cash,55,5,95.08,2,60,No
+CU01128,Male,Month-to-month,Cash,33,6,106.03,2,15,No
+CU01129,Female,Month-to-month,Bank transfer,68,7,50.09,0,131,No
+CU01130,Male,One year,Bank transfer,70,6,61.25,0,4,No
+CU01131,Female,Month-to-month,Card,15,9,99.57,2,144,Yes
+CU01132,Male,Two year,UPI,42,7,83.38,0,32,Yes
+CU01133,Male,Month-to-month,Cash,47,7,50.29,2,90,Yes
+CU01134,Male,Month-to-month,Bank transfer,26,6,35.33,1,36,No
+CU01135,Male,Month-to-month,Cash,71,6,48.08,0,70,No
+CU01136,Male,One year,UPI,49,10,85.58,3,89,No
+CU01137,Female,Two year,Bank transfer,55,4,27.02,1,112,No
+CU01138,Female,One year,Card,14,6,69.41,2,3,No
+CU01139,Male,Month-to-month,Bank transfer,65,6,55.18,1,144,Yes
+CU01140,Male,One year,Card,69,5,46.03,3,40,No
+CU01141,Male,Two year,Cash,65,8,52.15,0,105,No
+CU01142,Male,Month-to-month,Cash,32,7,86.2,3,34,No
+CU01143,Male,Month-to-month,Bank transfer,67,5,77.64,1,145,Yes
+CU01144,Female,Month-to-month,Bank transfer,1,7,90.2,1,125,Yes
+CU01145,Male,One year,Cash,15,6,43.99,2,21,No
+CU01146,Male,Month-to-month,Card,47,7,22.36,2,53,No
+CU01147,Male,Month-to-month,Card,55,4,68.92,2,63,Yes
+CU01148,Female,One year,UPI,9,8,63.99,1,108,Yes
+CU01149,Female,One year,Card,21,3,52.06,1,136,No
+CU01150,Male,Month-to-month,UPI,7,6,15.0,0,123,Yes
+CU01151,Female,One year,Bank transfer,8,8,85.86,0,45,No
+CU01152,Female,Two year,UPI,2,5,15.0,3,106,No
+CU01153,Male,Month-to-month,UPI,71,3,82.1,2,135,No
+CU01154,Male,Month-to-month,Cash,63,9,80.96,3,16,No
+CU01155,Male,Month-to-month,Bank transfer,44,9,79.4,0,31,No
+CU01156,Male,One year,Cash,3,7,62.65,3,110,Yes
+CU01157,Male,One year,Card,52,8,15.0,1,57,No
+CU01158,Male,Two year,Bank transfer,39,8,24.14,0,127,Yes
+CU01159,Female,Month-to-month,Cash,56,4,43.39,3,130,Yes
+CU01160,Male,Month-to-month,Card,35,2,110.49,0,56,Yes
+CU01161,Male,Month-to-month,Card,1,9,88.15,2,149,Yes
+CU01162,Male,Month-to-month,Card,65,6,59.72,3,133,Yes
+CU01163,Female,One year,Cash,63,5,,2,40,Yes
+CU01164,Male,Two year,Card,65,7,67.57,2,103,Yes
+CU01165,Male,Month-to-month,UPI,47,7,85.42,3,65,Yes
+CU01166,Male,One year,Card,66,9,71.77,1,106,No
+CU01167,Female,Month-to-month,UPI,6,8,29.49,2,77,Yes
+CU01168,Male,One year,Cash,29,6,100.14,1,81,No
+CU01169,Male,One year,Card,23,8,76.29,2,85,Yes
+CU01170,Female,One year,Card,34,6,51.61,0,57,No
+CU01171,Female,Two year,Card,3,4,73.08,2,81,Yes
+CU01172,Male,Two year,Bank transfer,59,2,94.62,1,48,Yes
+CU01173,Male,Month-to-month,Card,22,8,73.9,1,123,Yes
+CU01174,Female,Two year,UPI,9,7,75.3,1,119,Yes
+CU01175,Female,One year,Cash,15,3,102.6,1,48,No
+CU01176,Female,Month-to-month,Cash,9,6,48.68,1,125,Yes
+CU01177,Male,Month-to-month,UPI,49,6,40.37,0,78,No
+CU01178,Female,Two year,Cash,66,7,53.26,4,49,No
+CU01179,Female,Two year,Bank transfer,6,8,86.06,4,49,No
+CU01180,Female,Month-to-month,UPI,3,8,88.95,0,94,Yes
+CU01181,Female,Month-to-month,Card,63,6,69.04,0,116,Yes
+CU01182,Male,Month-to-month,UPI,28,3,43.82,3,108,Yes
+CU01183,Female,Month-to-month,Card,9,8,109.5,1,94,No
+CU01184,Female,Two year,UPI,14,9,35.97,1,32,No
+CU01185,Female,Month-to-month,Card,49,2,53.55,0,49,No
+CU01186,Female,One year,Card,6,6,47.39,2,94,No
+CU01187,Male,Month-to-month,Card,29,5,91.53,2,37,Yes
+CU01188,Female,One year,Card,70,8,60.57,0,50,No
+CU01189,Female,One year,Card,31,9,106.13,0,57,No
+CU01190,Female,Two year,Cash,12,5,85.02,1,40,No
+CU01191,Male,Month-to-month,Cash,54,12,41.73,1,123,No
+CU01192,Male,Month-to-month,UPI,31,0,57.08,0,47,Yes
+CU01193,Male,Month-to-month,Bank transfer,29,8,51.65,0,58,No
+CU01194,Female,Two year,UPI,19,12,99.6,2,48,No
+CU01195,Female,Two year,Bank transfer,54,7,86.15,2,145,No
+CU01196,Male,Month-to-month,Bank transfer,35,7,25.35,0,74,Yes
+CU01197,Male,Month-to-month,UPI,35,5,78.13,1,4,Yes
+CU01198,Male,One year,UPI,55,3,63.43,0,53,Yes
+CU01199,Male,One year,Bank transfer,26,9,33.12,4,117,No
+CU01200,Male,One year,Cash,47,4,44.33,5,107,No
+CU01201,Female,Month-to-month,Card,13,6,,2,27,No
+CU01202,Male,Two year,Card,41,7,15.0,1,134,Yes
+CU01203,Female,Month-to-month,Card,31,8,70.53,0,72,Yes
+CU01204,Female,One year,Card,37,10,67.12,0,115,No
+CU01205,Female,Month-to-month,UPI,26,4,58.65,1,50,Yes
+CU01206,Male,Month-to-month,Cash,10,4,65.9,0,82,Yes
+CU01207,Female,Month-to-month,Bank transfer,66,4,59.35,3,97,Yes
+CU01208,Male,Month-to-month,Cash,29,4,36.9,3,102,Yes
+CU01209,Male,Two year,Cash,54,4,48.99,1,100,No
+CU01210,Male,One year,Card,65,6,45.57,2,134,No
+CU01211,Female,Two year,Card,32,9,80.75,0,113,No
+CU01212,Male,One year,Bank transfer,59,8,38.36,0,88,No
+CU01213,Male,Month-to-month,Cash,32,8,51.19,1,50,No
+CU01214,Female,One year,Bank transfer,5,8,65.66,1,8,No
+CU01215,Female,One year,UPI,63,3,26.9,0,39,No
+CU01216,Male,Two year,UPI,60,9,53.61,1,44,No
+CU01217,Female,Month-to-month,UPI,41,6,65.57,1,127,Yes
+CU01218,Male,Month-to-month,Card,59,5,68.86,2,49,No
+CU01219,Male,One year,Bank transfer,48,7,73.45,2,2,No
+CU01220,Female,One year,Bank transfer,57,5,45.67,1,147,Yes
+CU01221,Male,Month-to-month,Bank transfer,5,4,37.38,0,68,No
+CU01222,Female,Month-to-month,Cash,58,4,53.02,2,110,No
+CU01223,Male,Month-to-month,Bank transfer,16,7,69.57,0,10,No
+CU01224,Female,Two year,Bank transfer,70,8,57.46,0,64,No
+CU01225,Male,Month-to-month,Card,69,6,36.8,1,131,Yes
+CU01226,Female,One year,Card,4,7,120.09,0,52,No
+CU01227,Female,Month-to-month,Cash,47,2,44.96,1,70,No
+CU01228,Female,Month-to-month,Bank transfer,28,4,31.57,3,144,Yes
+CU01229,Male,Month-to-month,Card,19,4,47.38,0,16,Yes
+CU01230,Female,Month-to-month,Card,69,7,86.58,1,114,No
+CU01231,Male,Month-to-month,Cash,29,5,79.24,2,63,Yes
+CU01232,Male,One year,Bank transfer,40,2,109.61,0,30,Yes
+CU01233,Female,Month-to-month,UPI,23,10,39.71,1,36,No
+CU01234,Female,Month-to-month,UPI,49,6,57.44,3,71,Yes
+CU01235,Male,One year,Bank transfer,18,6,90.33,0,82,No
+CU01236,Female,Month-to-month,Bank transfer,26,4,38.76,1,33,Yes
+CU01237,Male,Month-to-month,Bank transfer,51,6,93.99,2,19,Yes
+CU01238,Female,One year,UPI,16,7,65.87,0,148,Yes
+CU01239,Male,Month-to-month,Card,56,6,45.04,1,111,Yes
+CU01240,Female,Month-to-month,Bank transfer,70,6,22.1,1,85,No
+CU01241,Female,Month-to-month,Bank transfer,50,6,78.06,2,118,No
+CU01242,Male,Month-to-month,Bank transfer,26,2,,1,12,Yes
+CU01243,Female,Month-to-month,Cash,13,8,73.5,1,131,Yes
+CU01244,Male,Two year,Card,40,4,74.91,1,46,No
+CU01245,Male,Month-to-month,Bank transfer,32,8,71.59,1,32,Yes
+CU01246,Male,One year,Card,18,4,88.06,0,79,No
+CU01247,Male,One year,UPI,27,7,95.66,1,137,Yes
+CU01248,Female,Month-to-month,Bank transfer,69,7,15.0,2,76,No
+CU01249,Female,Month-to-month,UPI,12,6,,1,36,No
+CU01250,Male,Month-to-month,Card,19,7,49.54,6,33,Yes
+CU01251,Female,Month-to-month,UPI,25,6,69.72,3,57,Yes
+CU01252,Male,Two year,Bank transfer,65,8,55.09,1,102,No
+CU01253,Female,Month-to-month,Card,26,6,76.13,1,99,Yes
+CU01254,Female,Month-to-month,Card,21,5,73.35,3,34,Yes
+CU01255,Male,Month-to-month,Card,22,11,17.1,1,85,No
+CU01256,Male,One year,UPI,68,6,15.0,1,147,Yes
+CU01257,Male,Month-to-month,Bank transfer,26,8,83.91,1,127,No
+CU01258,Female,Month-to-month,Card,27,5,44.22,3,123,No
+CU01259,Female,Month-to-month,UPI,26,5,107.97,0,81,No
+CU01260,Female,Two year,UPI,62,6,86.31,0,67,No
+CU01261,Female,Month-to-month,Bank transfer,51,4,20.31,2,127,No
+CU01262,Female,Month-to-month,Bank transfer,43,5,45.07,1,54,No
+CU01263,Male,One year,Bank transfer,16,6,70.99,1,69,Yes
+CU01264,Male,One year,Bank transfer,9,6,53.84,2,26,No
+CU01265,Male,Month-to-month,Bank transfer,7,5,60.67,1,77,Yes
+CU01266,Male,Two year,Card,21,3,37.3,1,12,No
+CU01267,Male,Month-to-month,Bank transfer,57,11,73.64,1,66,Yes
+CU01268,Female,Two year,Card,55,8,,1,113,No
+CU01269,Female,Two year,UPI,56,12,83.89,1,26,No
+CU01270,Female,Month-to-month,Card,48,7,63.79,4,133,Yes
+CU01271,Male,Month-to-month,UPI,37,6,49.28,1,97,No
+CU01272,Male,Month-to-month,Cash,26,10,68.43,1,74,No
+CU01273,Male,Month-to-month,Card,52,6,74.07,1,55,Yes
+CU01274,Female,Month-to-month,UPI,14,5,65.05,0,134,Yes
+CU01275,Female,Two year,Card,5,7,95.7,3,129,No
+CU01276,Female,Month-to-month,Cash,59,8,37.86,2,142,Yes
+CU01277,Male,Month-to-month,Cash,34,5,87.72,1,99,Yes
+CU01278,Female,Month-to-month,Bank transfer,45,3,34.51,1,88,No
+CU01279,Female,Month-to-month,Card,68,5,81.32,3,51,Yes
+CU01280,Female,Month-to-month,Cash,49,3,,2,38,No
+CU01281,Female,Two year,Card,55,9,57.52,2,129,Yes
+CU01282,Female,Month-to-month,Card,35,8,88.84,1,122,No
+CU01283,Female,Month-to-month,Bank transfer,23,7,54.64,4,54,Yes
+CU01284,Male,Month-to-month,Cash,25,4,62.4,2,32,Yes
+CU01285,Male,Month-to-month,Card,64,7,71.58,0,78,Yes
+CU01286,Male,Month-to-month,Cash,28,12,15.0,1,139,No
+CU01287,Male,Month-to-month,Card,67,6,72.05,1,128,No
+CU01288,Female,Month-to-month,Card,3,4,40.73,2,28,No
+CU01289,Male,Month-to-month,Cash,21,8,88.06,3,106,No
+CU01290,Male,Month-to-month,Cash,68,8,61.89,2,53,No
+CU01291,Male,Two year,Card,42,10,71.08,0,85,No
+CU01292,Male,One year,UPI,27,6,34.46,1,18,No
+CU01293,Female,Month-to-month,UPI,13,3,84.07,3,4,Yes
+CU01294,Male,One year,Card,35,6,63.26,1,42,No
+CU01295,Female,Month-to-month,Cash,68,6,26.2,0,107,No
+CU01296,Female,Month-to-month,UPI,26,1,51.05,1,75,Yes
+CU01297,Male,One year,Cash,35,5,80.51,0,56,No
+CU01298,Female,One year,Card,26,7,67.07,0,58,Yes
+CU01299,Male,Month-to-month,UPI,62,7,81.44,0,10,No
+CU01300,Male,Month-to-month,Bank transfer,49,4,54.59,4,94,Yes
+CU01301,Female,Month-to-month,Card,44,12,93.93,0,54,No
+CU01302,Female,Month-to-month,Bank transfer,48,3,98.89,1,54,Yes
+CU01303,Male,Month-to-month,UPI,30,5,19.8,1,101,No
+CU01304,Male,One year,UPI,58,7,78.37,1,85,No
+CU01305,Male,Month-to-month,UPI,44,2,,2,26,No
+CU01306,Male,One year,UPI,6,5,75.6,4,94,Yes
+CU01307,Female,Two year,UPI,27,5,62.6,1,6,No
+CU01308,Male,Month-to-month,Card,63,5,30.51,0,138,No
+CU01309,Female,Month-to-month,Bank transfer,19,7,55.88,3,80,Yes
+CU01310,Male,Month-to-month,Bank transfer,68,5,50.91,1,132,No
+CU01311,Male,One year,Cash,58,10,85.66,0,145,Yes
+CU01312,Male,Two year,UPI,71,8,88.55,1,39,No
+CU01313,Male,Two year,UPI,57,6,59.49,0,125,No
+CU01314,Male,Month-to-month,UPI,10,7,39.91,1,70,No
+CU01315,Male,One year,Bank transfer,14,6,15.0,0,108,No
+CU01316,Male,Month-to-month,Bank transfer,35,11,78.36,2,14,No
+CU01317,Male,One year,UPI,26,5,76.24,0,35,No
+CU01318,Female,Two year,Cash,67,13,15.0,1,33,No
+CU01319,Female,One year,Card,61,9,76.66,4,43,No
+CU01320,Female,Month-to-month,Bank transfer,54,4,85.46,2,44,Yes
+CU01321,Female,Month-to-month,Card,67,5,15.0,3,64,Yes
+CU01322,Male,One year,Cash,5,4,38.45,3,143,Yes
+CU01323,Male,Month-to-month,Bank transfer,50,6,125.85,3,1,No
+CU01324,Male,Month-to-month,Bank transfer,62,6,65.57,1,113,No
+CU01325,Male,One year,Cash,70,7,121.16,4,132,Yes
+CU01326,Female,Two year,UPI,60,6,69.83,1,134,No
+CU01327,Male,Two year,Card,58,4,91.87,1,52,No
+CU01328,Female,Month-to-month,Cash,56,4,56.72,2,44,No
+CU01329,Female,One year,Cash,10,6,47.71,3,37,No
+CU01330,Female,One year,Bank transfer,30,3,24.5,0,128,No
+CU01331,Male,Month-to-month,UPI,63,7,78.0,1,113,Yes
+CU01332,Female,Month-to-month,Card,45,8,43.28,2,115,No
+CU01333,Female,One year,Card,19,6,40.57,3,124,No
+CU01334,Male,Month-to-month,Bank transfer,51,7,25.59,1,21,No
+CU01335,Female,Month-to-month,Card,2,6,65.49,4,136,Yes
+CU01336,Male,Month-to-month,Card,29,6,83.74,1,48,Yes
+CU01337,Male,One year,UPI,54,4,58.78,2,116,Yes
+CU01338,Female,Month-to-month,UPI,56,8,56.61,1,106,Yes
+CU01339,Male,Month-to-month,Card,37,8,103.03,1,54,Yes
+CU01340,Male,Month-to-month,Card,20,8,24.46,2,48,Yes
+CU01341,Male,Month-to-month,UPI,36,8,110.08,2,96,Yes
+CU01342,Male,Month-to-month,Card,14,1,31.11,1,37,No
+CU01343,Male,Month-to-month,Cash,67,5,61.9,1,91,Yes
+CU01344,Female,Month-to-month,Card,61,7,74.13,0,148,No
+CU01345,Female,Month-to-month,Card,52,4,89.42,2,45,No
+CU01346,Male,Month-to-month,Bank transfer,25,4,24.95,1,72,No
+CU01347,Female,Month-to-month,UPI,11,4,69.08,1,42,Yes
+CU01348,Female,Month-to-month,UPI,5,2,49.58,1,52,Yes
+CU01349,Female,Month-to-month,Bank transfer,28,5,89.81,3,7,No
+CU01350,Female,Month-to-month,UPI,60,6,49.27,1,53,No
+CU01351,Female,Month-to-month,Card,27,8,16.51,0,83,No
+CU01352,Male,Month-to-month,Bank transfer,57,5,74.11,1,92,No
+CU01353,Female,Month-to-month,Bank transfer,13,3,64.19,3,62,Yes
+CU01354,Female,Month-to-month,Card,57,9,109.35,1,96,No
+CU01355,Female,Two year,Bank transfer,6,8,89.02,0,2,No
+CU01356,Female,Month-to-month,Bank transfer,25,9,43.01,0,129,No
+CU01357,Female,One year,Bank transfer,11,2,89.3,0,32,No
+CU01358,Female,Month-to-month,Bank transfer,43,8,67.4,2,98,No
+CU01359,Male,Month-to-month,Bank transfer,14,7,82.81,2,19,Yes
+CU01360,Male,Month-to-month,Card,1,4,46.03,2,140,Yes
+CU01361,Female,Month-to-month,Card,23,3,55.51,1,60,No
+CU01362,Male,One year,Bank transfer,1,7,81.25,0,86,No
+CU01363,Female,Month-to-month,Cash,27,4,83.24,2,61,No
+CU01364,Male,Two year,Card,19,4,15.0,0,74,No
+CU01365,Female,One year,Bank transfer,67,4,79.47,0,121,No
+CU01366,Male,One year,Bank transfer,38,6,43.88,2,117,No
+CU01367,Male,Month-to-month,Cash,32,6,70.86,3,20,Yes
+CU01368,Female,Month-to-month,Card,43,8,23.65,1,31,No
+CU01369,Female,One year,Cash,10,8,87.08,1,50,No
+CU01370,Female,Month-to-month,Card,10,5,81.89,2,95,Yes
+CU01371,Female,One year,Cash,11,5,44.37,2,89,No
+CU01372,Female,Month-to-month,Card,62,3,75.04,0,60,No
+CU01373,Male,One year,UPI,53,4,64.08,0,40,Yes
+CU01374,Male,One year,UPI,69,7,80.12,1,20,Yes
+CU01375,Female,Month-to-month,Cash,58,4,30.4,1,9,No
+CU01376,Female,Two year,Bank transfer,9,5,34.69,3,47,Yes
+CU01377,Male,One year,UPI,12,4,46.7,4,124,Yes
+CU01378,Male,Month-to-month,UPI,59,9,63.72,2,94,Yes
+CU01379,Male,Month-to-month,Cash,39,4,105.79,4,62,Yes
+CU01380,Male,One year,UPI,44,5,69.31,5,141,No
+CU01381,Female,One year,Cash,17,7,88.63,2,148,Yes
+CU01382,Male,Two year,UPI,36,6,43.09,1,82,No
+CU01383,Female,One year,Card,65,4,50.69,2,77,No
+CU01384,Female,Month-to-month,Cash,35,5,48.1,1,61,Yes
+CU01385,Male,Month-to-month,Card,49,5,60.04,1,122,Yes
+CU01386,Male,Month-to-month,Cash,54,5,81.67,0,134,No
+CU01387,Female,Month-to-month,Cash,66,6,56.61,4,115,No
+CU01388,Male,Two year,Cash,15,9,57.43,3,29,No
+CU01389,Female,One year,Cash,65,6,79.52,1,97,No
+CU01390,Male,Two year,Cash,44,2,52.33,0,12,No
+CU01391,Female,One year,Card,60,10,45.64,2,29,No
+CU01392,Male,One year,UPI,19,9,56.61,2,48,Yes
+CU01393,Female,One year,Cash,9,10,110.62,0,6,No
+CU01394,Male,One year,Bank transfer,7,6,87.01,3,13,Yes
+CU01395,Male,Month-to-month,Bank transfer,28,12,112.44,2,37,Yes
+CU01396,Male,Two year,Bank transfer,40,6,32.44,1,62,Yes
+CU01397,Female,Month-to-month,Card,21,9,74.75,2,20,Yes
+CU01398,Female,Two year,Cash,20,3,55.69,0,36,Yes
+CU01399,Female,One year,Card,58,13,57.19,1,60,No
+CU01400,Female,Month-to-month,Bank transfer,53,5,26.48,1,28,No
+CU01401,Female,Month-to-month,Card,46,7,97.5,1,143,No
+CU01402,Male,Month-to-month,Bank transfer,47,11,24.44,2,28,No
+CU01403,Male,One year,Cash,61,8,87.24,1,46,No
+CU01404,Male,Month-to-month,Bank transfer,16,3,55.15,4,37,Yes
+CU01405,Female,Month-to-month,Cash,67,5,42.22,5,55,Yes
+CU01406,Female,Month-to-month,Cash,62,2,41.12,1,81,Yes
+CU01407,Male,Month-to-month,Bank transfer,25,4,66.25,6,51,Yes
+CU01408,Female,Two year,Card,25,1,55.84,0,0,No
+CU01409,Female,One year,Bank transfer,14,4,65.11,3,92,No
+CU01410,Female,Month-to-month,Cash,51,8,15.36,1,92,Yes
+CU01411,Male,Two year,Bank transfer,22,8,15.0,1,140,No
+CU01412,Male,Month-to-month,UPI,19,5,19.48,1,105,Yes
+CU01413,Male,Two year,Card,48,1,85.06,2,140,Yes
+CU01414,Female,Two year,UPI,14,6,101.21,4,107,Yes
+CU01415,Male,One year,Bank transfer,9,7,58.41,4,117,No
+CU01416,Male,Month-to-month,Card,62,3,83.6,3,76,Yes
+CU01417,Female,Two year,UPI,3,8,73.67,3,102,Yes
+CU01418,Female,Month-to-month,UPI,66,6,94.22,0,69,No
+CU01419,Male,Month-to-month,UPI,49,6,95.13,1,49,Yes
+CU01420,Male,Month-to-month,Bank transfer,25,10,34.1,1,90,No
+CU01421,Female,Month-to-month,Bank transfer,41,6,69.82,0,70,No
+CU01422,Female,Month-to-month,Card,23,6,86.42,1,44,No
+CU01423,Male,Two year,Cash,30,7,86.52,2,144,Yes
+CU01424,Male,Month-to-month,Card,50,7,84.17,3,17,No
+CU01425,Female,Month-to-month,Bank transfer,65,7,64.18,1,17,No
+CU01426,Male,Month-to-month,UPI,17,5,81.91,0,76,Yes
+CU01427,Male,Month-to-month,Bank transfer,38,8,29.49,3,2,No
+CU01428,Female,Two year,Card,62,9,30.71,2,130,Yes
+CU01429,Male,Two year,Card,2,4,102.71,0,48,No
+CU01430,Male,One year,Bank transfer,1,6,92.21,1,72,Yes
+CU01431,Male,One year,Card,44,3,104.57,4,85,Yes
+CU01432,Female,Two year,Card,11,8,61.16,0,41,No
+CU01433,Female,Month-to-month,Cash,71,8,40.56,2,17,No
+CU01434,Male,Month-to-month,Cash,9,3,60.33,2,31,No
+CU01435,Female,Month-to-month,Cash,53,9,113.45,2,13,No
+CU01436,Female,Month-to-month,UPI,23,8,44.04,0,9,No
+CU01437,Male,Two year,Bank transfer,66,4,60.66,3,105,No
+CU01438,Female,One year,UPI,62,8,95.44,3,138,No
+CU01439,Male,Month-to-month,Card,57,3,67.01,1,60,Yes
+CU01440,Female,Month-to-month,Cash,46,3,55.3,2,49,No
+CU01441,Female,One year,Cash,16,7,83.89,2,56,Yes
+CU01442,Female,Two year,Card,8,7,53.08,3,134,No
+CU01443,Male,Two year,Card,19,9,76.93,4,42,No
+CU01444,Male,One year,Bank transfer,6,5,15.0,3,141,Yes
+CU01445,Female,One year,UPI,56,7,21.22,0,42,No
+CU01446,Female,Month-to-month,Bank transfer,21,7,59.16,0,66,No
+CU01447,Male,Month-to-month,UPI,32,7,98.36,1,42,No
+CU01448,Female,Month-to-month,Bank transfer,45,1,60.9,1,63,No
+CU01449,Female,One year,Cash,50,9,63.7,2,102,No
+CU01450,Female,Two year,Cash,43,4,71.24,1,47,No
+CU01451,Female,Two year,Card,53,7,,2,6,No
+CU01452,Female,Month-to-month,Card,9,7,24.77,1,95,Yes
+CU01453,Female,Month-to-month,UPI,20,7,82.22,1,105,Yes
+CU01454,Female,Month-to-month,Bank transfer,55,5,71.65,1,32,No
+CU01455,Female,Month-to-month,UPI,51,12,73.57,1,103,No
+CU01456,Male,Two year,Bank transfer,45,5,37.14,2,50,No
+CU01457,Female,One year,Card,67,10,103.16,4,104,No
+CU01458,Male,Two year,UPI,70,4,54.26,3,44,No
+CU01459,Female,Month-to-month,Card,6,3,100.76,1,10,Yes
+CU01460,Female,One year,Card,40,7,15.0,2,56,No
+CU01461,Male,Two year,Cash,64,7,54.34,1,13,No
+CU01462,Male,One year,Card,24,10,103.07,4,11,No
+CU01463,Female,Month-to-month,UPI,5,5,61.44,4,33,Yes
+CU01464,Male,Month-to-month,UPI,9,6,15.0,2,79,Yes
+CU01465,Female,Month-to-month,Bank transfer,52,5,41.0,1,23,No
+CU01466,Male,Month-to-month,Bank transfer,66,7,72.01,0,13,No
+CU01467,Male,Month-to-month,Bank transfer,51,4,100.89,4,57,No
+CU01468,Female,One year,Bank transfer,3,5,57.81,0,117,No
+CU01469,Male,Month-to-month,Cash,30,5,92.38,0,46,Yes
+CU01470,Female,Month-to-month,Card,25,9,74.87,2,63,Yes
+CU01471,Male,Month-to-month,Card,65,5,54.7,1,130,Yes
+CU01472,Female,Two year,Card,38,5,84.68,3,110,Yes
+CU01473,Male,Month-to-month,UPI,17,4,89.01,0,63,Yes
+CU01474,Male,Month-to-month,UPI,41,7,57.81,1,19,No
+CU01475,Female,One year,Card,54,6,47.01,1,98,No
+CU01476,Male,Month-to-month,Card,42,5,24.57,1,86,No
+CU01477,Male,Month-to-month,UPI,30,7,75.44,1,42,Yes
+CU01478,Female,One year,Card,51,4,50.59,2,28,No
+CU01479,Male,Month-to-month,Bank transfer,22,5,78.06,2,42,No
+CU01480,Female,Month-to-month,Bank transfer,10,5,72.32,6,86,Yes
+CU01481,Male,One year,Bank transfer,62,7,73.8,3,59,No
+CU01482,Female,Month-to-month,UPI,52,3,60.89,1,63,No
+CU01483,Female,Month-to-month,Cash,52,2,33.11,3,116,Yes
+CU01484,Male,Month-to-month,Bank transfer,64,7,76.82,2,96,Yes
+CU01485,Male,Month-to-month,Cash,51,4,85.95,2,123,Yes
+CU01486,Female,Month-to-month,UPI,3,7,123.13,1,13,Yes
+CU01487,Male,Month-to-month,Bank transfer,60,3,50.15,2,105,Yes
+CU01488,Female,Month-to-month,Card,3,11,38.82,0,135,Yes
+CU01489,Male,Two year,UPI,50,2,35.81,2,53,No
+CU01490,Female,One year,Card,71,5,63.75,1,72,No
+CU01491,Male,Two year,UPI,29,11,85.07,0,43,No
+CU01492,Male,Month-to-month,Card,23,10,87.27,3,100,No
+CU01493,Male,Month-to-month,Card,66,4,104.22,0,80,Yes
+CU01494,Female,Month-to-month,Cash,33,3,74.64,2,38,Yes
+CU01495,Female,Month-to-month,Bank transfer,66,8,35.01,2,8,No
+CU01496,Male,Month-to-month,Cash,23,7,71.0,2,108,No
+CU01497,Male,Month-to-month,Cash,14,8,15.0,2,82,Yes
+CU01498,Female,One year,Card,40,5,56.34,2,140,Yes
+CU01499,Male,Month-to-month,Card,27,5,54.39,2,35,No
+CU01500,Female,Month-to-month,Cash,51,3,76.5,2,143,Yes
+CU01501,Female,One year,Cash,22,9,76.0,2,70,No
+CU01502,Male,Month-to-month,UPI,54,7,46.52,2,119,No
+CU01503,Male,Two year,UPI,26,3,47.26,0,56,Yes
+CU01504,Male,Two year,Bank transfer,26,6,66.61,3,60,No
+CU01505,Male,Month-to-month,Bank transfer,51,5,76.91,1,97,Yes
+CU01506,Male,Month-to-month,UPI,19,5,83.39,0,27,No
+CU01507,Male,Two year,UPI,21,8,52.86,5,126,Yes
+CU01508,Female,Two year,Bank transfer,39,6,63.77,3,39,No
+CU01509,Male,Two year,Cash,24,7,38.96,2,86,No
+CU01510,Female,Month-to-month,Cash,28,8,39.28,1,112,Yes
+CU01511,Female,One year,Bank transfer,25,12,16.67,0,57,No
+CU01512,Male,Month-to-month,Cash,45,7,49.18,0,42,Yes
+CU01513,Female,Month-to-month,Card,24,7,96.97,1,97,Yes
+CU01514,Female,Month-to-month,Cash,44,7,100.42,1,42,Yes
+CU01515,Female,One year,UPI,17,7,79.18,0,71,No
+CU01516,Male,Month-to-month,UPI,64,4,90.14,1,41,No
+CU01517,Male,One year,Cash,68,4,85.25,3,89,No
+CU01518,Female,Month-to-month,Cash,1,2,69.34,3,48,Yes
+CU01519,Male,Two year,Card,8,7,15.0,0,101,No
+CU01520,Male,Month-to-month,UPI,8,6,121.64,4,81,Yes
+CU01521,Male,Two year,Bank transfer,13,6,59.82,0,10,No
+CU01522,Male,One year,Card,56,7,59.69,1,104,No
+CU01523,Male,Month-to-month,Card,18,6,101.52,2,103,Yes
+CU01524,Female,One year,UPI,42,4,68.99,2,58,No
+CU01525,Female,One year,UPI,18,5,127.95,2,82,Yes
+CU01526,Female,Month-to-month,UPI,5,6,44.22,1,57,No
+CU01527,Male,Month-to-month,Cash,6,8,90.91,1,82,No
+CU01528,Male,Two year,Bank transfer,67,3,58.87,2,124,No
+CU01529,Male,Two year,UPI,40,10,67.51,2,9,Yes
+CU01530,Male,One year,Bank transfer,47,8,42.98,1,29,No
+CU01531,Female,Month-to-month,Cash,14,5,49.26,2,90,No
+CU01532,Female,Month-to-month,UPI,35,8,97.26,3,91,No
+CU01533,Female,Month-to-month,UPI,47,6,77.95,2,105,Yes
+CU01534,Female,One year,Cash,56,9,75.58,3,83,No
+CU01535,Male,Month-to-month,Card,47,5,24.19,2,97,Yes
+CU01536,Female,Month-to-month,Card,43,6,24.89,6,68,Yes
+CU01537,Female,Two year,Bank transfer,45,7,41.93,2,5,No
+CU01538,Male,Two year,Cash,27,8,55.1,2,135,No
+CU01539,Female,Month-to-month,Bank transfer,50,5,62.43,1,54,No
+CU01540,Male,Month-to-month,Bank transfer,22,8,72.91,0,1,No
+CU01541,Male,Month-to-month,Card,52,4,90.56,2,94,Yes
+CU01542,Female,Month-to-month,UPI,33,3,101.76,3,120,Yes
+CU01543,Female,Month-to-month,UPI,41,7,69.86,2,46,No
+CU01544,Male,Month-to-month,Bank transfer,34,10,43.85,2,61,No
+CU01545,Female,Month-to-month,UPI,41,7,,1,143,Yes
+CU01546,Male,One year,UPI,51,5,69.61,1,123,No
+CU01547,Male,Month-to-month,Card,20,7,76.67,1,114,Yes
+CU01548,Female,One year,Card,34,12,95.15,0,67,No
+CU01549,Female,Month-to-month,UPI,29,4,55.31,0,19,No
+CU01550,Male,One year,Cash,2,4,101.4,1,27,Yes
+CU01551,Female,One year,Card,61,6,29.38,2,125,No
+CU01552,Female,Two year,UPI,49,1,83.21,0,84,No
+CU01553,Male,Month-to-month,Bank transfer,4,7,48.73,1,63,Yes
+CU01554,Male,One year,Cash,5,7,70.62,0,145,No
+CU01555,Male,Two year,Card,66,5,73.22,0,26,No
+CU01556,Female,Month-to-month,Cash,61,10,56.23,1,16,No
+CU01557,Male,Month-to-month,Bank transfer,52,6,48.97,3,48,No
+CU01558,Female,Month-to-month,Cash,51,4,43.76,2,132,No
+CU01559,Male,Two year,Bank transfer,60,4,72.17,0,130,No
+CU01560,Male,Month-to-month,Card,43,3,80.86,1,93,No
+CU01561,Female,Month-to-month,Card,1,8,110.52,3,21,Yes
+CU01562,Male,Two year,Cash,33,6,58.6,2,123,Yes
+CU01563,Male,Month-to-month,Cash,24,7,26.62,0,129,Yes
+CU01564,Male,Month-to-month,UPI,13,8,76.81,2,123,Yes
+CU01565,Female,One year,UPI,62,9,21.52,2,119,No
+CU01566,Female,Month-to-month,Cash,47,7,105.04,2,18,Yes
+CU01567,Male,Month-to-month,Cash,65,6,83.95,2,140,Yes
+CU01568,Male,Month-to-month,UPI,8,7,39.79,0,59,Yes
+CU01569,Female,One year,Card,70,4,25.37,0,120,No
+CU01570,Female,One year,Bank transfer,43,3,43.45,2,85,No
+CU01571,Female,Month-to-month,Cash,41,7,78.28,1,54,Yes
+CU01572,Female,Month-to-month,UPI,14,3,45.77,1,122,Yes
+CU01573,Male,Two year,Card,45,2,83.58,0,46,Yes
+CU01574,Male,Month-to-month,Bank transfer,43,8,88.45,2,45,Yes
+CU01575,Male,Two year,Card,50,3,50.71,1,29,No
+CU01576,Female,Two year,Cash,11,7,87.09,2,144,Yes
+CU01577,Male,Month-to-month,UPI,46,5,95.2,0,21,No
+CU01578,Male,One year,UPI,7,4,79.14,1,6,No
+CU01579,Female,Two year,Cash,6,6,78.63,3,8,Yes
+CU01580,Male,One year,UPI,34,5,50.94,1,85,No
+CU01581,Male,One year,Card,9,1,115.77,2,16,No
+CU01582,Male,Month-to-month,Bank transfer,51,9,40.45,0,97,No
+CU01583,Male,Two year,Bank transfer,35,5,53.93,1,48,No
+CU01584,Female,Month-to-month,UPI,17,5,88.46,1,86,No
+CU01585,Male,One year,Card,20,3,55.6,2,144,No
+CU01586,Male,Two year,UPI,36,12,57.5,2,8,No
+CU01587,Male,Month-to-month,Bank transfer,43,4,30.97,0,79,No
+CU01588,Male,One year,Cash,57,10,53.27,0,68,No
+CU01589,Female,One year,Card,41,9,125.36,2,2,No
+CU01590,Female,Two year,Card,40,8,56.01,1,28,No
+CU01591,Male,Month-to-month,Card,44,3,96.98,5,89,Yes
+CU01592,Male,One year,Cash,43,6,52.52,2,81,Yes
+CU01593,Female,Month-to-month,Bank transfer,25,7,38.36,2,100,Yes
+CU01594,Male,Month-to-month,Card,16,12,45.52,4,54,Yes
+CU01595,Male,Month-to-month,Bank transfer,38,8,83.13,1,7,No
+CU01596,Male,Month-to-month,Bank transfer,9,11,15.0,0,123,Yes
+CU01597,Male,Month-to-month,Card,18,5,,3,30,Yes
+CU01598,Male,Month-to-month,UPI,11,7,76.93,3,9,Yes
+CU01599,Male,Month-to-month,UPI,35,7,55.65,5,31,Yes
+CU01600,Female,Month-to-month,Bank transfer,70,3,45.16,0,64,No
+CU01601,Female,Two year,UPI,63,4,51.96,3,37,No
+CU01602,Male,Month-to-month,Bank transfer,7,5,93.77,2,128,Yes
+CU01603,Female,Month-to-month,Bank transfer,59,5,25.56,1,87,Yes
+CU01604,Male,One year,UPI,11,4,63.62,1,98,No
+CU01605,Male,Two year,Card,65,9,93.23,1,8,Yes
+CU01606,Female,One year,UPI,15,5,15.0,3,26,No
+CU01607,Female,Month-to-month,UPI,9,3,49.29,1,84,Yes
+CU01608,Male,Month-to-month,Bank transfer,56,7,27.16,2,121,No
+CU01609,Female,Month-to-month,Cash,60,4,32.78,2,135,No
+CU01610,Male,One year,Card,29,3,70.41,2,50,No
+CU01611,Female,Month-to-month,Cash,39,1,81.23,3,134,Yes
+CU01612,Female,Month-to-month,UPI,57,2,54.75,4,78,Yes
+CU01613,Female,Month-to-month,Cash,61,7,27.52,2,106,Yes
+CU01614,Female,Month-to-month,Card,30,5,43.36,1,87,Yes
+CU01615,Female,Month-to-month,Cash,56,6,74.92,1,147,No
+CU01616,Male,Month-to-month,UPI,57,3,64.11,1,17,No
+CU01617,Male,Month-to-month,Bank transfer,57,9,35.49,3,83,No
+CU01618,Male,Month-to-month,Card,64,4,52.8,2,99,Yes
+CU01619,Male,Month-to-month,Cash,60,4,84.5,2,79,Yes
+CU01620,Male,Month-to-month,Bank transfer,32,6,70.02,0,102,Yes
+CU01621,Male,One year,UPI,23,11,38.87,2,0,No
+CU01622,Male,Month-to-month,Cash,71,6,71.38,2,95,Yes
+CU01623,Male,Month-to-month,Card,32,6,50.95,2,90,No
+CU01624,Female,One year,UPI,67,7,48.85,0,101,Yes
+CU01625,Male,Month-to-month,Card,71,3,68.3,0,90,No
+CU01626,Male,Month-to-month,Bank transfer,2,8,37.55,1,36,No
+CU01627,Female,Month-to-month,Cash,11,6,53.99,3,127,No
+CU01628,Female,Two year,UPI,41,5,91.18,0,34,No
+CU01629,Female,Month-to-month,Bank transfer,7,4,126.74,0,115,Yes
+CU01630,Male,Month-to-month,Card,47,6,22.17,2,37,No
+CU01631,Female,Month-to-month,Cash,1,1,43.05,2,104,Yes
+CU01632,Male,One year,Bank transfer,60,6,93.26,1,39,No
+CU01633,Female,Month-to-month,Cash,31,2,33.61,2,125,No
+CU01634,Female,One year,UPI,48,8,61.8,4,54,No
+CU01635,Female,Month-to-month,UPI,34,6,109.93,2,61,No
+CU01636,Male,Month-to-month,Bank transfer,49,4,46.8,3,37,No
+CU01637,Male,One year,Card,49,5,58.72,2,48,No
+CU01638,Male,Month-to-month,Cash,21,6,32.81,3,145,Yes
+CU01639,Male,Month-to-month,UPI,57,4,82.16,0,139,No
+CU01640,Female,One year,Bank transfer,59,5,20.28,2,12,No
+CU01641,Female,Two year,Card,23,6,47.72,1,92,No
+CU01642,Female,Month-to-month,UPI,5,6,32.56,1,127,No
+CU01643,Female,One year,Bank transfer,32,7,56.97,0,87,No
+CU01644,Male,Month-to-month,Bank transfer,47,7,111.39,2,53,No
+CU01645,Male,One year,Bank transfer,56,9,74.65,3,119,No
+CU01646,Female,One year,Cash,15,10,70.97,1,91,Yes
+CU01647,Female,One year,Cash,35,4,72.39,0,28,No
+CU01648,Female,Month-to-month,Bank transfer,55,10,64.42,1,47,No
+CU01649,Male,Month-to-month,Card,38,1,97.1,0,10,No
+CU01650,Female,Month-to-month,Bank transfer,57,9,84.34,1,135,Yes
+CU01651,Male,One year,Card,48,6,32.47,0,28,No
+CU01652,Female,One year,UPI,13,11,89.37,0,9,No
+CU01653,Male,Month-to-month,Cash,15,9,70.88,2,138,No
+CU01654,Female,Month-to-month,Cash,57,4,76.37,1,39,No
+CU01655,Female,One year,Card,50,5,15.0,2,96,No
+CU01656,Female,Month-to-month,Card,60,5,65.02,2,144,Yes
+CU01657,Male,Two year,UPI,21,5,61.53,0,18,No
+CU01658,Male,Month-to-month,Bank transfer,4,6,47.68,3,53,No
+CU01659,Male,One year,UPI,17,5,91.83,0,31,No
+CU01660,Male,Month-to-month,Bank transfer,31,12,24.11,1,37,No
+CU01661,Male,Month-to-month,Bank transfer,9,8,140.68,1,134,No
+CU01662,Male,Two year,Card,14,3,37.06,4,44,No
+CU01663,Female,One year,Bank transfer,11,5,76.75,2,34,No
+CU01664,Female,Month-to-month,Cash,9,7,70.36,1,17,No
+CU01665,Male,Two year,UPI,28,3,94.21,1,113,No
+CU01666,Male,Month-to-month,Bank transfer,58,6,106.78,2,50,No
+CU01667,Male,One year,Bank transfer,27,5,54.12,0,10,No
+CU01668,Male,Month-to-month,Bank transfer,21,4,69.4,0,47,No
+CU01669,Male,Two year,UPI,39,12,54.32,1,130,No
+CU01670,Female,Two year,Bank transfer,46,6,40.83,0,41,No
+CU01671,Female,Month-to-month,Bank transfer,25,5,65.85,2,121,Yes
+CU01672,Female,Month-to-month,Cash,1,2,64.32,1,12,No
+CU01673,Male,One year,Cash,22,6,65.28,4,50,No
+CU01674,Female,Month-to-month,Bank transfer,6,13,55.54,0,89,No
+CU01675,Female,Month-to-month,Cash,11,7,73.51,1,1,Yes
+CU01676,Male,One year,Cash,44,3,84.55,3,103,No
+CU01677,Male,Month-to-month,UPI,13,3,34.85,3,149,Yes
+CU01678,Female,Two year,Bank transfer,27,1,80.42,2,105,Yes
+CU01679,Female,One year,Bank transfer,28,9,104.04,3,122,Yes
+CU01680,Male,Month-to-month,Cash,63,7,33.11,0,24,No
+CU01681,Male,Month-to-month,Card,11,6,68.87,2,74,Yes
+CU01682,Female,Two year,Cash,6,6,76.36,1,97,No
+CU01683,Male,Month-to-month,Cash,38,5,84.58,2,67,Yes
+CU01684,Male,Two year,Cash,45,7,87.41,1,133,No
+CU01685,Male,Month-to-month,Card,36,4,95.11,0,116,Yes
+CU01686,Male,Month-to-month,Bank transfer,50,12,68.4,1,146,No
+CU01687,Male,Month-to-month,UPI,62,4,40.07,1,109,No
+CU01688,Female,Month-to-month,UPI,44,5,56.05,3,134,No
+CU01689,Female,Month-to-month,Bank transfer,39,11,101.08,0,117,No
+CU01690,Male,Month-to-month,Cash,49,6,43.01,1,20,Yes
+CU01691,Female,Month-to-month,Card,16,8,77.97,1,131,No
+CU01692,Male,Month-to-month,Bank transfer,18,7,86.13,2,143,Yes
+CU01693,Female,Month-to-month,Card,27,4,80.3,1,97,No
+CU01694,Male,Month-to-month,Bank transfer,55,9,88.24,0,48,No
+CU01695,Female,Month-to-month,Cash,61,5,64.21,3,63,Yes
+CU01696,Male,Month-to-month,Bank transfer,40,1,62.46,2,4,No
+CU01697,Female,Two year,Card,45,9,110.4,0,1,No
+CU01698,Male,Month-to-month,Bank transfer,56,5,114.31,1,54,No
+CU01699,Male,Month-to-month,Bank transfer,18,8,101.16,0,47,Yes
+CU01700,Female,Two year,Bank transfer,9,8,78.73,0,46,No
+CU01701,Female,One year,UPI,53,9,50.6,0,33,No
+CU01702,Male,Month-to-month,Cash,10,2,68.41,1,101,Yes
+CU01703,Female,Two year,Card,12,4,61.77,1,57,Yes
+CU01704,Female,Two year,Bank transfer,29,6,92.52,0,147,No
+CU01705,Female,One year,Card,56,10,,0,134,Yes
+CU01706,Male,One year,Cash,28,7,79.59,1,109,No
+CU01707,Male,One year,UPI,9,4,64.17,1,124,No
+CU01708,Female,Two year,Bank transfer,10,5,15.0,0,101,No
+CU01709,Female,Month-to-month,Card,18,5,97.81,0,32,Yes
+CU01710,Female,Two year,Bank transfer,6,5,63.39,4,25,No
+CU01711,Female,Month-to-month,Bank transfer,24,7,89.2,2,75,No
+CU01712,Female,One year,Bank transfer,6,7,56.54,3,107,Yes
+CU01713,Female,Two year,Cash,61,4,105.56,0,80,No
+CU01714,Male,Month-to-month,Cash,4,6,51.63,1,40,Yes
+CU01715,Male,Month-to-month,Bank transfer,15,7,63.22,0,10,Yes
+CU01716,Female,One year,Bank transfer,3,7,65.4,0,41,Yes
+CU01717,Female,One year,Card,21,6,27.29,2,133,Yes
+CU01718,Female,One year,Card,58,8,75.26,1,64,No
+CU01719,Male,Two year,UPI,41,5,85.69,1,136,No
+CU01720,Male,Month-to-month,Card,67,6,75.49,1,133,Yes
+CU01721,Female,One year,Bank transfer,44,7,122.94,0,21,No
+CU01722,Female,One year,UPI,31,7,42.72,2,32,Yes
+CU01723,Female,Month-to-month,UPI,69,4,21.88,2,80,No
+CU01724,Male,Month-to-month,Bank transfer,14,9,35.22,4,133,Yes
+CU01725,Female,One year,UPI,9,3,67.1,1,39,Yes
+CU01726,Female,One year,Card,24,6,94.97,0,74,No
+CU01727,Male,One year,UPI,67,3,69.36,0,61,Yes
+CU01728,Male,Month-to-month,Cash,59,8,52.67,0,10,No
+CU01729,Female,One year,Cash,39,7,102.43,3,80,Yes
+CU01730,Female,Month-to-month,Card,66,8,62.11,1,101,No
+CU01731,Male,Month-to-month,Cash,46,13,30.66,2,96,No
+CU01732,Male,One year,Cash,17,5,89.97,2,100,Yes
+CU01733,Female,One year,Bank transfer,1,8,81.13,2,120,Yes
+CU01734,Female,Two year,Cash,3,8,70.94,2,144,No
+CU01735,Female,Month-to-month,Bank transfer,61,2,105.54,3,143,Yes
+CU01736,Male,One year,Cash,22,5,62.39,2,47,Yes
+CU01737,Female,Two year,Card,30,7,72.0,1,20,No
+CU01738,Female,Month-to-month,Card,28,7,40.61,3,14,No
+CU01739,Male,Month-to-month,UPI,7,2,47.4,1,117,Yes
+CU01740,Male,Two year,UPI,1,4,53.15,4,66,Yes
+CU01741,Male,Month-to-month,Bank transfer,52,6,82.33,2,74,No
+CU01742,Female,One year,Cash,49,5,48.1,0,42,No
+CU01743,Female,One year,Cash,17,7,62.59,4,38,Yes
+CU01744,Male,Month-to-month,Cash,9,12,59.43,2,82,No
+CU01745,Male,Two year,UPI,37,6,63.68,6,37,No
+CU01746,Female,Month-to-month,Bank transfer,6,7,45.89,3,85,No
+CU01747,Male,Month-to-month,Bank transfer,21,5,59.82,0,113,Yes
+CU01748,Male,Month-to-month,Card,52,8,36.19,1,51,Yes
+CU01749,Female,Two year,Bank transfer,13,8,64.01,2,85,No
+CU01750,Female,Month-to-month,UPI,55,7,64.3,1,142,No
+CU01751,Female,One year,UPI,63,6,66.81,2,115,No
+CU01752,Female,Month-to-month,UPI,14,7,78.99,0,26,Yes
+CU01753,Female,Month-to-month,UPI,48,9,110.23,0,47,No
+CU01754,Male,Month-to-month,Cash,55,5,23.53,5,32,Yes
+CU01755,Female,Month-to-month,Card,37,5,55.73,1,79,Yes
+CU01756,Female,Month-to-month,Cash,22,8,42.17,1,57,Yes
+CU01757,Female,Month-to-month,Card,70,4,72.79,0,42,No
+CU01758,Male,Month-to-month,UPI,22,4,82.7,0,80,Yes
+CU01759,Male,Month-to-month,Bank transfer,18,4,34.67,0,84,Yes
+CU01760,Male,One year,Cash,9,7,72.95,2,80,No
+CU01761,Male,Month-to-month,Card,65,6,86.63,1,62,Yes
+CU01762,Male,Month-to-month,Bank transfer,17,8,75.62,4,105,Yes
+CU01763,Female,Month-to-month,Bank transfer,10,5,56.56,1,35,Yes
+CU01764,Female,Two year,UPI,3,8,81.9,0,13,No
+CU01765,Male,One year,UPI,21,8,58.62,3,9,Yes
+CU01766,Female,Two year,Card,48,3,87.64,0,141,No
+CU01767,Female,Month-to-month,Card,49,8,73.81,2,40,No
+CU01768,Male,Two year,Bank transfer,61,6,60.29,1,8,No
+CU01769,Female,Month-to-month,Cash,48,10,33.55,0,19,Yes
+CU01770,Female,One year,UPI,4,9,65.43,0,95,Yes
+CU01771,Male,Month-to-month,Bank transfer,60,6,38.21,0,46,No
+CU01772,Female,One year,Card,19,8,37.82,1,78,No
+CU01773,Female,Two year,Bank transfer,68,3,56.3,0,114,No
+CU01774,Male,One year,Cash,25,4,63.1,3,37,Yes
+CU01775,Female,Month-to-month,Card,2,6,35.14,2,29,Yes
+CU01776,Female,One year,Card,28,9,60.87,0,56,No
+CU01777,Male,One year,Bank transfer,32,6,,2,64,Yes
+CU01778,Male,Month-to-month,Cash,59,9,50.0,0,73,Yes
+CU01779,Male,Month-to-month,Bank transfer,40,4,58.58,2,130,Yes
+CU01780,Female,One year,Card,4,4,81.12,1,8,Yes
+CU01781,Female,Month-to-month,Card,4,8,55.31,0,123,Yes
+CU01782,Female,Month-to-month,Card,44,2,79.54,1,54,Yes
+CU01783,Female,Two year,Card,6,3,63.01,2,130,Yes
+CU01784,Female,Two year,Bank transfer,38,6,90.46,1,62,No
+CU01785,Female,Month-to-month,UPI,64,7,85.29,1,19,No
+CU01786,Male,Two year,Cash,60,4,59.69,0,73,No
+CU01787,Female,Two year,Card,45,7,47.98,1,118,No
+CU01788,Female,One year,Card,22,10,77.13,0,72,Yes
+CU01789,Male,One year,Cash,37,14,51.89,3,7,No
+CU01790,Male,Two year,UPI,8,6,25.82,0,146,No
+CU01791,Female,One year,Cash,53,10,83.39,0,112,No
+CU01792,Male,Month-to-month,Bank transfer,10,10,49.69,1,132,No
+CU01793,Female,Month-to-month,Bank transfer,4,4,15.0,1,138,Yes
+CU01794,Female,Month-to-month,Cash,45,9,63.09,3,105,Yes
+CU01795,Male,Month-to-month,Card,41,2,88.4,0,72,No
+CU01796,Female,Month-to-month,UPI,39,6,50.26,0,146,No
+CU01797,Female,Month-to-month,Card,34,5,56.3,0,1,No
+CU01798,Female,Month-to-month,Bank transfer,43,4,77.47,2,49,Yes
+CU01799,Female,Month-to-month,Cash,32,7,53.62,1,56,No
+CU01800,Male,Two year,UPI,10,11,62.4,1,45,No
+CU01801,Female,Month-to-month,Bank transfer,41,5,87.38,1,22,No
+CU01802,Female,One year,Card,4,5,81.94,0,69,Yes
+CU01803,Male,One year,Card,5,5,70.66,4,34,Yes
+CU01804,Female,Two year,Card,41,7,23.32,1,102,No
+CU01805,Male,Month-to-month,UPI,50,13,79.6,0,122,Yes
+CU01806,Female,Month-to-month,Bank transfer,6,6,55.12,3,105,Yes
+CU01807,Male,One year,Card,27,3,77.24,3,92,No
+CU01808,Male,One year,Cash,67,3,27.08,2,97,No
+CU01809,Male,Two year,Bank transfer,56,6,88.44,4,52,No
+CU01810,Female,Month-to-month,Card,58,8,43.99,0,28,No
+CU01811,Female,Month-to-month,UPI,47,7,75.78,1,45,Yes
+CU01812,Female,Month-to-month,Bank transfer,13,7,88.33,1,32,Yes
+CU01813,Male,One year,Cash,28,7,74.77,2,83,Yes
+CU01814,Male,Month-to-month,Bank transfer,43,1,74.65,1,46,Yes
+CU01815,Male,Month-to-month,Cash,48,6,67.21,1,71,Yes
+CU01816,Female,One year,UPI,10,3,34.51,0,65,Yes
+CU01817,Female,Month-to-month,Card,69,4,98.14,2,96,No
+CU01818,Male,Month-to-month,UPI,67,10,92.39,2,54,No
+CU01819,Female,Month-to-month,Cash,3,3,55.43,4,97,Yes
+CU01820,Female,Two year,Cash,42,7,15.0,1,100,No
+CU01821,Male,One year,UPI,11,5,90.17,1,77,No
+CU01822,Female,Month-to-month,UPI,23,5,19.48,1,100,No
+CU01823,Female,Month-to-month,Bank transfer,63,10,78.3,1,39,No
+CU01824,Female,Two year,UPI,49,4,46.78,1,47,No
+CU01825,Male,Month-to-month,Card,26,6,77.01,3,105,Yes
+CU01826,Male,Month-to-month,Card,1,13,39.82,0,111,Yes
+CU01827,Female,Two year,Cash,60,8,65.14,0,76,No
+CU01828,Male,Month-to-month,Bank transfer,21,11,22.34,3,55,Yes
+CU01829,Female,Two year,Cash,43,8,65.38,1,6,No
+CU01830,Male,One year,UPI,17,9,,4,5,Yes
+CU01831,Male,One year,UPI,57,4,82.95,2,113,No
+CU01832,Female,One year,Cash,25,5,53.04,0,97,Yes
+CU01833,Male,Month-to-month,Cash,53,7,72.07,3,63,No
+CU01834,Female,Two year,Bank transfer,7,4,55.09,2,118,Yes
+CU01835,Male,Month-to-month,Cash,44,4,76.34,2,84,Yes
+CU01836,Female,Month-to-month,Card,69,10,74.78,3,101,No
+CU01837,Male,Month-to-month,Card,34,6,86.99,2,67,No
+CU01838,Male,Month-to-month,Card,34,8,35.68,3,28,Yes
+CU01839,Female,Month-to-month,UPI,49,11,62.71,6,114,Yes
+CU01840,Male,Month-to-month,Cash,61,6,72.09,1,64,No
+CU01841,Male,Month-to-month,Card,58,8,110.48,1,114,Yes
+CU01842,Male,Two year,Bank transfer,5,5,114.57,0,119,Yes
+CU01843,Female,One year,Card,22,6,31.01,2,62,No
+CU01844,Male,Month-to-month,Bank transfer,60,3,49.63,2,11,No
+CU01845,Female,Month-to-month,Cash,70,8,15.0,1,146,No
+CU01846,Male,One year,UPI,47,11,119.91,1,141,No
+CU01847,Male,One year,Bank transfer,1,7,72.94,1,136,No
+CU01848,Female,Month-to-month,Card,49,4,79.52,0,6,No
+CU01849,Female,Two year,Cash,68,5,57.1,2,60,No
+CU01850,Female,Month-to-month,Bank transfer,58,8,64.9,1,28,No
+CU01851,Male,Month-to-month,Bank transfer,52,9,93.23,0,98,No
+CU01852,Female,Month-to-month,Card,38,8,38.84,0,91,Yes
+CU01853,Male,Two year,Card,65,8,36.77,1,119,No
+CU01854,Male,Two year,Cash,46,6,58.98,2,71,Yes
+CU01855,Male,One year,Cash,37,6,65.25,1,93,Yes
+CU01856,Female,Month-to-month,Cash,64,5,78.89,1,90,Yes
+CU01857,Male,Month-to-month,UPI,1,8,65.49,2,129,Yes
+CU01858,Female,Month-to-month,Cash,9,7,43.88,2,67,Yes
+CU01859,Male,Month-to-month,Bank transfer,60,8,55.48,1,8,No
+CU01860,Male,Two year,Card,4,5,69.42,3,125,Yes
+CU01861,Female,One year,Bank transfer,64,7,81.51,3,34,No
+CU01862,Female,Month-to-month,UPI,70,4,89.98,2,144,No
+CU01863,Female,Two year,Bank transfer,19,8,58.14,2,144,Yes
+CU01864,Male,Month-to-month,Bank transfer,63,4,47.31,1,115,No
+CU01865,Female,Month-to-month,UPI,39,5,42.55,3,50,Yes
+CU01866,Male,Month-to-month,UPI,37,6,94.17,5,89,Yes
+CU01867,Male,Two year,Card,66,6,54.09,2,140,Yes
+CU01868,Female,Month-to-month,Bank transfer,56,7,45.91,0,56,No
+CU01869,Female,Month-to-month,Bank transfer,64,5,69.18,0,35,No
+CU01870,Female,Month-to-month,Bank transfer,63,8,105.36,3,94,No
+CU01871,Female,Two year,Cash,52,6,41.89,3,139,No
+CU01872,Female,Month-to-month,Card,34,4,79.78,1,119,No
+CU01873,Male,One year,UPI,14,3,53.63,0,55,No
+CU01874,Female,Two year,Card,7,7,67.78,2,118,Yes
+CU01875,Female,One year,UPI,18,10,85.28,4,132,Yes
+CU01876,Female,Month-to-month,Bank transfer,35,8,95.4,1,1,Yes
+CU01877,Male,Month-to-month,UPI,10,3,51.76,1,107,Yes
+CU01878,Female,Month-to-month,Cash,25,4,83.76,1,104,Yes
+CU01879,Female,One year,Card,57,6,70.94,2,78,No
+CU01880,Female,Two year,Card,2,7,75.07,1,30,No
+CU01881,Male,Month-to-month,Cash,22,7,95.89,1,123,No
+CU01882,Male,Month-to-month,UPI,69,11,47.24,1,79,No
+CU01883,Female,Month-to-month,Cash,24,6,84.37,2,135,No
+CU01884,Female,Month-to-month,Card,51,6,68.92,1,111,Yes
+CU01885,Female,Month-to-month,Bank transfer,44,3,94.6,1,43,No
+CU01886,Male,Two year,Cash,56,7,75.25,1,143,Yes
+CU01887,Female,Month-to-month,Card,52,4,61.22,1,55,No
+CU01888,Female,Month-to-month,UPI,43,3,86.78,3,5,No
+CU01889,Female,Month-to-month,Bank transfer,69,0,50.8,1,7,No
+CU01890,Female,Two year,UPI,20,7,54.99,1,49,No
+CU01891,Male,Month-to-month,UPI,20,12,46.22,2,34,Yes
+CU01892,Male,Two year,Bank transfer,42,9,49.33,1,9,No
+CU01893,Male,Month-to-month,UPI,51,6,15.0,2,127,Yes
+CU01894,Male,One year,Card,49,9,52.23,3,115,No
+CU01895,Male,Month-to-month,Bank transfer,68,6,63.16,2,5,No
+CU01896,Male,Two year,UPI,43,10,84.01,1,25,No
+CU01897,Male,One year,Card,55,9,41.98,1,126,No
+CU01898,Male,Month-to-month,Cash,10,4,52.49,1,18,No
+CU01899,Female,One year,Card,3,4,60.59,1,11,No
+CU01900,Female,Month-to-month,Bank transfer,58,7,84.14,2,14,Yes
+CU01901,Male,Month-to-month,UPI,32,5,69.5,5,119,No
+CU01902,Male,Month-to-month,UPI,22,9,74.36,3,106,Yes
+CU01903,Male,One year,Bank transfer,54,9,87.05,1,79,No
+CU01904,Female,Two year,Bank transfer,29,8,77.57,1,13,No
+CU01905,Male,One year,Card,3,11,49.93,3,87,Yes
+CU01906,Female,Month-to-month,Bank transfer,40,6,107.76,0,67,Yes
+CU01907,Male,Month-to-month,Card,9,10,17.45,2,39,No
+CU01908,Female,Two year,Card,70,4,87.46,3,24,No
+CU01909,Female,Month-to-month,Cash,24,8,76.0,1,5,No
+CU01910,Female,Month-to-month,Cash,23,6,96.11,3,94,Yes
+CU01911,Male,Two year,UPI,60,9,59.17,3,101,No
+CU01912,Male,Two year,UPI,3,3,52.59,2,21,Yes
+CU01913,Female,Month-to-month,UPI,49,7,37.45,3,41,No
+CU01914,Male,Month-to-month,UPI,70,8,38.41,2,34,Yes
+CU01915,Male,One year,UPI,3,3,60.82,1,146,No
+CU01916,Female,Month-to-month,Card,68,5,43.95,1,128,No
+CU01917,Female,Two year,Cash,44,6,47.21,2,14,No
+CU01918,Female,Month-to-month,Bank transfer,15,6,38.49,2,2,Yes
+CU01919,Female,Month-to-month,UPI,61,6,90.85,2,138,Yes
+CU01920,Male,Month-to-month,Bank transfer,59,3,46.94,0,5,No
+CU01921,Male,Month-to-month,Card,70,10,75.04,3,33,No
+CU01922,Female,Month-to-month,Bank transfer,66,10,61.85,1,110,No
+CU01923,Male,Month-to-month,Bank transfer,44,8,73.68,4,24,Yes
+CU01924,Female,Two year,Cash,1,6,58.44,3,31,No
+CU01925,Male,Month-to-month,Bank transfer,54,8,84.37,1,104,No
+CU01926,Male,Month-to-month,UPI,54,4,80.34,1,34,No
+CU01927,Male,Month-to-month,Cash,55,5,95.23,2,95,Yes
+CU01928,Male,Month-to-month,Bank transfer,13,6,48.48,1,1,No
+CU01929,Male,One year,Bank transfer,53,9,43.83,1,143,Yes
+CU01930,Male,Month-to-month,Card,59,4,55.28,2,76,Yes
+CU01931,Female,Month-to-month,Card,6,10,67.84,4,83,No
+CU01932,Male,One year,Cash,2,6,78.17,0,59,Yes
+CU01933,Female,Month-to-month,Cash,6,8,49.33,4,79,Yes
+CU01934,Female,Two year,Bank transfer,50,4,70.0,1,125,No
+CU01935,Female,One year,Card,22,6,60.43,3,146,No
+CU01936,Male,Month-to-month,Card,58,6,58.35,0,15,No
+CU01937,Female,Month-to-month,UPI,68,3,64.78,1,72,No
+CU01938,Female,Month-to-month,Card,3,4,102.52,2,149,Yes
+CU01939,Female,Two year,UPI,53,5,84.76,2,115,No
+CU01940,Female,Two year,Card,54,5,91.23,0,8,No
+CU01941,Female,Two year,Bank transfer,6,5,74.06,2,137,Yes
+CU01942,Male,One year,Card,9,3,109.03,3,33,Yes
+CU01943,Female,Two year,Card,58,7,87.25,0,22,No
+CU01944,Female,Month-to-month,Bank transfer,6,3,29.36,2,20,Yes
+CU01945,Female,One year,Bank transfer,15,4,83.19,0,34,No
+CU01946,Male,Month-to-month,Card,66,10,73.46,2,116,No
+CU01947,Female,Two year,Bank transfer,52,10,,0,37,No
+CU01948,Male,Two year,UPI,66,5,27.5,3,42,No
+CU01949,Female,One year,Cash,20,8,28.41,3,83,Yes
+CU01950,Male,One year,UPI,53,4,62.62,0,3,No
+CU01951,Male,Two year,Card,44,10,21.1,4,51,No
+CU01952,Female,Month-to-month,Card,64,8,82.58,2,79,No
+CU01953,Female,Month-to-month,Card,17,5,68.7,0,97,Yes
+CU01954,Female,One year,UPI,2,7,113.69,1,35,No
+CU01955,Male,One year,UPI,29,4,74.36,2,29,No
+CU01956,Male,Month-to-month,Cash,37,4,82.35,0,92,No
+CU01957,Male,Month-to-month,UPI,41,4,79.47,3,38,No
+CU01958,Female,Month-to-month,Cash,62,5,66.96,4,67,Yes
+CU01959,Female,Two year,UPI,49,6,67.94,5,142,Yes
+CU01960,Male,One year,UPI,64,7,63.59,4,12,No
+CU01961,Female,One year,Cash,52,5,15.0,1,134,No
+CU01962,Male,Month-to-month,Bank transfer,27,4,93.06,2,135,Yes
+CU01963,Female,Month-to-month,Cash,58,7,93.3,1,147,Yes
+CU01964,Female,Month-to-month,Cash,24,8,86.6,3,34,Yes
+CU01965,Female,Month-to-month,Card,58,5,67.22,0,66,No
+CU01966,Female,Month-to-month,Card,50,7,61.62,3,1,No
+CU01967,Male,Month-to-month,Card,16,4,36.64,2,60,Yes
+CU01968,Female,Month-to-month,Cash,5,4,33.7,1,87,Yes
+CU01969,Male,Month-to-month,Bank transfer,63,7,50.15,1,119,No
+CU01970,Female,One year,Cash,56,2,70.08,1,124,No
+CU01971,Male,One year,Cash,4,2,74.34,1,25,No
+CU01972,Male,Month-to-month,Bank transfer,18,8,52.12,1,73,No
+CU01973,Female,Two year,Card,35,3,32.41,0,3,No
+CU01974,Female,Month-to-month,UPI,38,12,48.34,2,127,Yes
+CU01975,Male,Two year,Cash,27,4,62.02,2,116,No
+CU01976,Male,Month-to-month,Bank transfer,14,9,25.96,0,11,Yes
+CU01977,Male,Month-to-month,Card,48,6,69.57,1,135,Yes
+CU01978,Male,Month-to-month,Card,53,2,105.3,4,42,Yes
+CU01979,Female,Two year,UPI,46,7,44.92,1,125,No
+CU01980,Male,Two year,Cash,68,8,117.98,1,96,No
+CU01981,Female,Month-to-month,Cash,28,3,47.39,0,98,Yes
+CU01982,Female,Two year,Bank transfer,39,5,59.43,1,115,No
+CU01983,Male,Month-to-month,Bank transfer,23,5,77.08,0,36,No
+CU01984,Female,One year,Bank transfer,68,6,63.84,1,11,No
+CU01985,Male,Month-to-month,Bank transfer,30,3,22.62,0,115,No
+CU01986,Male,One year,Cash,29,3,71.26,0,91,No
+CU01987,Male,Month-to-month,Bank transfer,53,5,66.94,4,92,Yes
+CU01988,Male,One year,Card,21,6,58.43,3,115,Yes
+CU01989,Male,Month-to-month,Cash,26,6,66.79,1,111,Yes
+CU01990,Male,One year,Bank transfer,60,7,76.06,4,18,No
+CU01991,Male,Month-to-month,Card,2,5,42.83,2,22,Yes
+CU01992,Male,Month-to-month,UPI,3,3,78.4,0,22,Yes
+CU01993,Male,Month-to-month,Cash,62,8,49.77,2,54,No
+CU01994,Male,Month-to-month,Bank transfer,20,3,103.38,0,76,Yes
+CU01995,Male,Month-to-month,Cash,56,5,91.0,3,103,No
+CU01996,Male,Month-to-month,Card,50,5,40.09,0,64,No
+CU01997,Female,Month-to-month,Bank transfer,15,6,95.75,1,7,Yes
+CU01998,Male,Month-to-month,UPI,14,6,75.19,0,63,Yes
+CU01999,Male,Month-to-month,Bank transfer,70,6,78.25,2,79,No
+CU02000,Female,Month-to-month,Card,64,1,60.46,2,130,Yes
+CU02001,Female,Month-to-month,Card,19,7,56.43,2,39,No
+CU02002,Male,Month-to-month,UPI,35,3,58.24,0,9,No
+CU02003,Female,One year,Cash,62,8,41.17,2,81,No
+CU02004,Female,Two year,Cash,18,8,18.23,1,110,No
+CU02005,Female,Month-to-month,UPI,47,5,49.05,1,73,Yes
+CU02006,Female,Month-to-month,Card,27,6,48.93,2,122,Yes
+CU02007,Male,One year,Card,63,4,37.75,2,41,No
+CU02008,Male,Month-to-month,Cash,21,6,79.55,1,57,Yes
+CU02009,Male,Month-to-month,Bank transfer,31,2,71.1,3,145,Yes
+CU02010,Male,Month-to-month,Bank transfer,50,4,50.19,1,103,Yes
+CU02011,Female,Two year,Card,48,3,57.21,2,128,No
+CU02012,Female,Month-to-month,Cash,8,7,70.58,0,88,Yes
+CU02013,Female,Month-to-month,Bank transfer,7,10,46.83,3,37,Yes
+CU02014,Female,Month-to-month,Cash,61,6,15.0,1,39,No
+CU02015,Male,Month-to-month,UPI,55,11,94.91,4,33,No
+CU02016,Female,Month-to-month,UPI,11,5,62.13,0,76,Yes
+CU02017,Male,Two year,Card,47,6,71.76,3,53,Yes
+CU02018,Male,Month-to-month,UPI,21,7,69.3,1,8,No
+CU02019,Male,One year,Cash,29,12,28.93,2,53,Yes
+CU02020,Male,Two year,Card,45,13,47.83,0,121,No
+CU02021,Male,Month-to-month,Cash,46,3,64.67,0,85,Yes
+CU02022,Female,Month-to-month,Bank transfer,26,7,60.02,1,8,No
+CU02023,Male,Month-to-month,Cash,59,8,36.64,1,58,No
+CU02024,Male,One year,Bank transfer,37,8,73.56,2,43,No
+CU02025,Female,Month-to-month,Bank transfer,58,6,79.23,0,7,Yes
+CU02026,Male,Month-to-month,Cash,41,5,55.48,2,61,Yes
+CU02027,Female,Month-to-month,Bank transfer,26,5,90.06,1,59,Yes
+CU02028,Male,Month-to-month,Bank transfer,19,5,78.32,0,74,Yes
+CU02029,Male,Month-to-month,UPI,1,5,74.66,3,110,Yes
+CU02030,Female,Month-to-month,UPI,38,5,52.51,1,79,No
+CU02031,Female,One year,Cash,40,9,60.76,0,37,No
+CU02032,Male,Two year,Card,67,5,85.83,0,90,No
+CU02033,Female,Two year,Bank transfer,19,7,28.77,2,28,No
+CU02034,Female,Month-to-month,Cash,1,9,,6,137,Yes
+CU02035,Female,Month-to-month,Bank transfer,64,6,54.81,1,90,No
+CU02036,Male,Month-to-month,Bank transfer,43,4,64.49,2,71,No
+CU02037,Male,Month-to-month,UPI,4,6,62.56,1,39,Yes
+CU02038,Female,Two year,Card,23,5,78.05,1,97,No
+CU02039,Male,One year,Card,69,2,71.04,2,18,Yes
+CU02040,Female,Month-to-month,Cash,62,1,65.52,1,13,No
+CU02041,Female,One year,Card,40,3,,0,91,No
+CU02042,Female,Month-to-month,UPI,7,6,85.42,1,126,Yes
+CU02043,Female,One year,Cash,47,8,95.0,1,131,Yes
+CU02044,Male,Month-to-month,UPI,5,9,57.6,3,50,Yes
+CU02045,Female,Two year,UPI,28,6,74.73,1,91,No
+CU02046,Female,Two year,Card,29,6,58.56,5,88,No
+CU02047,Male,Month-to-month,UPI,56,3,34.76,1,48,No
+CU02048,Female,One year,Card,48,6,23.32,0,147,No
+CU02049,Male,Month-to-month,Bank transfer,34,11,,1,24,No
+CU02050,Female,Two year,Card,1,7,84.99,0,113,Yes
+CU02051,Male,Month-to-month,UPI,2,6,75.06,0,132,Yes
+CU02052,Female,Two year,Bank transfer,58,4,89.96,1,60,No
+CU02053,Male,Two year,UPI,47,5,44.98,1,85,No
+CU02054,Female,Month-to-month,Bank transfer,24,13,87.27,1,67,Yes
+CU02055,Male,Month-to-month,UPI,54,5,73.71,2,8,No
+CU02056,Male,One year,Cash,66,9,54.23,1,21,No
+CU02057,Male,Month-to-month,Cash,1,4,15.0,0,43,Yes
+CU02058,Male,Month-to-month,Card,65,7,29.25,1,94,Yes
+CU02059,Female,Month-to-month,Cash,18,7,107.99,2,118,Yes
+CU02060,Female,Month-to-month,UPI,55,4,107.13,0,82,Yes
+CU02061,Male,Month-to-month,UPI,42,7,29.55,0,101,Yes
+CU02062,Female,Month-to-month,Bank transfer,53,10,15.08,2,88,Yes
+CU02063,Female,Month-to-month,UPI,9,10,97.57,1,100,No
+CU02064,Male,Month-to-month,Bank transfer,43,7,62.98,1,40,Yes
+CU02065,Female,One year,Bank transfer,69,6,46.99,0,25,No
+CU02066,Female,Month-to-month,Bank transfer,57,6,34.15,1,106,No
+CU02067,Female,Month-to-month,Card,57,7,33.95,2,87,No
+CU02068,Male,Two year,Card,13,8,97.61,2,44,No
+CU02069,Male,Two year,Bank transfer,20,2,71.23,0,21,Yes
+CU02070,Female,Month-to-month,Card,59,3,20.19,1,67,No
+CU02071,Female,One year,Cash,29,9,47.45,2,81,No
+CU02072,Male,Month-to-month,Bank transfer,41,7,104.57,2,22,Yes
+CU02073,Male,One year,Bank transfer,12,5,72.54,4,143,No
+CU02074,Female,Month-to-month,Bank transfer,56,8,30.08,1,107,Yes
+CU02075,Female,Month-to-month,UPI,32,11,48.76,2,106,Yes
+CU02076,Female,Two year,Card,36,6,62.26,0,26,No
+CU02077,Female,One year,Cash,68,4,88.74,1,114,No
+CU02078,Female,Month-to-month,Cash,45,7,62.54,2,88,Yes
+CU02079,Male,Two year,Bank transfer,32,6,99.43,3,100,No
+CU02080,Male,Month-to-month,Cash,25,6,71.56,2,123,Yes
+CU02081,Male,Month-to-month,Card,43,3,15.0,1,77,No
+CU02082,Male,Month-to-month,Card,31,2,78.37,1,88,Yes
+CU02083,Female,One year,Card,17,5,60.44,1,16,No
+CU02084,Female,One year,Bank transfer,26,5,52.36,2,90,No
+CU02085,Male,Month-to-month,Bank transfer,21,3,74.86,2,134,Yes
+CU02086,Female,Month-to-month,UPI,53,7,58.78,0,131,Yes
+CU02087,Female,Month-to-month,UPI,36,7,70.03,2,25,No
+CU02088,Female,Month-to-month,Cash,15,5,51.92,0,149,Yes
+CU02089,Male,Month-to-month,UPI,11,4,50.92,2,61,No
+CU02090,Female,Month-to-month,Card,67,6,92.68,2,29,No
+CU02091,Male,One year,Cash,64,4,67.85,0,83,No
+CU02092,Male,Two year,Cash,59,1,75.24,2,71,No
+CU02093,Male,Month-to-month,Cash,53,6,50.56,2,64,Yes
+CU02094,Male,Month-to-month,Bank transfer,62,4,91.6,1,54,No
+CU02095,Female,One year,Bank transfer,46,7,,2,114,No
+CU02096,Female,Month-to-month,Card,65,4,56.55,2,10,No
+CU02097,Female,One year,Bank transfer,66,7,96.67,2,69,No
+CU02098,Female,Month-to-month,Cash,31,7,56.54,0,55,Yes
+CU02099,Male,Month-to-month,Bank transfer,18,9,69.52,0,102,No
+CU02100,Male,Month-to-month,Cash,64,7,34.94,0,104,Yes
+CU02101,Male,Two year,Card,59,5,49.36,1,141,No
+CU02102,Female,Month-to-month,Bank transfer,32,8,84.42,2,127,Yes
+CU02103,Female,Month-to-month,Card,65,4,63.74,0,136,No
+CU02104,Female,Month-to-month,UPI,8,3,67.3,0,123,Yes
+CU02105,Female,One year,Card,59,3,62.75,2,98,No
+CU02106,Female,One year,Bank transfer,4,5,63.78,0,3,No
+CU02107,Female,Month-to-month,Bank transfer,8,9,51.49,2,128,No
+CU02108,Female,Month-to-month,Bank transfer,5,10,53.23,1,59,Yes
+CU02109,Male,Month-to-month,Bank transfer,6,5,57.65,2,54,Yes
+CU02110,Male,Month-to-month,Card,14,13,57.75,1,142,Yes
+CU02111,Male,Month-to-month,Cash,26,6,76.56,2,76,Yes
+CU02112,Female,Month-to-month,UPI,26,3,75.73,1,83,Yes
+CU02113,Male,One year,Card,30,9,97.94,1,47,No
+CU02114,Female,One year,Cash,70,3,82.31,3,147,Yes
+CU02115,Male,Two year,Cash,37,5,42.85,2,56,No
+CU02116,Female,Month-to-month,Cash,18,9,48.25,2,51,Yes
+CU02117,Female,One year,Bank transfer,10,5,88.26,2,114,Yes
+CU02118,Female,Two year,Card,65,6,81.5,2,59,Yes
+CU02119,Female,Month-to-month,UPI,20,10,90.98,2,141,No
+CU02120,Female,Month-to-month,Cash,58,2,64.9,0,68,No
+CU02121,Male,One year,Card,57,3,58.5,2,102,No
+CU02122,Female,One year,Card,62,5,73.56,1,127,No
+CU02123,Female,Two year,Card,11,5,30.65,2,145,Yes
+CU02124,Male,One year,Bank transfer,56,9,60.06,1,43,No
+CU02125,Female,Two year,Cash,56,10,113.98,2,53,No
+CU02126,Female,Month-to-month,UPI,70,5,56.75,5,65,No
+CU02127,Male,Two year,Cash,51,8,64.61,2,72,No
+CU02128,Male,Month-to-month,UPI,9,10,59.92,1,117,Yes
+CU02129,Female,Month-to-month,UPI,33,7,102.57,2,147,Yes
+CU02130,Male,Month-to-month,UPI,35,9,35.38,1,49,Yes
+CU02131,Female,One year,UPI,34,5,81.87,4,1,Yes
+CU02132,Female,Month-to-month,Card,25,5,55.01,2,61,Yes
+CU02133,Male,Month-to-month,Bank transfer,57,5,48.75,1,14,No
+CU02134,Female,One year,Cash,21,8,23.1,3,132,Yes
+CU02135,Female,Month-to-month,UPI,32,7,107.86,1,115,Yes
+CU02136,Male,Month-to-month,Cash,32,7,83.09,1,52,No
+CU02137,Male,Month-to-month,Cash,46,7,31.83,0,65,No
+CU02138,Male,Two year,Card,35,4,33.52,0,82,No
+CU02139,Female,One year,Cash,69,4,48.86,3,110,No
+CU02140,Female,Month-to-month,Cash,71,7,77.48,0,10,Yes
+CU02141,Male,Two year,Bank transfer,33,9,61.79,0,57,No
+CU02142,Male,Two year,Cash,19,4,42.17,0,142,No
+CU02143,Male,Month-to-month,UPI,55,5,62.98,1,60,Yes
+CU02144,Male,Month-to-month,Card,65,5,96.7,1,99,No
+CU02145,Female,Month-to-month,Card,63,2,79.88,2,38,Yes
+CU02146,Female,One year,Card,12,12,19.84,1,144,Yes
+CU02147,Male,Two year,Cash,4,8,38.7,2,94,No
+CU02148,Male,Month-to-month,UPI,48,8,61.73,0,121,No
+CU02149,Male,Month-to-month,UPI,22,13,68.35,0,149,No
+CU02150,Male,Month-to-month,UPI,22,4,97.72,0,114,Yes
+CU02151,Male,Month-to-month,Bank transfer,3,7,64.75,0,28,Yes
+CU02152,Female,Two year,UPI,69,7,78.48,0,20,No
+CU02153,Female,One year,UPI,1,5,15.0,0,44,Yes
+CU02154,Female,Two year,Bank transfer,46,5,55.06,0,72,No
+CU02155,Female,Month-to-month,UPI,66,8,82.47,1,48,Yes
+CU02156,Male,One year,Cash,5,2,112.21,2,2,No
+CU02157,Male,Two year,Card,44,4,31.51,2,17,Yes
+CU02158,Female,One year,Bank transfer,66,5,60.71,0,84,No
+CU02159,Female,Two year,Card,30,6,20.96,1,2,Yes
+CU02160,Male,Month-to-month,Bank transfer,21,6,59.9,3,143,Yes
+CU02161,Female,Month-to-month,Bank transfer,51,4,91.04,1,39,Yes
+CU02162,Female,Month-to-month,Bank transfer,66,5,88.08,1,57,No
+CU02163,Female,Two year,Cash,40,4,63.78,2,43,No
+CU02164,Female,Month-to-month,Cash,1,3,58.54,3,52,Yes
+CU02165,Female,Two year,Cash,49,8,130.02,3,96,No
+CU02166,Female,Month-to-month,UPI,16,9,59.55,3,42,No
+CU02167,Female,One year,Cash,71,4,51.23,2,75,Yes
+CU02168,Female,One year,Card,20,7,50.9,0,86,No
+CU02169,Male,Month-to-month,UPI,46,5,28.28,0,124,Yes
+CU02170,Male,Month-to-month,UPI,49,4,75.95,1,135,Yes
+CU02171,Male,One year,Card,32,6,81.19,1,34,No
+CU02172,Male,Two year,Cash,57,5,80.31,1,88,No
+CU02173,Male,Month-to-month,Bank transfer,64,4,84.34,2,13,Yes
+CU02174,Male,Month-to-month,UPI,45,5,50.07,2,113,Yes
+CU02175,Male,Two year,Bank transfer,54,4,60.85,1,61,No
+CU02176,Female,Month-to-month,Bank transfer,5,4,93.76,3,55,No
+CU02177,Male,Month-to-month,Cash,18,3,53.21,2,125,Yes
+CU02178,Female,Two year,UPI,31,6,50.92,2,55,No
+CU02179,Male,One year,Card,10,7,89.83,2,42,Yes
+CU02180,Male,Month-to-month,UPI,36,6,45.06,3,35,Yes
+CU02181,Female,Two year,Card,6,8,36.35,3,101,Yes
+CU02182,Female,One year,Bank transfer,26,5,38.72,1,14,No
+CU02183,Female,Month-to-month,Cash,5,2,132.52,3,137,Yes
+CU02184,Male,Month-to-month,Card,30,6,90.13,1,125,Yes
+CU02185,Male,Two year,Cash,29,6,80.51,2,15,Yes
+CU02186,Male,One year,Bank transfer,35,7,41.5,3,109,Yes
+CU02187,Male,One year,Bank transfer,71,5,77.44,1,1,No
+CU02188,Male,Month-to-month,Bank transfer,40,2,107.34,0,19,No
+CU02189,Male,Month-to-month,Card,11,6,74.01,2,93,Yes
+CU02190,Male,One year,Cash,45,7,37.34,1,80,No
+CU02191,Female,Month-to-month,Card,70,4,78.35,0,123,Yes
+CU02192,Female,Two year,Cash,15,6,60.99,1,93,Yes
+CU02193,Male,Month-to-month,Cash,6,6,68.42,0,8,No
+CU02194,Male,Month-to-month,Card,65,5,40.85,1,129,Yes
+CU02195,Male,Month-to-month,UPI,13,6,45.95,0,48,No
+CU02196,Female,Two year,UPI,59,3,53.18,2,21,Yes
+CU02197,Male,Month-to-month,Cash,31,3,45.55,0,59,No
+CU02198,Female,Month-to-month,Card,56,11,63.52,3,16,Yes
+CU02199,Male,Month-to-month,Card,51,3,47.9,0,37,Yes
+CU02200,Female,One year,Cash,58,9,105.92,0,38,No
+CU02201,Female,Two year,Bank transfer,55,5,77.29,1,137,No
+CU02202,Male,Month-to-month,Bank transfer,38,10,83.95,1,35,Yes
+CU02203,Female,Month-to-month,Card,18,5,61.52,1,84,Yes
+CU02204,Male,Two year,Cash,68,2,15.0,0,22,No
+CU02205,Female,Month-to-month,Card,14,2,85.98,3,18,Yes
+CU02206,Female,One year,Cash,26,5,62.26,1,131,No
+CU02207,Male,Month-to-month,Bank transfer,20,8,75.41,1,58,Yes
+CU02208,Female,Two year,Cash,30,3,63.22,3,149,No
+CU02209,Female,Two year,UPI,18,5,15.0,3,33,No
+CU02210,Male,Month-to-month,UPI,58,7,54.24,0,98,No
+CU02211,Male,Month-to-month,Card,32,6,44.34,2,2,Yes
+CU02212,Female,Month-to-month,Bank transfer,62,1,70.19,1,113,No
+CU02213,Male,Month-to-month,Bank transfer,3,5,76.46,0,129,Yes
+CU02214,Female,Month-to-month,Card,32,3,118.87,2,78,Yes
+CU02215,Male,Month-to-month,UPI,42,12,76.67,1,106,Yes
+CU02216,Female,One year,UPI,61,6,50.99,3,93,No
+CU02217,Male,Month-to-month,Card,52,4,54.43,3,75,No
+CU02218,Female,Month-to-month,UPI,45,9,77.89,2,127,Yes
+CU02219,Female,Two year,UPI,60,4,86.12,1,115,Yes
+CU02220,Female,Month-to-month,Cash,28,2,33.86,0,132,Yes
+CU02221,Male,Two year,UPI,68,1,58.82,2,36,No
+CU02222,Female,One year,Bank transfer,65,3,61.13,0,48,No
+CU02223,Male,Month-to-month,Cash,65,1,24.61,3,14,Yes
+CU02224,Female,One year,Bank transfer,36,3,83.0,2,119,Yes
+CU02225,Female,Two year,UPI,7,5,70.63,1,59,Yes
+CU02226,Male,Two year,Bank transfer,61,7,60.09,0,2,No
+CU02227,Female,Month-to-month,UPI,30,4,71.09,2,147,Yes
+CU02228,Female,Month-to-month,Bank transfer,58,5,81.33,2,18,No
+CU02229,Male,Month-to-month,Bank transfer,4,2,113.35,1,141,Yes
+CU02230,Male,Month-to-month,UPI,7,4,81.37,2,43,Yes
+CU02231,Female,Month-to-month,UPI,25,7,36.37,1,93,Yes
+CU02232,Female,Two year,Cash,62,4,135.5,3,73,No
+CU02233,Male,One year,Card,3,2,36.94,0,72,Yes
+CU02234,Female,One year,UPI,12,3,74.74,4,34,No
+CU02235,Female,Month-to-month,UPI,36,4,59.83,0,65,No
+CU02236,Male,Month-to-month,Bank transfer,58,3,62.04,2,130,Yes
+CU02237,Female,Month-to-month,Card,12,5,74.48,2,48,Yes
+CU02238,Male,One year,Card,54,3,76.38,1,81,No
+CU02239,Male,Month-to-month,Bank transfer,35,8,99.51,0,135,No
+CU02240,Female,Month-to-month,Bank transfer,53,1,48.54,2,62,Yes
+CU02241,Male,Month-to-month,Card,51,6,74.99,2,148,Yes
+CU02242,Male,Month-to-month,UPI,66,5,80.19,2,119,Yes
+CU02243,Male,Month-to-month,Bank transfer,5,8,123.83,5,90,Yes
+CU02244,Female,Month-to-month,Cash,43,5,77.49,1,105,Yes
+CU02245,Male,Two year,Card,33,3,36.24,2,114,Yes
+CU02246,Male,One year,UPI,25,3,99.36,0,113,Yes
+CU02247,Male,Two year,Cash,53,8,53.92,1,39,No
+CU02248,Female,Two year,UPI,43,8,43.47,0,48,No
+CU02249,Male,One year,Card,32,4,98.16,2,139,Yes
+CU02250,Male,Month-to-month,Card,50,6,68.31,2,47,Yes
+CU02251,Female,Month-to-month,Bank transfer,41,9,60.02,1,108,No
+CU02252,Male,Month-to-month,UPI,26,9,107.15,2,45,No
+CU02253,Female,Two year,UPI,24,11,52.18,1,52,No
+CU02254,Male,Two year,Cash,19,4,52.0,5,118,Yes
+CU02255,Female,Month-to-month,Card,22,9,77.41,1,96,Yes
+CU02256,Male,Month-to-month,Bank transfer,35,3,15.0,1,57,Yes
+CU02257,Male,Month-to-month,Cash,13,7,69.03,1,93,No
+CU02258,Female,Month-to-month,Card,64,1,66.99,1,18,No
+CU02259,Male,Month-to-month,UPI,42,3,43.66,0,45,No
+CU02260,Female,Two year,UPI,45,6,64.57,2,75,No
+CU02261,Male,Month-to-month,Cash,41,4,71.49,2,125,Yes
+CU02262,Female,Two year,UPI,64,4,63.92,0,31,No
+CU02263,Female,Month-to-month,Cash,59,8,85.41,1,61,No
+CU02264,Male,Month-to-month,Bank transfer,34,10,71.75,3,86,Yes
+CU02265,Female,Month-to-month,Cash,25,4,60.77,0,37,No
+CU02266,Male,Month-to-month,Cash,68,7,82.54,4,78,Yes
+CU02267,Male,Month-to-month,Bank transfer,43,9,71.71,1,104,No
+CU02268,Male,One year,Cash,57,8,140.04,3,40,No
+CU02269,Male,Month-to-month,Cash,10,7,90.58,0,34,No
+CU02270,Male,Month-to-month,UPI,26,5,51.76,1,138,Yes
+CU02271,Female,Month-to-month,Card,19,6,22.02,3,106,Yes
+CU02272,Male,Month-to-month,Card,32,8,48.05,2,66,No
+CU02273,Female,One year,UPI,36,5,15.0,1,48,No
+CU02274,Female,One year,UPI,71,5,81.63,1,79,No
+CU02275,Female,Month-to-month,Bank transfer,8,1,57.73,5,127,Yes
+CU02276,Female,One year,Bank transfer,68,6,45.78,1,107,No
+CU02277,Male,Month-to-month,Card,58,2,79.95,1,78,Yes
+CU02278,Male,One year,Bank transfer,30,4,55.77,2,95,No
+CU02279,Female,Month-to-month,Bank transfer,20,4,74.85,4,21,Yes
+CU02280,Male,One year,Cash,60,7,58.35,3,5,No
+CU02281,Female,Month-to-month,UPI,10,7,66.92,3,107,No
+CU02282,Female,One year,UPI,65,1,97.26,1,73,No
+CU02283,Female,One year,UPI,67,8,87.87,1,135,No
+CU02284,Male,Month-to-month,Cash,18,6,100.82,1,135,Yes
+CU02285,Female,Month-to-month,UPI,40,11,73.61,1,146,Yes
+CU02286,Male,One year,Bank transfer,37,7,19.76,1,133,No
+CU02287,Female,Month-to-month,UPI,55,5,47.89,1,90,Yes
+CU02288,Male,One year,Card,54,7,24.61,3,19,No
+CU02289,Male,Month-to-month,Bank transfer,71,6,87.97,0,96,No
+CU02290,Female,Month-to-month,Cash,6,5,65.38,2,44,Yes
+CU02291,Male,One year,UPI,59,9,96.49,0,128,No
+CU02292,Female,Month-to-month,UPI,58,5,90.95,2,41,No
+CU02293,Male,Month-to-month,Bank transfer,53,9,61.85,3,132,No
+CU02294,Male,Month-to-month,Card,15,6,108.65,2,137,Yes
+CU02295,Male,Two year,UPI,53,10,88.98,2,71,No
+CU02296,Female,Month-to-month,UPI,35,4,67.04,1,145,Yes
+CU02297,Male,Month-to-month,UPI,20,4,75.87,2,58,Yes
+CU02298,Female,One year,Bank transfer,27,3,100.35,0,65,No
+CU02299,Male,Month-to-month,UPI,30,8,76.19,1,137,Yes
+CU02300,Female,Month-to-month,UPI,53,3,48.35,2,104,Yes
+CU02301,Male,Month-to-month,UPI,15,12,35.59,1,27,Yes
+CU02302,Male,Month-to-month,Cash,17,3,58.38,3,25,No
+CU02303,Female,Two year,UPI,27,11,47.98,1,77,No
+CU02304,Female,One year,Card,34,4,70.1,0,98,No
+CU02305,Female,Two year,Bank transfer,68,4,52.12,1,84,No
+CU02306,Female,Two year,Cash,19,9,55.41,0,7,No
+CU02307,Female,Month-to-month,Card,65,6,95.32,0,23,No
+CU02308,Female,One year,UPI,4,8,106.4,1,11,No
+CU02309,Female,Month-to-month,Card,37,2,45.56,2,117,Yes
+CU02310,Male,One year,Card,60,3,56.02,3,59,No
+CU02311,Male,Two year,Cash,23,6,59.25,3,56,Yes
+CU02312,Male,Month-to-month,Cash,16,6,72.84,1,128,Yes
+CU02313,Male,One year,Card,43,1,73.6,0,145,No
+CU02314,Male,Month-to-month,Cash,17,2,52.31,2,1,No
+CU02315,Female,Two year,UPI,2,7,77.74,0,132,No
+CU02316,Female,Month-to-month,UPI,4,7,53.45,0,49,Yes
+CU02317,Female,Month-to-month,UPI,35,7,55.67,0,115,Yes
+CU02318,Female,Two year,Bank transfer,36,4,42.27,2,95,Yes
+CU02319,Male,Month-to-month,Card,2,6,90.89,0,20,Yes
+CU02320,Female,Month-to-month,Card,20,4,87.72,1,45,No
+CU02321,Male,One year,UPI,54,7,73.67,1,58,No
+CU02322,Male,One year,Bank transfer,41,6,81.57,2,1,No
+CU02323,Male,Month-to-month,UPI,44,4,92.71,1,57,Yes
+CU02324,Female,Month-to-month,Card,52,3,83.8,0,79,Yes
+CU02325,Female,Month-to-month,Card,65,9,83.2,2,90,No
+CU02326,Female,Month-to-month,UPI,4,3,54.28,0,18,Yes
+CU02327,Male,Two year,UPI,35,6,27.42,1,106,No
+CU02328,Female,One year,UPI,15,6,45.24,0,47,Yes
+CU02329,Female,One year,Card,48,8,119.87,0,77,Yes
+CU02330,Male,Month-to-month,UPI,28,6,59.07,1,134,Yes
+CU02331,Male,Two year,Cash,11,3,,0,74,Yes
+CU02332,Male,Month-to-month,Card,63,3,78.54,2,89,No
+CU02333,Female,Two year,Card,37,3,64.25,1,135,No
+CU02334,Female,Two year,Bank transfer,8,1,42.44,1,109,Yes
+CU02335,Male,Two year,Cash,16,7,47.42,1,56,Yes
+CU02336,Male,Month-to-month,Card,53,4,61.71,1,23,No
+CU02337,Male,Month-to-month,UPI,34,3,61.63,2,64,Yes
+CU02338,Male,One year,Card,68,3,78.66,1,112,No
+CU02339,Female,Month-to-month,Cash,4,7,48.04,0,62,Yes
+CU02340,Female,Month-to-month,UPI,6,5,48.95,0,25,No
+CU02341,Female,One year,UPI,49,6,86.81,1,7,No
+CU02342,Female,One year,Bank transfer,24,3,112.47,0,131,Yes
+CU02343,Female,Month-to-month,Card,63,10,67.14,2,34,No
+CU02344,Female,Month-to-month,UPI,55,3,76.09,1,103,No
+CU02345,Male,One year,UPI,2,6,61.33,0,125,Yes
+CU02346,Male,Month-to-month,Cash,67,6,63.39,2,100,No
+CU02347,Female,One year,Card,68,10,59.71,4,6,No
+CU02348,Female,One year,Cash,18,6,56.26,1,33,No
+CU02349,Male,Two year,UPI,44,4,78.88,1,14,Yes
+CU02350,Female,One year,Cash,46,4,80.42,1,64,Yes
+CU02351,Female,Month-to-month,Card,3,6,58.9,2,129,Yes
+CU02352,Male,Two year,Card,52,7,50.64,4,5,No
+CU02353,Female,Month-to-month,Card,69,4,53.07,3,64,No
+CU02354,Female,One year,Cash,29,10,81.29,3,51,No
+CU02355,Female,Month-to-month,Bank transfer,71,5,44.94,1,87,No
+CU02356,Male,One year,Cash,48,9,39.58,0,3,No
+CU02357,Female,Month-to-month,Card,53,7,72.06,2,94,Yes
+CU02358,Female,Month-to-month,Card,39,8,63.33,2,0,No
+CU02359,Female,Month-to-month,Bank transfer,50,3,61.52,1,62,Yes
+CU02360,Female,Month-to-month,Cash,67,7,85.83,3,27,No
+CU02361,Male,Month-to-month,UPI,42,4,63.71,1,51,No
+CU02362,Female,One year,Cash,39,6,48.63,0,101,No
+CU02363,Male,One year,Cash,13,3,69.27,4,127,No
+CU02364,Male,One year,Bank transfer,37,5,48.7,2,35,No
+CU02365,Male,One year,Cash,62,4,87.13,3,56,No
+CU02366,Female,Month-to-month,Bank transfer,48,7,65.56,2,135,No
+CU02367,Female,Two year,Bank transfer,51,4,39.28,3,145,No
+CU02368,Male,Month-to-month,Cash,11,4,68.89,2,82,Yes
+CU02369,Male,Month-to-month,UPI,61,4,45.12,2,76,No
+CU02370,Male,Month-to-month,Card,38,5,90.69,2,67,No
+CU02371,Male,One year,Bank transfer,33,8,62.53,3,141,No
+CU02372,Male,Month-to-month,Cash,4,6,80.74,0,63,Yes
+CU02373,Male,Month-to-month,Card,64,4,49.55,0,58,No
+CU02374,Male,One year,Cash,45,4,60.16,2,67,No
+CU02375,Female,Two year,Cash,23,5,75.36,1,128,Yes
+CU02376,Female,Two year,UPI,38,4,61.07,4,31,No
+CU02377,Female,Month-to-month,Cash,65,5,42.71,4,1,Yes
+CU02378,Female,Month-to-month,UPI,60,5,,1,62,No
+CU02379,Female,One year,Cash,22,5,72.06,1,74,No
+CU02380,Male,Two year,UPI,57,7,38.12,2,2,No
+CU02381,Female,Month-to-month,Cash,1,4,55.93,1,82,Yes
+CU02382,Male,One year,Cash,31,4,44.5,0,62,No
+CU02383,Male,Month-to-month,Card,39,7,52.86,2,95,Yes
+CU02384,Male,Month-to-month,Bank transfer,47,3,53.71,1,57,No
+CU02385,Male,Month-to-month,UPI,1,8,59.07,1,3,Yes
+CU02386,Male,One year,Bank transfer,22,5,29.52,2,6,No
+CU02387,Male,One year,Bank transfer,19,6,54.6,2,86,Yes
+CU02388,Male,Month-to-month,Card,28,10,89.08,2,91,Yes
+CU02389,Male,One year,Bank transfer,50,8,108.1,1,35,No
+CU02390,Female,Month-to-month,Bank transfer,6,7,36.49,3,117,Yes
+CU02391,Female,Month-to-month,Bank transfer,54,10,91.97,1,65,No
+CU02392,Female,Two year,UPI,8,4,120.9,2,28,No
+CU02393,Male,Month-to-month,UPI,36,15,60.09,1,64,No
+CU02394,Male,Two year,Cash,59,8,77.77,2,69,No
+CU02395,Female,One year,Cash,63,5,90.37,1,15,No
+CU02396,Female,One year,Bank transfer,70,6,54.1,0,136,No
+CU02397,Female,One year,Cash,31,11,88.76,3,55,Yes
+CU02398,Female,Two year,Bank transfer,35,6,,2,134,No
+CU02399,Male,Month-to-month,Bank transfer,64,7,88.95,2,42,No
+CU02400,Male,One year,Cash,10,2,102.92,0,38,No
+CU02401,Male,Month-to-month,Card,65,10,96.46,2,27,No
+CU02402,Male,One year,Cash,7,5,,1,33,No
+CU02403,Male,One year,Card,7,8,79.96,1,102,No
+CU02404,Male,Month-to-month,UPI,4,5,53.29,2,32,No
+CU02405,Female,Month-to-month,Bank transfer,17,6,36.51,1,10,Yes
+CU02406,Female,One year,Bank transfer,63,6,59.47,1,88,No
+CU02407,Male,Two year,Cash,15,7,85.45,3,105,Yes
+CU02408,Male,One year,Cash,32,5,58.2,2,125,Yes
+CU02409,Female,Month-to-month,Card,58,7,101.4,3,75,Yes
+CU02410,Female,Two year,Cash,63,6,66.94,1,36,No
+CU02411,Male,Two year,UPI,32,12,38.24,2,135,No
+CU02412,Male,One year,UPI,26,7,58.15,0,96,No
+CU02413,Male,Month-to-month,UPI,33,4,49.01,1,145,Yes
+CU02414,Female,Month-to-month,UPI,42,6,97.94,1,106,No
+CU02415,Male,Month-to-month,UPI,23,6,77.63,1,55,Yes
+CU02416,Female,Two year,Cash,48,9,63.46,0,20,No
+CU02417,Female,Month-to-month,Card,58,5,83.62,1,95,No
+CU02418,Female,One year,Card,4,5,45.68,4,13,Yes
+CU02419,Female,Two year,Bank transfer,59,5,36.61,1,124,No
+CU02420,Male,One year,UPI,49,3,33.59,1,13,No
+CU02421,Female,Month-to-month,Bank transfer,5,9,19.3,1,40,No
+CU02422,Female,Month-to-month,Card,57,7,38.47,1,67,No
+CU02423,Female,One year,UPI,36,9,79.11,0,141,Yes
+CU02424,Female,Month-to-month,Cash,2,8,83.26,0,38,Yes
+CU02425,Male,Month-to-month,UPI,6,7,43.3,3,53,Yes
+CU02426,Female,Month-to-month,Card,5,5,15.0,2,53,Yes
+CU02427,Female,One year,Card,29,7,54.88,3,19,No
+CU02428,Female,One year,Bank transfer,38,7,77.49,1,146,Yes
+CU02429,Male,Month-to-month,Bank transfer,18,3,85.84,1,70,Yes
+CU02430,Male,One year,Cash,69,8,71.08,6,48,No
+CU02431,Male,Month-to-month,Cash,3,6,39.84,0,110,Yes
+CU02432,Male,Month-to-month,UPI,70,2,83.2,2,49,No
+CU02433,Female,Two year,Card,11,9,74.86,3,149,Yes
+CU02434,Male,Month-to-month,Cash,8,5,83.49,3,111,Yes
+CU02435,Male,Month-to-month,Cash,35,7,42.73,2,17,No
+CU02436,Male,Month-to-month,Card,55,7,77.84,1,141,No
+CU02437,Female,Month-to-month,Cash,47,12,86.71,4,32,Yes
+CU02438,Male,One year,Card,57,5,31.23,0,96,No
+CU02439,Male,One year,Bank transfer,33,6,49.61,2,7,No
+CU02440,Female,One year,Card,63,3,26.97,1,115,No
+CU02441,Male,Two year,Bank transfer,55,9,44.69,1,128,No
+CU02442,Male,One year,Cash,4,4,62.41,1,34,Yes
+CU02443,Female,Month-to-month,Cash,36,13,28.81,1,35,No
+CU02444,Male,One year,Bank transfer,70,8,92.81,2,28,No
+CU02445,Female,One year,Bank transfer,52,2,93.17,0,19,No
+CU02446,Female,One year,Cash,59,3,61.74,1,149,Yes
+CU02447,Male,Month-to-month,Cash,52,7,48.58,2,84,Yes
+CU02448,Male,Two year,UPI,44,5,63.9,1,144,No
+CU02449,Male,Month-to-month,Card,24,9,101.48,3,12,No
+CU02450,Male,One year,Card,5,6,80.62,0,51,No
+CU02451,Male,Month-to-month,Bank transfer,22,5,20.02,1,114,No
+CU02452,Female,One year,Bank transfer,18,8,15.0,2,120,Yes
+CU02453,Male,Month-to-month,UPI,52,5,42.35,1,93,Yes
+CU02454,Female,Month-to-month,Card,25,8,63.92,0,42,Yes
+CU02455,Male,Month-to-month,Card,26,6,22.44,5,28,Yes
+CU02456,Female,Month-to-month,UPI,61,11,59.85,1,8,No
+CU02457,Female,Month-to-month,UPI,14,11,23.09,0,132,No
+CU02458,Male,One year,Cash,55,5,65.2,1,104,No
+CU02459,Female,Two year,UPI,26,3,70.44,1,95,Yes
+CU02460,Male,Two year,Bank transfer,67,6,107.6,1,80,No
+CU02461,Female,Month-to-month,Cash,68,2,61.7,0,83,No
+CU02462,Male,Month-to-month,Bank transfer,31,7,56.12,1,7,No
+CU02463,Female,Two year,Card,56,5,98.34,0,36,No
+CU02464,Male,Two year,Card,66,7,81.33,0,63,No
+CU02465,Female,Month-to-month,UPI,43,5,66.07,0,60,Yes
+CU02466,Female,Month-to-month,UPI,64,6,57.39,3,87,No
+CU02467,Female,Month-to-month,Card,49,4,107.52,4,55,Yes
+CU02468,Male,Month-to-month,Bank transfer,2,7,46.7,0,59,No
+CU02469,Male,One year,Cash,44,3,28.07,2,29,No
+CU02470,Female,Month-to-month,Bank transfer,17,7,60.21,0,6,Yes
+CU02471,Female,One year,Cash,42,5,57.09,1,122,No
+CU02472,Female,Month-to-month,Bank transfer,57,7,95.14,0,140,Yes
+CU02473,Female,Month-to-month,Cash,15,3,68.89,2,114,No
+CU02474,Male,One year,Cash,48,5,87.88,5,139,Yes
+CU02475,Female,One year,Bank transfer,39,10,15.0,0,92,Yes
+CU02476,Male,Month-to-month,Card,16,8,56.64,2,133,Yes
+CU02477,Male,Month-to-month,Cash,54,5,101.89,4,63,No
+CU02478,Male,Month-to-month,UPI,56,2,38.03,0,104,No
+CU02479,Female,Two year,Cash,1,9,58.02,0,46,No
+CU02480,Female,Two year,Card,23,6,85.98,2,135,Yes
+CU02481,Female,Month-to-month,Bank transfer,6,8,52.38,2,111,Yes
+CU02482,Female,Two year,UPI,43,1,84.56,1,128,No
+CU02483,Female,One year,Bank transfer,63,3,49.9,4,3,No
+CU02484,Female,Month-to-month,Card,67,8,64.07,1,81,No
+CU02485,Male,Month-to-month,Cash,29,4,81.78,1,89,No
+CU02486,Female,Two year,UPI,18,4,37.71,0,76,No
+CU02487,Female,One year,UPI,23,10,44.65,3,67,No
+CU02488,Female,Two year,UPI,4,6,87.86,0,92,No
+CU02489,Female,Month-to-month,UPI,25,7,45.3,0,33,Yes
+CU02490,Male,Two year,Bank transfer,47,5,68.16,1,42,No
+CU02491,Female,One year,UPI,2,7,89.35,1,149,No
+CU02492,Male,Two year,Cash,52,4,67.3,2,17,No
+CU02493,Male,Two year,UPI,60,5,71.82,1,133,No
+CU02494,Female,Month-to-month,Bank transfer,23,0,103.74,0,139,Yes
+CU02495,Female,One year,Cash,55,2,122.52,1,75,No
+CU02496,Female,Month-to-month,Cash,34,6,68.4,1,73,Yes
+CU02497,Female,Two year,Cash,71,3,54.4,3,129,No
+CU02498,Male,One year,UPI,36,3,85.83,1,12,No
+CU02499,Male,Month-to-month,Cash,43,3,45.58,0,117,No
+CU02500,Male,Month-to-month,UPI,58,6,97.83,1,141,Yes
+CU02501,Male,Month-to-month,Cash,20,4,51.32,2,49,No
+CU02502,Male,Month-to-month,Card,50,3,54.42,3,121,Yes
+CU02503,Female,Month-to-month,Bank transfer,61,5,39.35,2,73,No
+CU02504,Male,Two year,UPI,20,10,43.77,3,96,No
+CU02505,Female,One year,Bank transfer,58,11,94.51,1,148,No
+CU02506,Female,Two year,Cash,20,9,73.56,1,148,Yes
+CU02507,Male,Month-to-month,Card,44,4,63.68,2,60,No
+CU02508,Female,Month-to-month,Bank transfer,24,9,116.26,1,123,Yes
+CU02509,Female,Two year,Cash,45,1,67.96,0,43,No
+CU02510,Male,One year,Card,11,5,64.56,1,11,No
+CU02511,Female,Month-to-month,Cash,58,12,37.18,0,106,No
+CU02512,Male,Two year,Bank transfer,10,11,44.77,0,108,No
+CU02513,Male,Month-to-month,Card,24,8,41.61,2,65,Yes
+CU02514,Male,Month-to-month,Card,59,6,47.86,0,17,Yes
+CU02515,Female,One year,UPI,7,8,53.3,0,5,Yes
+CU02516,Female,One year,Card,60,7,57.87,2,116,No
+CU02517,Male,One year,UPI,29,4,82.49,5,18,Yes
+CU02518,Female,Month-to-month,Card,19,8,64.37,0,40,Yes
+CU02519,Female,Month-to-month,Cash,60,3,109.7,0,41,No
+CU02520,Female,Month-to-month,Bank transfer,61,4,80.76,0,52,Yes
+CU02521,Male,Month-to-month,Card,62,5,47.34,2,23,No
+CU02522,Female,Month-to-month,UPI,41,5,76.3,0,124,No
+CU02523,Male,One year,Bank transfer,15,13,68.78,2,72,Yes
+CU02524,Female,Two year,Cash,51,3,99.91,2,19,No
+CU02525,Male,Two year,Cash,50,7,85.53,3,107,Yes
+CU02526,Female,One year,Card,63,3,66.69,2,141,Yes
+CU02527,Female,Month-to-month,Bank transfer,53,10,108.71,1,26,No
+CU02528,Female,Month-to-month,Cash,22,8,78.93,1,19,No
+CU02529,Male,Two year,Cash,32,4,80.03,1,146,No
+CU02530,Female,Month-to-month,Card,48,6,102.58,1,3,No
+CU02531,Female,Month-to-month,Card,56,6,86.42,1,87,Yes
+CU02532,Female,Month-to-month,Cash,22,6,70.4,0,3,No
+CU02533,Female,One year,Card,19,9,63.05,2,12,No
+CU02534,Female,Two year,Card,65,4,15.0,0,121,No
+CU02535,Male,Month-to-month,Card,71,7,18.86,1,25,No
+CU02536,Male,One year,Card,22,3,62.06,0,71,Yes
+CU02537,Male,One year,UPI,5,11,51.12,2,92,Yes
+CU02538,Female,Two year,UPI,45,5,65.47,2,76,No
+CU02539,Male,Month-to-month,Card,2,10,90.43,2,76,Yes
+CU02540,Female,One year,UPI,14,11,45.68,1,125,No
+CU02541,Female,Two year,UPI,38,2,25.59,4,82,Yes
+CU02542,Female,Two year,Bank transfer,27,12,32.52,2,76,Yes
+CU02543,Male,Month-to-month,Card,4,6,40.4,1,120,Yes
+CU02544,Male,Month-to-month,Cash,25,8,36.5,3,143,Yes
+CU02545,Female,Two year,Card,48,3,66.08,1,16,No
+CU02546,Female,Two year,UPI,54,6,103.48,3,0,Yes
+CU02547,Female,Month-to-month,Cash,54,5,80.37,0,16,Yes
+CU02548,Female,Month-to-month,UPI,21,9,82.22,2,24,No
+CU02549,Female,Month-to-month,Cash,48,3,70.48,1,7,No
+CU02550,Female,One year,UPI,24,6,34.03,1,118,No
+CU02551,Female,Month-to-month,Card,47,2,121.02,0,71,Yes
+CU02552,Female,Month-to-month,Cash,1,6,57.05,4,137,Yes
+CU02553,Female,One year,Cash,30,3,84.4,3,47,Yes
+CU02554,Female,Month-to-month,Card,23,5,15.0,0,105,No
+CU02555,Male,Two year,Bank transfer,48,6,62.77,3,70,No
+CU02556,Female,Month-to-month,UPI,20,2,60.7,0,44,Yes
+CU02557,Female,Month-to-month,Bank transfer,22,5,58.32,0,118,No
+CU02558,Female,Two year,Card,39,8,29.96,0,126,No
+CU02559,Female,Month-to-month,UPI,47,5,69.96,1,25,Yes
+CU02560,Female,Month-to-month,UPI,29,6,95.5,4,33,Yes
+CU02561,Female,Month-to-month,Cash,64,9,117.5,3,111,Yes
+CU02562,Female,One year,UPI,70,9,106.22,2,65,No
+CU02563,Female,Month-to-month,UPI,44,8,96.62,0,80,Yes
+CU02564,Female,Two year,Cash,39,9,107.72,3,117,Yes
+CU02565,Male,Two year,Card,37,11,110.65,1,111,No
+CU02566,Male,Month-to-month,UPI,6,7,41.91,1,60,Yes
+CU02567,Male,Month-to-month,UPI,30,10,71.29,1,94,No
+CU02568,Male,One year,Cash,58,5,33.09,3,123,No
+CU02569,Female,Two year,UPI,50,3,78.47,0,20,No
+CU02570,Female,Month-to-month,Bank transfer,4,8,58.85,1,90,Yes
+CU02571,Male,Month-to-month,UPI,10,5,61.14,2,66,No
+CU02572,Male,Month-to-month,UPI,60,6,58.16,2,129,No
+CU02573,Female,Two year,Cash,53,6,15.0,1,42,No
+CU02574,Female,Month-to-month,Card,29,6,17.28,1,35,No
+CU02575,Male,One year,Card,67,5,86.4,2,113,No
+CU02576,Female,Month-to-month,Card,5,7,48.15,2,95,Yes
+CU02577,Male,One year,Card,55,10,90.57,0,28,No
+CU02578,Female,Month-to-month,Bank transfer,70,4,60.97,2,99,Yes
+CU02579,Female,One year,Card,32,2,25.35,0,40,No
+CU02580,Male,Month-to-month,Cash,36,6,29.99,1,62,No
+CU02581,Male,Month-to-month,Bank transfer,16,9,48.21,2,149,Yes
+CU02582,Female,Month-to-month,UPI,61,1,41.81,2,64,Yes
+CU02583,Male,Two year,UPI,52,11,62.79,3,138,No
+CU02584,Female,One year,UPI,30,3,71.3,3,137,Yes
+CU02585,Male,Month-to-month,UPI,17,6,73.5,5,98,Yes
+CU02586,Male,Month-to-month,Cash,33,0,70.7,2,33,Yes
+CU02587,Female,Month-to-month,UPI,33,5,87.1,0,96,Yes
+CU02588,Male,Month-to-month,UPI,26,4,90.07,1,14,No
+CU02589,Female,Two year,UPI,60,7,41.76,4,104,No
+CU02590,Female,Month-to-month,Card,27,5,18.38,3,77,Yes
+CU02591,Female,One year,Bank transfer,9,8,48.04,4,148,Yes
+CU02592,Female,One year,Card,57,7,67.08,1,132,No
+CU02593,Male,Two year,Bank transfer,52,7,51.86,1,21,No
+CU02594,Female,One year,Cash,3,6,80.83,2,146,No
+CU02595,Female,Month-to-month,Bank transfer,50,4,31.7,2,93,No
+CU02596,Male,Month-to-month,UPI,35,7,104.51,2,134,Yes
+CU02597,Female,Month-to-month,Bank transfer,48,3,84.61,2,130,Yes
+CU02598,Male,Month-to-month,Cash,19,7,55.37,0,115,Yes
+CU02599,Male,Month-to-month,UPI,13,3,45.91,0,106,Yes
+CU02600,Female,Two year,Bank transfer,40,6,61.2,2,16,No
+CU02601,Female,Month-to-month,UPI,4,5,93.69,3,26,Yes
+CU02602,Male,One year,Card,16,6,55.02,2,93,Yes
+CU02603,Female,Month-to-month,Card,4,6,50.46,1,149,Yes
+CU02604,Female,Month-to-month,Card,25,6,64.88,3,97,Yes
+CU02605,Male,Month-to-month,UPI,65,5,33.62,2,100,Yes
+CU02606,Male,Month-to-month,Card,38,4,91.89,1,74,Yes
+CU02607,Male,Month-to-month,Cash,53,4,80.53,1,71,No
+CU02608,Male,Two year,Card,53,6,87.64,0,126,Yes
+CU02609,Male,One year,UPI,9,10,99.64,4,89,Yes
+CU02610,Male,Month-to-month,Bank transfer,68,9,45.23,0,147,No
+CU02611,Female,Month-to-month,Card,11,5,65.39,1,146,Yes
+CU02612,Male,Two year,Cash,18,2,62.63,3,145,No
+CU02613,Female,Month-to-month,Bank transfer,47,4,104.61,4,41,Yes
+CU02614,Male,Month-to-month,Bank transfer,35,5,54.64,1,3,Yes
+CU02615,Female,Two year,Cash,16,3,20.25,2,126,Yes
+CU02616,Male,One year,Cash,25,5,53.5,1,5,Yes
+CU02617,Female,Month-to-month,Bank transfer,30,1,87.15,0,98,Yes
+CU02618,Female,One year,Cash,44,12,78.32,0,8,No
+CU02619,Female,Month-to-month,Cash,57,4,62.66,2,143,Yes
+CU02620,Male,One year,Cash,27,5,55.5,1,46,No
+CU02621,Female,Month-to-month,Cash,28,4,73.52,1,144,Yes
+CU02622,Male,Two year,Cash,7,9,79.15,2,111,Yes
+CU02623,Female,One year,Cash,68,6,70.43,2,8,No
+CU02624,Male,Month-to-month,UPI,44,6,56.28,2,86,Yes
+CU02625,Female,One year,Card,19,6,64.23,0,4,No
+CU02626,Male,Month-to-month,UPI,3,2,51.33,2,72,Yes
+CU02627,Female,Two year,UPI,68,5,,4,107,No
+CU02628,Male,Month-to-month,Card,4,6,61.71,1,110,No
+CU02629,Female,Month-to-month,Bank transfer,13,7,41.63,1,81,Yes
+CU02630,Male,One year,Cash,63,1,121.49,0,38,No
+CU02631,Female,Month-to-month,Cash,24,8,46.79,1,78,Yes
+CU02632,Male,Month-to-month,UPI,62,4,42.67,2,148,No
+CU02633,Female,One year,UPI,40,7,34.91,1,80,No
+CU02634,Male,One year,Card,40,11,47.82,0,37,No
+CU02635,Female,Month-to-month,UPI,67,2,83.66,2,118,No
+CU02636,Female,Month-to-month,Card,2,6,25.47,0,55,Yes
+CU02637,Male,One year,Card,25,8,,1,132,Yes
+CU02638,Male,Two year,Card,25,4,50.43,0,127,No
+CU02639,Female,One year,Bank transfer,53,8,44.71,2,3,No
+CU02640,Female,One year,Cash,25,7,21.53,0,118,No
+CU02641,Male,Two year,Cash,63,7,63.89,1,116,No
+CU02642,Male,Month-to-month,Cash,52,9,22.16,0,22,Yes
+CU02643,Female,Month-to-month,Card,65,4,57.98,1,19,Yes
+CU02644,Female,One year,UPI,58,5,73.53,2,9,Yes
+CU02645,Male,Month-to-month,Bank transfer,54,10,15.0,2,51,No
+CU02646,Male,Month-to-month,Cash,26,4,82.35,2,98,Yes
+CU02647,Male,Month-to-month,Card,52,6,15.57,3,144,Yes
+CU02648,Male,One year,Bank transfer,30,8,110.4,2,104,No
+CU02649,Female,One year,Card,25,6,60.14,2,90,Yes
+CU02650,Male,Two year,UPI,16,6,43.43,0,133,Yes
+CU02651,Male,Month-to-month,Bank transfer,64,8,70.12,1,9,No
+CU02652,Female,Two year,UPI,52,4,42.47,1,4,No
+CU02653,Female,Month-to-month,Bank transfer,4,4,15.0,0,11,Yes
+CU02654,Female,One year,UPI,25,3,93.46,0,130,No
+CU02655,Female,One year,Cash,42,10,56.32,0,46,No
+CU02656,Male,Month-to-month,Card,51,3,66.89,3,50,Yes
+CU02657,Male,Two year,Card,22,4,60.87,2,68,No
+CU02658,Female,Month-to-month,Bank transfer,51,8,44.24,2,54,Yes
+CU02659,Male,Month-to-month,Cash,20,8,37.08,1,144,Yes
+CU02660,Female,Month-to-month,Card,12,4,83.24,0,96,No
+CU02661,Male,Month-to-month,Bank transfer,7,3,77.81,3,105,Yes
+CU02662,Female,One year,Cash,63,6,63.92,4,128,Yes
+CU02663,Male,Month-to-month,Cash,47,2,90.54,2,96,No
+CU02664,Female,Month-to-month,Cash,59,5,63.14,0,61,No
+CU02665,Male,Month-to-month,Bank transfer,39,11,92.94,0,73,No
+CU02666,Male,One year,UPI,42,10,101.9,2,1,No
+CU02667,Female,Month-to-month,Bank transfer,21,8,92.06,3,49,Yes
+CU02668,Female,Two year,UPI,7,8,75.26,2,97,Yes
+CU02669,Female,Month-to-month,UPI,51,9,39.76,1,38,No
+CU02670,Female,One year,UPI,12,7,76.09,3,83,No
+CU02671,Female,Two year,Card,63,2,53.15,2,71,No
+CU02672,Female,Month-to-month,Cash,7,9,83.0,2,145,Yes
+CU02673,Male,Month-to-month,Card,70,12,105.38,1,146,No
+CU02674,Female,Two year,UPI,33,6,62.75,1,79,Yes
+CU02675,Female,Month-to-month,UPI,21,2,37.01,1,43,Yes
+CU02676,Male,One year,Cash,19,1,82.53,1,94,Yes
+CU02677,Female,Month-to-month,UPI,49,5,64.79,1,139,Yes
+CU02678,Male,Month-to-month,Cash,59,8,103.41,0,131,Yes
+CU02679,Male,One year,Bank transfer,34,5,66.35,1,60,No
+CU02680,Male,Month-to-month,Cash,31,6,63.24,3,40,Yes
+CU02681,Male,Two year,UPI,63,7,67.4,0,90,No
+CU02682,Female,Month-to-month,Bank transfer,33,2,72.7,1,2,No
+CU02683,Female,Month-to-month,Cash,24,5,15.46,0,61,Yes
+CU02684,Male,Month-to-month,Bank transfer,66,6,44.71,1,112,Yes
+CU02685,Female,Two year,UPI,57,2,92.68,1,80,No
+CU02686,Male,Month-to-month,UPI,42,6,48.7,1,102,No
+CU02687,Female,Month-to-month,Bank transfer,1,4,64.27,1,82,Yes
+CU02688,Female,Month-to-month,Card,28,5,59.27,0,132,Yes
+CU02689,Female,One year,Card,70,6,47.83,2,95,No
+CU02690,Male,Month-to-month,Bank transfer,70,5,60.97,3,34,No
+CU02691,Male,Two year,UPI,48,3,39.46,2,131,No
+CU02692,Female,Month-to-month,Cash,33,5,27.98,1,64,No
+CU02693,Male,Month-to-month,UPI,62,8,70.15,0,12,No
+CU02694,Female,Month-to-month,Card,42,9,105.29,4,7,No
+CU02695,Male,Month-to-month,UPI,5,9,83.68,0,92,No
+CU02696,Male,One year,UPI,28,7,84.2,2,106,No
+CU02697,Male,Two year,UPI,24,9,91.36,2,33,No
+CU02698,Female,One year,UPI,48,7,70.14,1,28,No
+CU02699,Female,Two year,Bank transfer,16,6,65.59,2,54,No
+CU02700,Female,Two year,UPI,56,8,43.52,2,83,No
+CU02701,Male,Month-to-month,Bank transfer,18,7,84.7,0,1,No
+CU02702,Male,Month-to-month,Card,45,6,71.93,3,75,No
+CU02703,Female,One year,Cash,22,4,47.79,1,13,No
+CU02704,Female,Two year,Bank transfer,18,4,57.13,2,61,Yes
+CU02705,Female,Two year,Card,51,5,36.84,2,61,No
+CU02706,Female,One year,Bank transfer,67,6,78.13,1,7,No
+CU02707,Female,Month-to-month,UPI,57,4,103.62,3,5,No
+CU02708,Female,One year,UPI,37,8,36.76,1,90,Yes
+CU02709,Male,One year,Bank transfer,65,8,91.13,1,53,No
+CU02710,Female,Two year,UPI,59,3,95.23,1,76,Yes
+CU02711,Male,One year,Cash,66,7,35.93,2,27,No
+CU02712,Male,Month-to-month,UPI,1,11,15.0,3,36,Yes
+CU02713,Male,One year,Cash,58,6,66.57,0,48,No
+CU02714,Female,Month-to-month,Card,37,7,60.66,1,99,No
+CU02715,Male,Month-to-month,Card,50,3,59.49,0,63,No
+CU02716,Male,One year,Cash,67,6,93.17,2,145,No
+CU02717,Female,Two year,Bank transfer,37,4,56.2,1,132,No
+CU02718,Female,One year,Card,49,6,125.48,1,139,Yes
+CU02719,Male,Month-to-month,UPI,70,12,26.61,0,19,No
+CU02720,Female,Month-to-month,UPI,9,10,43.32,1,133,No
+CU02721,Male,Month-to-month,Cash,53,6,43.19,1,2,No
+CU02722,Female,One year,Bank transfer,51,9,60.32,0,112,No
+CU02723,Male,One year,Card,14,9,100.51,1,78,Yes
+CU02724,Male,Month-to-month,Bank transfer,2,3,37.08,0,120,No
+CU02725,Male,Month-to-month,Cash,45,5,42.41,0,69,No
+CU02726,Male,One year,Cash,27,8,49.13,2,106,No
+CU02727,Female,Month-to-month,Card,23,11,62.76,0,49,Yes
+CU02728,Female,One year,UPI,17,7,,0,61,No
+CU02729,Male,Two year,Card,39,9,55.24,1,137,No
+CU02730,Male,Month-to-month,Bank transfer,18,7,32.78,1,28,Yes
+CU02731,Male,Month-to-month,UPI,6,7,62.57,2,91,Yes
+CU02732,Male,One year,Cash,3,6,100.84,1,113,Yes
+CU02733,Male,Month-to-month,Card,19,4,87.89,1,30,No
+CU02734,Male,Month-to-month,Card,44,5,53.58,1,92,No
+CU02735,Male,Two year,Bank transfer,38,14,66.79,1,80,No
+CU02736,Male,Month-to-month,UPI,53,4,77.48,3,121,Yes
+CU02737,Male,Two year,Bank transfer,43,5,87.12,2,98,No
+CU02738,Male,Month-to-month,Card,21,3,103.36,0,143,Yes
+CU02739,Female,Month-to-month,Cash,66,10,71.72,3,81,Yes
+CU02740,Male,Month-to-month,Card,42,6,35.69,0,59,No
+CU02741,Female,One year,UPI,44,6,26.74,0,86,No
+CU02742,Male,Two year,Card,36,6,80.07,2,135,Yes
+CU02743,Male,Month-to-month,Bank transfer,31,5,28.81,2,1,No
+CU02744,Female,Two year,Card,71,7,85.39,0,10,Yes
+CU02745,Male,One year,UPI,28,8,50.09,3,23,No
+CU02746,Female,Two year,Bank transfer,58,10,34.62,0,38,No
+CU02747,Female,One year,UPI,6,6,77.83,3,89,Yes
+CU02748,Male,One year,Cash,68,10,39.43,1,70,No
+CU02749,Female,Two year,UPI,54,9,76.8,1,86,No
+CU02750,Female,One year,Cash,59,4,69.57,1,140,No
+CU02751,Female,Two year,Bank transfer,23,10,17.46,1,2,No
+CU02752,Female,Month-to-month,Cash,47,6,100.4,2,145,Yes
+CU02753,Male,Month-to-month,Card,54,9,97.34,5,45,No
+CU02754,Male,One year,Cash,6,9,88.79,0,76,No
+CU02755,Male,Month-to-month,Cash,47,5,89.32,1,24,Yes
+CU02756,Female,Month-to-month,Bank transfer,61,6,46.78,5,87,No
+CU02757,Female,Two year,Cash,61,8,93.98,0,35,No
+CU02758,Female,One year,UPI,55,5,83.95,2,67,No
+CU02759,Male,Two year,UPI,64,9,15.0,0,32,No
+CU02760,Male,Month-to-month,UPI,21,7,40.86,1,133,Yes
+CU02761,Female,Month-to-month,Bank transfer,49,5,46.05,2,92,Yes
+CU02762,Male,Month-to-month,Cash,20,6,101.94,1,128,Yes
+CU02763,Female,Two year,Card,62,6,40.85,0,138,No
+CU02764,Female,Month-to-month,Bank transfer,38,4,50.33,3,37,Yes
+CU02765,Male,Two year,UPI,59,7,32.9,3,71,No
+CU02766,Male,Month-to-month,Bank transfer,21,2,53.06,0,10,Yes
+CU02767,Female,Month-to-month,UPI,22,1,90.86,1,146,Yes
+CU02768,Female,One year,Card,69,8,29.42,3,10,No
+CU02769,Female,One year,Cash,65,8,76.8,3,23,No
+CU02770,Male,Month-to-month,Cash,14,3,43.08,0,135,Yes
+CU02771,Male,Month-to-month,Cash,28,5,112.09,3,59,Yes
+CU02772,Male,Month-to-month,Bank transfer,11,5,67.87,0,109,No
+CU02773,Female,Two year,UPI,46,3,62.9,0,95,No
+CU02774,Female,Month-to-month,Bank transfer,4,5,50.48,2,25,Yes
+CU02775,Female,Month-to-month,Cash,2,9,70.37,0,97,Yes
+CU02776,Female,Month-to-month,Cash,40,10,28.23,0,105,No
+CU02777,Male,Month-to-month,Bank transfer,64,6,67.43,1,17,No
+CU02778,Female,Two year,Card,53,4,50.33,1,61,No
+CU02779,Male,One year,Card,50,3,49.25,1,16,No
+CU02780,Female,Two year,Card,42,6,116.49,2,87,Yes
+CU02781,Female,One year,Bank transfer,13,8,100.1,1,13,No
+CU02782,Female,Month-to-month,Cash,15,4,101.51,0,89,Yes
+CU02783,Female,One year,Bank transfer,44,6,86.26,2,110,Yes
+CU02784,Male,Two year,Card,66,6,75.2,3,102,No
+CU02785,Female,Month-to-month,Card,4,3,101.69,2,10,Yes
+CU02786,Female,Month-to-month,Card,27,5,73.2,0,42,No
+CU02787,Male,Month-to-month,UPI,14,7,80.46,2,134,Yes
+CU02788,Female,Two year,Cash,10,6,99.67,0,138,Yes
+CU02789,Male,Month-to-month,Card,26,7,85.4,5,17,Yes
+CU02790,Female,Month-to-month,UPI,14,5,76.09,1,131,Yes
+CU02791,Female,One year,UPI,18,4,84.89,1,15,No
+CU02792,Female,One year,Cash,32,6,67.78,1,1,No
+CU02793,Female,Month-to-month,Bank transfer,53,8,77.7,1,19,No
+CU02794,Female,Month-to-month,Cash,39,5,80.1,1,102,Yes
+CU02795,Male,One year,Cash,39,8,34.14,1,149,No
+CU02796,Male,Month-to-month,Card,43,5,46.59,0,81,Yes
+CU02797,Female,Month-to-month,Bank transfer,17,5,83.2,1,30,Yes
+CU02798,Male,Month-to-month,Card,6,8,68.3,1,76,No
+CU02799,Female,One year,Bank transfer,3,3,64.56,1,67,No
+CU02800,Female,Month-to-month,Card,62,10,72.34,2,16,Yes
+CU02801,Male,One year,Bank transfer,63,8,15.43,0,54,No
+CU02802,Male,Month-to-month,UPI,24,8,60.76,1,80,Yes
+CU02803,Female,Month-to-month,Bank transfer,56,4,60.98,2,112,Yes
+CU02804,Male,One year,Card,19,6,69.5,2,110,Yes
+CU02805,Female,Month-to-month,UPI,22,7,86.37,2,25,Yes
+CU02806,Male,Month-to-month,Cash,49,10,55.87,4,2,No
+CU02807,Male,Two year,Bank transfer,66,7,98.61,0,142,No
+CU02808,Male,Two year,Cash,44,4,40.66,2,63,No
+CU02809,Male,One year,Cash,69,6,82.34,1,53,No
+CU02810,Male,One year,UPI,71,7,52.02,4,93,No
+CU02811,Female,One year,UPI,3,5,94.2,2,36,No
+CU02812,Male,Month-to-month,UPI,30,6,70.52,4,22,Yes
+CU02813,Male,Month-to-month,UPI,34,7,34.85,5,85,No
+CU02814,Male,One year,UPI,14,4,67.58,4,148,No
+CU02815,Female,One year,Card,16,3,75.01,1,60,No
+CU02816,Female,Month-to-month,Cash,70,9,70.64,0,103,No
+CU02817,Female,Two year,Card,13,5,73.22,5,66,Yes
+CU02818,Female,Month-to-month,Card,35,5,59.38,0,102,Yes
+CU02819,Male,Month-to-month,Card,35,4,51.02,3,107,Yes
+CU02820,Male,Month-to-month,Card,47,7,23.9,0,67,No
+CU02821,Male,One year,Bank transfer,39,4,79.57,0,69,No
+CU02822,Male,Month-to-month,UPI,4,3,77.69,2,12,No
+CU02823,Female,Month-to-month,Card,33,4,112.75,0,119,Yes
+CU02824,Male,One year,Bank transfer,24,5,63.96,1,135,Yes
+CU02825,Male,One year,UPI,10,2,71.94,4,1,Yes
+CU02826,Female,Month-to-month,Bank transfer,71,4,68.77,0,8,No
+CU02827,Male,One year,Card,39,8,86.66,2,97,No
+CU02828,Female,Two year,Cash,69,5,52.14,2,116,No
+CU02829,Female,Month-to-month,Card,66,6,68.77,2,80,No
+CU02830,Male,One year,Card,70,5,65.68,0,25,No
+CU02831,Male,Month-to-month,UPI,17,4,83.59,1,104,Yes
+CU02832,Female,Month-to-month,UPI,59,5,120.54,0,107,No
+CU02833,Male,Month-to-month,Cash,3,5,73.27,2,79,No
+CU02834,Male,Two year,UPI,36,6,28.88,2,73,No
+CU02835,Female,Month-to-month,Bank transfer,62,12,35.7,0,78,Yes
+CU02836,Male,Two year,Card,41,11,91.38,0,68,No
+CU02837,Female,Month-to-month,Bank transfer,15,14,23.4,2,123,Yes
+CU02838,Female,Month-to-month,Cash,6,5,72.91,3,149,Yes
+CU02839,Male,Month-to-month,Bank transfer,33,5,46.73,1,107,Yes
+CU02840,Male,Month-to-month,UPI,57,9,132.45,4,149,Yes
+CU02841,Female,Month-to-month,Bank transfer,66,7,34.69,2,131,No
+CU02842,Female,Month-to-month,Bank transfer,54,12,48.45,3,8,No
+CU02843,Female,One year,UPI,32,8,84.53,1,62,Yes
+CU02844,Male,One year,UPI,51,5,59.2,1,134,Yes
+CU02845,Female,Two year,Cash,56,2,47.02,1,64,Yes
+CU02846,Female,Month-to-month,UPI,28,9,40.86,2,0,Yes
+CU02847,Male,One year,Cash,19,7,48.58,1,11,No
+CU02848,Female,Month-to-month,Card,19,10,42.34,4,90,Yes
+CU02849,Male,Month-to-month,UPI,53,4,64.68,2,130,No
+CU02850,Female,Month-to-month,Cash,58,7,113.13,1,123,Yes
+CU02851,Female,Two year,Card,14,8,116.56,4,133,Yes
+CU02852,Female,Month-to-month,Card,70,6,116.13,0,48,No
+CU02853,Female,Month-to-month,Bank transfer,2,6,61.75,1,140,Yes
+CU02854,Female,Month-to-month,Bank transfer,31,4,82.9,1,105,Yes
+CU02855,Male,Month-to-month,UPI,35,7,68.17,3,30,Yes
+CU02856,Female,Month-to-month,Cash,4,13,44.49,4,90,Yes
+CU02857,Male,One year,UPI,52,7,19.89,4,2,No
+CU02858,Male,One year,UPI,64,4,20.95,6,68,No
+CU02859,Male,Month-to-month,UPI,17,5,68.88,1,36,Yes
+CU02860,Male,Month-to-month,UPI,49,7,30.91,2,127,No
+CU02861,Female,Month-to-month,Bank transfer,68,7,45.11,2,22,No
+CU02862,Male,Month-to-month,Bank transfer,48,8,74.22,2,102,Yes
+CU02863,Female,Month-to-month,UPI,33,10,15.0,0,78,No
+CU02864,Female,Month-to-month,UPI,68,4,101.7,0,119,Yes
+CU02865,Male,Month-to-month,Bank transfer,29,5,66.32,0,39,No
+CU02866,Male,Month-to-month,Card,48,5,55.59,0,11,Yes
+CU02867,Female,One year,Card,55,7,49.04,3,99,No
+CU02868,Female,One year,Card,44,5,76.82,2,31,No
+CU02869,Male,Month-to-month,UPI,23,3,40.88,0,109,No
+CU02870,Female,Month-to-month,Card,51,4,98.02,2,89,Yes
+CU02871,Female,One year,Bank transfer,22,5,86.69,1,65,Yes
+CU02872,Male,Month-to-month,UPI,35,2,46.89,1,123,Yes
+CU02873,Female,Two year,Card,39,5,60.1,2,31,No
+CU02874,Female,One year,Bank transfer,21,11,95.32,0,115,No
+CU02875,Male,One year,Cash,55,4,75.14,2,98,Yes
+CU02876,Female,Month-to-month,Card,18,9,59.34,1,70,Yes
+CU02877,Female,Month-to-month,Card,12,7,46.39,2,79,Yes
+CU02878,Male,Month-to-month,Cash,52,5,62.19,3,123,Yes
+CU02879,Male,Month-to-month,Cash,63,6,54.66,3,59,No
+CU02880,Female,Two year,UPI,18,4,72.73,4,132,No
+CU02881,Female,Two year,UPI,37,5,57.15,2,147,Yes
+CU02882,Male,Two year,Bank transfer,67,4,40.81,2,88,No
+CU02883,Female,Month-to-month,Bank transfer,27,6,92.44,2,70,No
+CU02884,Male,Two year,UPI,29,1,78.59,4,22,No
+CU02885,Male,One year,Cash,50,6,40.06,1,59,No
+CU02886,Male,Month-to-month,Bank transfer,45,13,50.26,1,90,Yes
+CU02887,Female,Two year,UPI,9,4,82.75,1,47,No
+CU02888,Male,Two year,Cash,4,3,44.03,2,47,Yes
+CU02889,Female,Month-to-month,Card,26,6,60.75,2,8,No
+CU02890,Male,One year,Card,32,4,57.73,2,53,No
+CU02891,Female,One year,UPI,44,4,46.92,3,49,No
+CU02892,Female,One year,Cash,29,3,38.46,1,134,No
+CU02893,Female,Month-to-month,Bank transfer,10,4,63.63,3,10,Yes
+CU02894,Female,Month-to-month,Bank transfer,54,8,,5,147,Yes
+CU02895,Male,Two year,Bank transfer,31,8,50.09,2,91,Yes
+CU02896,Male,Month-to-month,Bank transfer,4,8,86.24,2,106,Yes
+CU02897,Male,Month-to-month,Cash,43,3,47.07,2,101,No
+CU02898,Male,Month-to-month,Bank transfer,29,6,76.43,0,47,Yes
+CU02899,Female,Month-to-month,UPI,39,4,88.93,0,110,No
+CU02900,Female,Month-to-month,Card,61,5,62.32,1,41,No
+CU02901,Female,Month-to-month,Card,14,6,77.75,2,42,Yes
+CU02902,Male,Two year,UPI,48,2,43.58,1,6,No
+CU02903,Female,Month-to-month,Bank transfer,9,6,83.53,1,142,Yes
+CU02904,Female,Two year,Card,56,8,81.13,1,8,No
+CU02905,Female,Two year,Card,26,8,101.37,1,62,No
+CU02906,Male,Month-to-month,Bank transfer,55,6,94.3,1,11,No
+CU02907,Female,Month-to-month,Card,3,5,71.61,1,145,Yes
+CU02908,Male,Month-to-month,Cash,47,5,134.01,0,101,Yes
+CU02909,Female,Two year,Cash,18,9,87.09,4,86,Yes
+CU02910,Male,One year,UPI,28,4,96.82,2,28,Yes
+CU02911,Female,Two year,Cash,17,9,53.47,1,136,Yes
+CU02912,Female,Two year,Card,29,7,55.78,2,12,No
+CU02913,Female,Month-to-month,Card,57,2,66.81,2,64,No
+CU02914,Female,Two year,Bank transfer,4,7,39.94,1,148,Yes
+CU02915,Male,One year,Cash,43,5,65.95,3,55,No
+CU02916,Female,Month-to-month,UPI,14,5,64.02,3,107,Yes
+CU02917,Female,Two year,Card,29,7,92.36,3,6,Yes
+CU02918,Male,One year,Cash,40,2,94.18,1,90,Yes
+CU02919,Female,Month-to-month,UPI,7,7,68.03,1,99,Yes
+CU02920,Female,Month-to-month,UPI,64,6,,1,82,No
+CU02921,Male,One year,UPI,49,2,109.76,3,85,Yes
+CU02922,Male,One year,Cash,44,9,26.99,4,143,Yes
+CU02923,Male,Month-to-month,Card,67,2,26.21,1,109,Yes
+CU02924,Male,Month-to-month,UPI,28,6,77.02,2,92,Yes
+CU02925,Female,Month-to-month,Card,10,5,63.27,0,15,Yes
+CU02926,Male,One year,Card,60,3,57.32,2,5,Yes
+CU02927,Male,One year,Cash,46,5,19.27,1,0,No
+CU02928,Male,Two year,Bank transfer,32,9,,0,88,No
+CU02929,Female,Month-to-month,Card,7,10,101.95,1,83,Yes
+CU02930,Male,Month-to-month,Card,19,5,97.69,2,64,Yes
+CU02931,Male,Month-to-month,UPI,42,6,84.77,0,104,Yes
+CU02932,Female,Two year,Cash,6,8,44.6,1,149,No
+CU02933,Male,Month-to-month,Bank transfer,39,11,56.67,2,40,No
+CU02934,Male,Month-to-month,Cash,59,7,54.94,0,72,No
+CU02935,Female,Month-to-month,Bank transfer,32,7,48.08,0,6,Yes
+CU02936,Female,Month-to-month,Bank transfer,44,4,51.4,0,117,No
+CU02937,Female,One year,Cash,16,8,62.48,0,3,No
+CU02938,Female,Month-to-month,Card,42,4,28.11,5,122,Yes
+CU02939,Male,One year,Card,13,5,94.52,0,113,No
+CU02940,Female,Month-to-month,Card,52,8,61.61,0,7,No
+CU02941,Male,Month-to-month,Bank transfer,38,6,52.45,0,149,Yes
+CU02942,Female,One year,Bank transfer,43,3,25.59,0,144,No
+CU02943,Male,Month-to-month,Bank transfer,23,4,84.57,0,55,Yes
+CU02944,Female,Month-to-month,Card,25,8,38.95,2,77,No
+CU02945,Male,Month-to-month,Bank transfer,47,6,77.05,1,117,No
+CU02946,Male,One year,Bank transfer,44,7,42.98,0,124,No
+CU02947,Female,One year,Cash,50,6,67.85,4,2,No
+CU02948,Male,Month-to-month,Cash,10,7,32.94,3,96,Yes
+CU02949,Female,One year,Card,14,4,60.74,2,23,No
+CU02950,Female,Month-to-month,Cash,22,9,63.06,1,67,Yes
+CU02951,Male,Two year,Card,28,9,69.04,3,141,Yes
+CU02952,Male,One year,Card,39,4,,1,41,No
+CU02953,Male,Month-to-month,Card,37,12,77.91,1,75,Yes
+CU02954,Male,Two year,Bank transfer,5,6,104.08,2,28,No
+CU02955,Female,Month-to-month,Cash,3,7,29.24,0,144,Yes
+CU02956,Male,Month-to-month,Card,59,7,117.28,0,106,Yes
+CU02957,Male,Month-to-month,Cash,42,11,88.5,3,29,No
+CU02958,Female,One year,UPI,4,6,53.94,1,11,No
+CU02959,Female,Month-to-month,UPI,61,3,89.73,2,114,Yes
+CU02960,Female,Month-to-month,UPI,27,4,109.16,3,36,Yes
+CU02961,Female,Two year,Card,48,5,92.81,1,118,Yes
+CU02962,Female,Two year,UPI,33,2,40.31,2,78,No
+CU02963,Male,Two year,Bank transfer,14,4,66.03,1,133,No
+CU02964,Male,Month-to-month,Bank transfer,49,7,83.87,1,32,Yes
+CU02965,Female,One year,Bank transfer,26,7,64.21,3,43,No
+CU02966,Female,Month-to-month,Cash,11,5,76.0,1,82,Yes
+CU02967,Male,Month-to-month,Bank transfer,16,3,77.74,2,136,Yes
+CU02968,Female,Month-to-month,Card,59,2,40.34,2,54,Yes
+CU02969,Male,Two year,UPI,37,8,96.47,4,91,No
+CU02970,Male,Month-to-month,Bank transfer,31,8,67.29,2,40,Yes
+CU02971,Male,Month-to-month,Bank transfer,56,4,63.88,3,100,No
+CU02972,Male,Month-to-month,Card,18,5,42.51,0,107,No
+CU02973,Male,One year,Bank transfer,11,9,58.95,0,13,No
+CU02974,Female,One year,UPI,7,9,88.42,2,36,No
+CU02975,Male,Month-to-month,Card,8,9,70.99,1,75,Yes
+CU02976,Male,One year,Cash,66,6,82.69,2,29,No
+CU02977,Male,Month-to-month,UPI,64,9,64.15,2,32,Yes
+CU02978,Female,Month-to-month,Card,29,6,67.2,1,25,No
+CU02979,Female,Month-to-month,Cash,34,11,23.96,2,101,No
+CU02980,Male,Month-to-month,Card,28,10,74.78,3,30,Yes
+CU02981,Female,Two year,Card,39,11,60.13,2,147,Yes
+CU02982,Female,One year,UPI,13,12,72.93,1,1,Yes
+CU02983,Female,Month-to-month,Bank transfer,47,6,15.0,2,45,No
+CU02984,Female,Two year,UPI,36,11,128.33,3,107,No
+CU02985,Female,One year,UPI,65,5,66.84,0,68,No
+CU02986,Male,Month-to-month,UPI,23,4,76.54,1,84,Yes
+CU02987,Male,Two year,Cash,55,8,74.68,3,8,No
+CU02988,Male,One year,Bank transfer,12,8,57.1,1,7,No
+CU02989,Female,One year,UPI,7,7,75.54,2,27,No
+CU02990,Female,Month-to-month,Bank transfer,54,4,94.68,2,72,No
+CU02991,Male,Month-to-month,UPI,64,3,69.46,0,77,Yes
+CU02992,Female,Two year,Bank transfer,64,6,86.46,0,125,No
+CU02993,Female,One year,Bank transfer,5,6,84.23,4,17,No
+CU02994,Male,Two year,Bank transfer,26,8,82.66,1,71,No
+CU02995,Female,One year,UPI,34,7,111.27,3,54,No
+CU02996,Male,Two year,Bank transfer,21,4,73.82,1,149,Yes
+CU02997,Male,Month-to-month,Card,22,8,63.08,2,141,Yes
+CU02998,Female,Month-to-month,UPI,27,4,63.94,0,15,Yes
+CU02999,Male,Month-to-month,Card,2,9,75.21,2,99,Yes
+CU03000,Female,Month-to-month,Card,66,9,31.19,2,92,No
